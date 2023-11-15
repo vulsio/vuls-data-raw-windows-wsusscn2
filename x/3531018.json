@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Low",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS10-001"
+  },
+  "kbarticleid": {
+    "text": "972270"
+  },
+  "uninstallationbehavior": {}
+}

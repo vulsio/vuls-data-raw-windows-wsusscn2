@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS12-060"
+  },
+  "kbarticleid": {
+    "text": "2726929"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2010-0000"
+    }
+  ]
+}

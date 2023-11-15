@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Excel 2002 (KB936513)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Excel 2002 that could allow remote code execution. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft SQL Server 2005 Express Edition Service Pack 2 (KB 921896)"
+  },
+  "description": {
+    "text": "This service pack upgrades all Microsoft SQL Server 2005 Express Edition instances and components to Service Pack 2 (SP2). If you need additional installation options, you should download this service pack at the Microsoft Download Center. For more information, see Microsoft Knowledge Base article 921896."
+  }
+}

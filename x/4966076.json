@@ -1,0 +1,20 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ko"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+  },
+  "securitybulletinid": {
+    "text": "MS06-009"
+  },
+  "kbarticleid": {
+    "text": "905645"
+  },
+  "uninstallationbehavior": {}
+}

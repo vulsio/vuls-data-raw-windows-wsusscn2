@@ -1,0 +1,25 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://aka.ms/vs/wsus/feedback"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4576339"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2021-34532"
+    },
+    {
+      "text": "CVE-2021-34482"
+    },
+    {
+      "text": "CVE-2021-26423"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office 2003 Proofing Tools (KB905645)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office 2003 Korean IME that could allow for elevation of privilege. This update addresses that vulnerability when Office 2003 is used with the Proofing Tools installed."
+  }
+}

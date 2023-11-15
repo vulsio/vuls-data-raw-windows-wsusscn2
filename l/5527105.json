@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Visual Studio 2010 Service Pack 1 (KB2645410)"
+  },
+  "description": {
+    "text": "A security issue has been identified leading to a vulnerability with add-ins on your Windows-based system running Microsoft Visual Studio 2010 Service Pack 1. You can help protect your computer by installing this update from Microsoft.  After you install this item, you may have to restart."
+  }
+}

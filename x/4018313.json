@@ -1,0 +1,51 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS10-062"
+  },
+  "kbarticleid": {
+    "text": "975558"
+  },
+  "uninstallationbehavior": {}
+}

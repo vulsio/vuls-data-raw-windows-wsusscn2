@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2013 CU6 (KB3011140)"
+  },
+  "description": {
+    "text": "The security update addresses the vulnerabilities by ensuring that Outlook Web Access properly validates request tokens and by ensuring that URLs are properly sanitized."
+  }
+}

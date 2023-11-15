@@ -1,0 +1,46 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "browseonly": "true",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "ru"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "2463332"
+  },
+  "uninstallationbehavior": {}
+}

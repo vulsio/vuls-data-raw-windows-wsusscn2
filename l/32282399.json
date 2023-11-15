@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Access 2013 (KB4484366) 64-Bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Access 2013 64-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

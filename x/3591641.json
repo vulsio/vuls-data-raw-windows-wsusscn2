@@ -1,0 +1,30 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "ja"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS10-013"
+  },
+  "kbarticleid": {
+    "text": "975560"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update for System Center Virtual Machine Manager 2008 R2 (KB2492980)"
+  },
+  "description": {
+    "text": "This update resolves multiple issues including V2V, P2V, networking, cluster migration, and PRO issues, as described in KB article 2492980."
+  }
+}

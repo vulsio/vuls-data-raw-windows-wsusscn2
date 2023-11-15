@@ -1,0 +1,36 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "ja"
+    }
+  ],
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkId=77501"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "924406"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS14-066"
+  },
+  "kbarticleid": {
+    "text": "2992611"
+  },
+  "uninstallationbehavior": {}
+}

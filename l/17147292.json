@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows Server 2003 (KB3050995)"
+  },
+  "description": {
+    "text": "Install this update to resolve an issue which requires an update to the untrusted certificate store on Windows systems and to keep your systems up to date. After you install this update, you may have to restart your system."
+  }
+}

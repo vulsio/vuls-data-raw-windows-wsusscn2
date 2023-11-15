@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Japanese Systems Management Servers Service Pack 2"
+  },
+  "description": {
+    "text": "Microsoft Systems Management Server (SMS) 2003 Service Pack 2 (SP2) は、主に SMS 2003 のさまざまな修正のロールアップですが、サポートされる構成に対する変更を導入し、許可される構成の拡張も行います。SMS 2003 SP2 には、ユーザビリティ、セキュリティ、およびパフォーマンスについての強化された改善点も含まれています。 \n\n重要 : サイトを SMS 2003 SP2 にアップグレードした後に、Microsoft 更新プログラム用インベントリ ツールをインストールする場合、SP2 用に設計されたバージョンを使用する必要があります。そのバージョンは SP2 に含まれていますが、既定ではインストールされません。次のリンクから個別にダウンロードすることもできます。 \n"
+  }
+}

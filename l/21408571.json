@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft SQL Server 2008 Service Pack 4 (KB2979596)"
+  },
+  "description": {
+    "text": "Service Pack 4 for Microsoft SQL Server 2008 upgraded all Microsoft SQL Server 2008 instances and components installed through the SQL Server setup.  Service Pack 4 can upgrade all editions of Microsoft SQL Server 2008 to Service Pack 4 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 4 Microsoft SQL Server 2008. To learn more about Microsoft SQL Server 2008 SP4 please visit the Microsoft Support (http://support.microsoft.com) Knowledge Base article KB 2979596."
+  }
+}

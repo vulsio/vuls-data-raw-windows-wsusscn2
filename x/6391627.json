@@ -1,0 +1,30 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS12-081"
+  },
+  "kbarticleid": {
+    "text": "2758857"
+  },
+  "uninstallationbehavior": {}
+}

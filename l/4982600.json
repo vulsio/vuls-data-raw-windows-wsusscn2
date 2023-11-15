@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office SharePoint Server 2007 (KB2553003), 32-bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office SharePoint Server 2007 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

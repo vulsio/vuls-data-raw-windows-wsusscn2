@@ -1,0 +1,48 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "nl"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS07-040"
+  },
+  "kbarticleid": {
+    "text": "930494"
+  },
+  "uninstallationbehavior": {}
+}

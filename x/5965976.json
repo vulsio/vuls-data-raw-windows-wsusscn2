@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/2754670"
+  },
+  "securitybulletinid": {
+    "text": "MS12-065"
+  },
+  "kbarticleid": {
+    "text": "2754670"
+  },
+  "uninstallationbehavior": {}
+}

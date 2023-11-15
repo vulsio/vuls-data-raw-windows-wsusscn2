@@ -1,0 +1,72 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "tr"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS12-006"
+  },
+  "kbarticleid": {
+    "text": "2638806"
+  },
+  "uninstallationbehavior": {}
+}

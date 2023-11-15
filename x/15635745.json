@@ -1,0 +1,72 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "zh-cn"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS14-065"
+  },
+  "kbarticleid": {
+    "text": "3003057"
+  },
+  "uninstallationbehavior": {}
+}

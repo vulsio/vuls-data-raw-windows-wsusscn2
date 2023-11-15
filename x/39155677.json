@@ -1,0 +1,40 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5027798"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-24936"
+    },
+    {
+      "text": "CVE-2023-24895"
+    },
+    {
+      "text": "CVE-2023-32032"
+    },
+    {
+      "text": "CVE-2023-29331"
+    },
+    {
+      "text": "CVE-2023-33126"
+    },
+    {
+      "text": "CVE-2023-33128"
+    },
+    {
+      "text": "CVE-2023-33135"
+    }
+  ]
+}

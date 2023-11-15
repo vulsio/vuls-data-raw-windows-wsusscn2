@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft .NET Framework, Version 2.0 (KB922770)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system running the Microsoft .NET Framework and gain access to restricted data. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

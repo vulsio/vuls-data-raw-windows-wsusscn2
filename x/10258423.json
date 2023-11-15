@@ -1,0 +1,51 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "ko"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS13-099"
+  },
+  "kbarticleid": {
+    "text": "2892075"
+  },
+  "uninstallationbehavior": {}
+}

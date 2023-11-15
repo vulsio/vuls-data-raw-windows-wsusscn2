@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://www.microsoft.com/uc/default.mspx"
+  },
+  "securitybulletinid": {
+    "text": "MS16-039"
+  },
+  "kbarticleid": {
+    "text": "3144427"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2016-0145"
+    }
+  ]
+}

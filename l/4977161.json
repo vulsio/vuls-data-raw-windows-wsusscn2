@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office XP (KB934705)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office XP that could allow remote code execution. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://www.microsoft.com/uc/default.mspx"
+  },
+  "securitybulletinid": {
+    "text": "MS13-054"
+  },
+  "kbarticleid": {
+    "text": "2843163"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2013-3129"
+    }
+  ]
+}

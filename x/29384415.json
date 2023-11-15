@@ -1,0 +1,18 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4505224"
+  },
+  "uninstallationbehavior": {}
+}

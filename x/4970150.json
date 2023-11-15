@@ -1,0 +1,18 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    }
+  ],
+  "supporturl": {
+    "text": "http://www.microsoft.com/smserver/evaluation/2003/sp2.mspx"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "899738"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,30 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "fr"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS12-043"
+  },
+  "kbarticleid": {
+    "text": "2719985"
+  },
+  "uninstallationbehavior": {}
+}

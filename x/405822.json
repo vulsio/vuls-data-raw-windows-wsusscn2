@@ -1,0 +1,28 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "917275"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,72 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "fr"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "zh-cn"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS14-016"
+  },
+  "kbarticleid": {
+    "text": "2923392"
+  },
+  "uninstallationbehavior": {}
+}

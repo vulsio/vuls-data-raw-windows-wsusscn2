@@ -1,0 +1,20 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS14-001"
+  },
+  "kbarticleid": {
+    "text": "2863834"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2010-0000"
+    }
+  ]
+}

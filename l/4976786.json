@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office 2003 (KB934180)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office 2003 that could allow remote code execution. This update resolves that vulnerability."
+  }
+}

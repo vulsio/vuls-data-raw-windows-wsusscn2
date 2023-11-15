@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Windows Storage Server 2008 R2 Essentials (KB2705122)"
+  },
+  "description": {
+    "text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this cumulative update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+  }
+}

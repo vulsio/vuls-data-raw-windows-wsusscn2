@@ -1,0 +1,31 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/4562053"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4562053"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2020-1202"
+    },
+    {
+      "text": "CVE-2020-1203"
+    },
+    {
+      "text": "CVE-2020-1257"
+    },
+    {
+      "text": "CVE-2020-1278"
+    },
+    {
+      "text": "CVE-2020-1293"
+    }
+  ]
+}

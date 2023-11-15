@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office XP (KB914796)"
+  },
+  "description": {
+    "text": "A vulnerability exists in Microsoft Office XP that could allow an attacker to run arbitrary code on a user’s system. This update resolves that vulnerability. "
+  }
+}

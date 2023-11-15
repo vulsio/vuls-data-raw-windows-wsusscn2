@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Word Viewer (KB3114773)  "
+  },
+  "description": {
+    "text": "A security vulnerability exists in Word Viewer  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Skype for Business 2016 (KB4022221) 64-Bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Skype for Business 2016 64-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

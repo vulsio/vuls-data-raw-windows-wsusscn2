@@ -1,0 +1,18 @@
+{
+  "defaultpropertieslanguage": "en",
+  "browseonly": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "all"
+    }
+  ],
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkId=507417"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5025239"
+  },
+  "uninstallationbehavior": {}
+}

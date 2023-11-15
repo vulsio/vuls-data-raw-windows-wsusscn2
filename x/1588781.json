@@ -1,0 +1,24 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ja"
+    },
+    {
+      "text": "en"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS08-053"
+  },
+  "kbarticleid": {
+    "text": "954156"
+  },
+  "uninstallationbehavior": {}
+}

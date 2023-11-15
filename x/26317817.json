@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "maxdownloadsize": "0",
+  "mindownloadsize": "0",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/help/4088877"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4088877"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q326830: Security Update (Windows 2000)"
+  },
+  "description": {
+    "text": "This update resolves the \"Unchecked Buffer in Network Share Provider can lead to Denial of Service\" vulnerability in Windows 2000. Download now to help prevent a malicious user from launching a denial of service (DoS) attack on your computer."
+  }
+}

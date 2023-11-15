@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 5 for Exchange Server 2010 Service Pack 1 (KB2582113)"
+  },
+  "description": {
+    "text": "This update rollup resolves problems that were found in Exchange Server 2010 Service Pack 1 (SP1) since Exchange Server 2010 SP1 was released and replaces previously released update rollups for Exchange Server 2010 SP1."
+  }
+}

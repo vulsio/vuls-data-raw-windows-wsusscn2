@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows Server 2003 (KB948110)"
+  },
+  "description": {
+    "text": "A security issue has been identified in the Microsoft SQL Server 2000 Desktop Engine (WMSDE) that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it. The Microsoft SQL Server 2000 Desktop Engine (WMSDE) is used by Windows components, namely Windows SharePoint Services, Windows Server Update Services, Automated Deployment Services, Active Directory Migration Tool and UDDI Services. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

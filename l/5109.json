@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "329170: Security Update"
+  },
+  "description": {
+    "text": "A security vulnerability has been identified that could allow an attacker to disrupt a facility by which security settings are applied to Windows-based computers in a corporate network.  This could allow the attacker to loosen settings on his or her own computer or impose tighter ones on someone else's.  Network administrators can help eliminate this issue by installing this update. After you install this item, you may have to restart your computer."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "ko"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS14-068"
+  },
+  "kbarticleid": {
+    "text": "3011780"
+  },
+  "uninstallationbehavior": {}
+}

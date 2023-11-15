@@ -1,0 +1,72 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "zh-cn"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS13-102"
+  },
+  "kbarticleid": {
+    "text": "2898715"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2013 CU9 (KB3087126)"
+  },
+  "description": {
+    "text": "This security update resolves a vulnerability in Microsoft Exchange Server. The vulnerability could allow information disclosure if Outlook Web Access (OWA) fails to properly handle web server requests."
+  }
+}

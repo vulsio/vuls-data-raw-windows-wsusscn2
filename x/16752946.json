@@ -1,0 +1,51 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "ja"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS15-031"
+  },
+  "kbarticleid": {
+    "text": "3046049"
+  },
+  "uninstallationbehavior": {}
+}

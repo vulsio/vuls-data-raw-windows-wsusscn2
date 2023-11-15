@@ -1,0 +1,45 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "fr"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS07-042"
+  },
+  "kbarticleid": {
+    "text": "936181"
+  },
+  "uninstallationbehavior": {}
+}

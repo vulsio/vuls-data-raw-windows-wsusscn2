@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 14 for Exchange Server 2010 Service Pack 3 (KB3151097)"
+  },
+  "description": {
+    "text": "Microsoft is issuing this security update for Oracle binaries to help ensure that all customers using this third-party code in Microsoft Exchange are protected from these vulnerabilities."
+  }
+}

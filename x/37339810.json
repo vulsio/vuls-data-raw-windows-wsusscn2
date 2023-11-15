@@ -1,0 +1,28 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/5016316"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5016316"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2022-35826"
+    },
+    {
+      "text": "CVE-2022-35825"
+    },
+    {
+      "text": "CVE-2022-35777"
+    },
+    {
+      "text": "CVE-2022-35827"
+    }
+  ]
+}

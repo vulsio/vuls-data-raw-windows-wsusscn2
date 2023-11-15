@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Cumulative Security Update for Windows SharePoint Services 3.0 x64 Edition (KB934525)"
+  },
+  "description": {
+    "text": "A security issue has been identified in Windows SharePoint Services 3.0 that could allow an attacker to perform a cross-site scripting attack against users of a site. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
+  }
+}

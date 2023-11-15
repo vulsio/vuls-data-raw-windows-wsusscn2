@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup-1 Forefront Protection for Exchange Software Update KB2181692"
+  },
+  "description": {
+    "text": "Microsoft has released an Update Rollup for Forefront Protection for Exchange. This rollup includes all the fixes that are included in Forefront Protection for Exchange RTM.  After you install this item, you may have to restart your computer."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "ar"
+    },
+    {
+      "text": "el"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "fi"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "da"
+    },
+    {
+      "text": "he"
+    },
+    {
+      "text": "no"
+    },
+    {
+      "text": "ru"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/help/4089453"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4089453"
+  },
+  "uninstallationbehavior": {}
+}

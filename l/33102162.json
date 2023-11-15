@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office 2010 (KB4486698) 64-Bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office 2010 64-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

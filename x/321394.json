@@ -1,0 +1,24 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ja"
+    },
+    {
+      "text": "en"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS06-046"
+  },
+  "kbarticleid": {
+    "text": "922616"
+  },
+  "uninstallationbehavior": {}
+}

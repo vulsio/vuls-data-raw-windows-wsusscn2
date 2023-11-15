@@ -1,0 +1,19 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://blogs.technet.microsoft.com/servermanagement/"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4493552"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2019-0813"
+    }
+  ]
+}

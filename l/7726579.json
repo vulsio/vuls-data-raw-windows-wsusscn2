@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft InfoPath 2010 (KB2760406) 32-Bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft InfoPath 2010 32-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

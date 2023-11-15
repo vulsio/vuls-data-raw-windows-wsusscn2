@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 18 for Exchange Server 2010 Service Pack 3 (KB4018588)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to run programs and access data on a computer running Microsoft Exchange Server 2010. You can help protect your computer by installing this update from Microsoft."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Low",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS14-033"
+  },
+  "kbarticleid": {
+    "text": "2939576"
+  },
+  "uninstallationbehavior": {}
+}

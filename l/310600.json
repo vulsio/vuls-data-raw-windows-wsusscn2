@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security update for (Jscript Version 5.1) for Windows 2000 (KB917344)"
+  },
+  "description": {
+    "text": "A security issue has been identified in the Windows Script Host that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

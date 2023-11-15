@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft StreamInsight 1.1 (KB2452789)"
+  },
+  "description": {
+    "text": "This update is the Microsoft StreamInsight 1.1 release. It is installed side by side with your existing StreamInsight installation. It contains the SDK to develop applications and adapters, runtime libraries, the event flow debugger, and the documentation. Read the Installation and Programming Considerations sections of the documentation to understand how the side by side install works."
+  }
+}

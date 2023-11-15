@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2013 SP1 (KB3040856)"
+  },
+  "description": {
+    "text": "The security update addresses XSS vulnerabilities in Exchange Server 2013."
+  }
+}

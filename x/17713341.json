@@ -1,0 +1,72 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "pt-br"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS15-043"
+  },
+  "kbarticleid": {
+    "text": "3049563"
+  },
+  "uninstallationbehavior": {}
+}

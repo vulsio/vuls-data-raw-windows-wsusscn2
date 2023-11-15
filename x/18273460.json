@@ -1,0 +1,74 @@
+{
+  "defaultpropertieslanguage": "en",
+  "maxdownloadsize": "0",
+  "mindownloadsize": "0",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "pt-br"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS15-065"
+  },
+  "kbarticleid": {
+    "text": "3065822"
+  },
+  "uninstallationbehavior": {}
+}

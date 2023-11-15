@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "2020-05 Extended Security Updates (ESU) Licensing Preparation Package for Windows Embedded Standard 7 for x64-based Systems (KB4538483)"
+  },
+  "description": {
+    "text": "This update provides the complete set of licensing changes to enable installation of the ESU MAK add-on key, which is one of the steps to prepare for installation of Extended Security Updates. (For the full set of steps, please see KB4522133). A reboot is required after installing this update."
+  }
+}

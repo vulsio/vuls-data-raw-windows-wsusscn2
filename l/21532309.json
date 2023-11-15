@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft SQL Server 2012 Service Pack 3 (KB3072779)"
+  },
+  "description": {
+    "text": "Service Pack 3 for Microsoft SQL Server 2012 upgraded all Microsoft SQL Server 2012 instances and components installed through the SQL Server setup.  Service Pack 3 can upgrade all editions of Microsoft SQL Server 2012 to Service Pack 3 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 3 Microsoft SQL Server 2012. To learn more about Microsoft SQL Server 2012 SP3 please visit the Microsoft Support (http://support.microsoft.com) Knowledge Base article KB 3072779."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Publisher 2013 (KB3085561) 32-Bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Publisher 2013 32-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2019 CU4 (KB4540123)"
+  },
+  "description": {
+    "text": "A cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Exchange server. An authenticated attacker could exploit the vulnerability by sending a specially crafted request to an affected server."
+  }
+}

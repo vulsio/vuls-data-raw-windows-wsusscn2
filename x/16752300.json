@@ -1,0 +1,53 @@
+{
+  "defaultpropertieslanguage": "en",
+  "maxdownloadsize": "0",
+  "mindownloadsize": "0",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "zh-tw"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS15-023"
+  },
+  "kbarticleid": {
+    "text": "3034344"
+  },
+  "uninstallationbehavior": {}
+}

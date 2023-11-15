@@ -1,0 +1,20 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS16-088"
+  },
+  "kbarticleid": {
+    "text": "3115393"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2010-0000"
+    }
+  ]
+}

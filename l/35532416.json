@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2019 CU10 (KB5007409)"
+  },
+  "description": {
+    "text": "The security update addresses the vulnerabilities descripted in the CVEs."
+  }
+}

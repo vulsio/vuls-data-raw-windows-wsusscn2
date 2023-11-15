@@ -1,0 +1,20 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS15-070"
+  },
+  "kbarticleid": {
+    "text": "3054968"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2010-0000"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "nl"
+    }
+  ],
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkId=38776"
+  },
+  "securitybulletinid": {
+    "text": "MS05-004"
+  },
+  "kbarticleid": {
+    "text": "887998"
+  },
+  "uninstallationbehavior": {}
+}

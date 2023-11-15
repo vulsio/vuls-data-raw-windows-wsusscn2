@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for ISA Server 2006 Service Pack 1 (KB 971143)"
+  },
+  "description": {
+    "text": "When publishing a Web server using forms-based authentication with Radius  one-time password (OTP ) as the credentials authority and Kerberos constrained delegation, it may be possible to bypass the form authentication and log on using invalid credentials."
+  }
+}

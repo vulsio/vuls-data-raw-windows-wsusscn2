@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for SQL Server 2012 Service Pack 4 CU (KB4532098)"
+  },
+  "description": {
+    "text": "A remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker who successfully exploited this vulnerability could execute code in the context of the Report Server service account.\nTo exploit the vulnerability, an authenticated attacker would need to submit a specially crafted page request to an affected Reporting Services instance.\nThe security update addresses the vulnerability by modifying how the Microsoft SQL Server Reporting Services handles page requests."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft SQL Server 2008 Service Pack 1 (KB968369)"
+  },
+  "description": {
+    "text": "This service pack upgrades SQL Server 2008 to SQL Server 2008 Service Pack 1 (SP1). This service pack upgrades all SQL Server 2008 instances and all components installed by SQL Server 2008 Setup. This service pack upgrades all editions of SQL Server 2008. If you need additional installation options, you should download this service pack at the Microsoft Download Center. For more information, see Microsoft Knowledge Base article 968369."
+  }
+}

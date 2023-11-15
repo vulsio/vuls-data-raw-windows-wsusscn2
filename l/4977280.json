@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office 2003 (KB914455)"
+  },
+  "description": {
+    "text": "A vulnerability exists in Microsoft Office 2003, Microsoft Office Project 2003, and Microsoft Office OneNote 2003 that could allow an attacker to run arbitrary code on a user's system. This update resolves that vulnerability."
+  }
+}

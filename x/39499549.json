@@ -1,0 +1,25 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5029689"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2023-35390"
+    },
+    {
+      "text": "CVE-2023-38180"
+    },
+    {
+      "text": "CVE-2023-35391"
+    }
+  ]
+}

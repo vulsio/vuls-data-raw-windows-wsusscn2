@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Exchange 2000 Server (KB870540)"
+  },
+  "description": {
+    "text": "This update rollup resolves problems that were found in Exchange 2000 Server since Exchange 2000 Server SP3 was released."
+  }
+}

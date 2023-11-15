@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Outlook Express 6 Service Pack 1 (KB951066)"
+  },
+  "description": {
+    "text": "Security issues have been identified that could allow an attacker to compromise a system that is running Microsoft Outlook Express or Windows Mail and read data from another Internet Explorer domain or the local computer. You can help protect your system by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

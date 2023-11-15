@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft Visual Studio 2010 Service Pack 1"
+  },
+  "description": {
+    "text": "This download installs Visual Studio 2010 Service Pack 1 (SP1). This service pack release addresses issues that were found through a combination of customer and partner feedback, as well as internal testing. These service packs offer Visual Studio users improvements in responsiveness and stability, as well as completes some high-impact scenarios requested by customers."
+  }
+}

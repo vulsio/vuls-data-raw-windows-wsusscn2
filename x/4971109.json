@@ -1,0 +1,50 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "es"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/ph/12105"
+  },
+  "securitybulletinid": {
+    "text": "MS12-022"
+  },
+  "kbarticleid": {
+    "text": "2675064"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2012-0016"
+    }
+  ]
+}

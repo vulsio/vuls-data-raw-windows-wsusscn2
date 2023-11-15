@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Systems Management Server 2003 Service Pack 3"
+  },
+  "description": {
+    "text": "Microsoft Systems Management Server (SMS) 2003 with Service Pack 3 (SP3) brings full Vista support to your organization beyond just OS Deployment, which is already available through the OS Deployment Feature Pack. Now, full lifecycle support of Microsofts latest platform including software distribution, update services as well as inventory are available to the Vista Client. In addition, SP3 introduces X64 architecture support for your high performance platforms. SMS 2003 SP3 provides an option to augment existing SMS inventory capabilities with deeper asset intelligence, bringing knowledge driven management with over 400,000 software titles in the library."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+  },
+  "securitybulletinid": {
+    "text": "MS06-058"
+  },
+  "kbarticleid": {
+    "text": "923092"
+  },
+  "uninstallationbehavior": {}
+}

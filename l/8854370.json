@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 2 for Exchange Server 2010 Service Pack 3 (KB2866475)"
+  },
+  "description": {
+    "text": "This update rollup resolves problems that were found in Exchange Server 2010 Service Pack 3 (SP3) since Exchange Server 2010 SP3 was released and replaces previously released update rollups for Exchange Server 2010 SP3."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office XP (KB974556)"
+  },
+  "description": {
+    "text": "This update resolves a problem that can cause programs that use the Outlook View Control with Forms 2.0, such as Microsoft Office Outlook with Business Contact Manager, to stop functioning as expected after Security Update for Microsoft Office Outlook 2002 (KB973702) is installed."
+  }
+}

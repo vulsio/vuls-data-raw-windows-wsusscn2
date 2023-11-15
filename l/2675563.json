@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft .NET Framework 2.0 Service Pack 1 (KB110806) (x86)"
+  },
+  "description": {
+    "text": "Microsoft .NET Framework 2.0 Service Pack 1 provides cumulative roll-up updates for customer reported issues found after the release of Microsoft .NET Framework 2.0. In addition, this release provides security improvements, and prerequisite feature support for .NET Framework 3.0 Service Pack 1, and .NET Framework 3.5. After you install this item, you may have to restart your computer."
+  }
+}

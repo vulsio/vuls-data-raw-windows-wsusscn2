@@ -1,0 +1,20 @@
+{
+  "defaultpropertieslanguage": "en",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "923648"
+  },
+  "uninstallationbehavior": {}
+}

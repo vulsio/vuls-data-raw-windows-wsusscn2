@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft .NET Framework 2.0 Service Pack 1 (KB947748)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system running the Microsoft .NET Framework and gain complete control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS18-172"
+  },
+  "kbarticleid": {
+    "text": "4336999"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q320206: Security Update"
+  },
+  "description": {
+    "text": "This update resolves the \"Authentication Flaw in Windows Debugger can Lead to Elevated Privileges\" security vulnerability in Windows 2000.  This vulnerability is the result of a flaw in the authentication mechanism for the Windows debugging facility that can allow an unauthorized program to gain access to the debugger.  Download now to prevent a malicious user from gaining elevated privileges through the debugging facility, and then running code of his or her choice on your computer."
+  }
+}

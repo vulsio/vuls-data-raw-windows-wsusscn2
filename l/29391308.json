@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2016 CU13 (KB4509409)"
+  },
+  "description": {
+    "text": "The security update addresses 3 vulnerabilities:\nAn information disclosure vulnerability exists when Microsoft Exchange Server allows creation of entities with Display Names having non-printable characters.\nAn elevation of privilege vulnerability when an attacker executes a man-in-the-middle attack to forward an authentication request to Microsoft Exchange Server.\nA cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Microsoft Exchange Server."
+  }
+}

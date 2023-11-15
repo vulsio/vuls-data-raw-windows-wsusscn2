@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q329390: Security Update"
+  },
+  "description": {
+    "text": "An identified security vulnerability in Windows XP could enable an attacker to compromise a user's Microsoft® Windows®-based computer and gain complete control over it, if the user visited the attacker's web site or took other, less likely, actions.  You can help protect your computer from this and other identified security concerns by installing this update. After you install this item, you may have to restart your computer."
+  }
+}

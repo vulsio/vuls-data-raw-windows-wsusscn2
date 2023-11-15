@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office 2003 Web Components used in ISA Server 2004 SP3 Standard Edition Reporting"
+  },
+  "description": {
+    "text": "This update resolves vulnerabilities reported in Microsoft Office 2003 Web Components. ISA Server 2004 and 2006 use Office 2003 Web Components during report generation."
+  }
+}

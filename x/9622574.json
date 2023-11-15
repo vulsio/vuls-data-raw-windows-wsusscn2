@@ -1,0 +1,15 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS13-083"
+  },
+  "kbarticleid": {
+    "text": "2864058"
+  },
+  "uninstallationbehavior": {}
+}

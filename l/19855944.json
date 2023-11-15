@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2016 (KB3124557)"
+  },
+  "description": {
+    "text": "This security update resolves vulnerabilities in Microsoft Exchange Server. The most severe of the vulnerabilities could allow spoofing if Outlook Web Access (OWA) fails to properly handle web requests, and sanitize user input and email content."
+  }
+}

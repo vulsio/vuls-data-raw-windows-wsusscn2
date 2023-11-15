@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security update for the information disclosure vulnerability in Visual Studio 2010 Service Pack 1 (KB4506161)"
+  },
+  "description": {
+    "text": "An information disclosure vulnerability exists when Visual Studio improperly parses XML input in certain settings files. "
+  }
+}

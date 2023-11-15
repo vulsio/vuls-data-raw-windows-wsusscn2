@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 1 for Microsoft System Center Advisor (KB2695182)"
+  },
+  "description": {
+    "text": "This Update Rollup adds support for Microsoft System Center 2012 – Operations Manager, SQL Server 2012 analysis, SharePoint Server 2010 analysis, and Exchange Server 2010 analysis.  This Update Rollup also fixes several issues.  See details described in KB2695182."
+  }
+}

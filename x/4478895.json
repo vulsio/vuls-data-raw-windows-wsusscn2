@@ -1,0 +1,14 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "requiresreacceptanceofeula": "true",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkId=71719"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "982861"
+  },
+  "uninstallationbehavior": {}
+}

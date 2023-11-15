@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft .NET Framework 1.0 Service Pack 3, German Version"
+  },
+  "description": {
+    "text": "Microsoft .NET Framework 1.0 Service Pack 3 resolves various issues found after the initial release of Microsoft .NET Framework 1.0. These include both security- and non-security-related issues. After installation, you may be asked to reboot your computer. Once you have installed this item, it cannot be removed."
+  }
+}

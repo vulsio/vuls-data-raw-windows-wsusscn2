@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft SQL Server 2012 Service Pack 2 (KB2958429)"
+  },
+  "description": {
+    "text": "SQL Server 2012 Service Pack 2  is a servicing only release. It is also a roll up of all Cumulative Updates that shipped in SQL Server 2012 SP1 up to and including SQL Server 2012 Service Pack 1 Cumulative Update 9."
+  }
+}

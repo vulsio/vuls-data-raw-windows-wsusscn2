@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 1 for Windows Azure Hyper-V Recovery Manager Provider"
+  },
+  "description": {
+    "text": "This update contains the latest features and bug fixes of the Windows Azure Hyper-V Recovery Manager Service. For a complete listing of the features that are a part of this update please read the associated Microsoft Knowledge Base article."
+  }
+}

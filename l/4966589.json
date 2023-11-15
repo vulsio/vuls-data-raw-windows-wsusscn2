@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Exchange Server 2003 Service Pack 2 (KB950159) - Cluster"
+  },
+  "description": {
+    "text": "This update is for any clustered Exchange servers.A security issue has been identified that could allow an attacker with limited access to increase their privileges to compromise Outlook Web Access for Microsoft Exchange Server and gain control over it. You can help protect your computer by installing this update from Microsoft on all Microsoft Exchange 2003 Service Pack 2 servers in your organization. After you install this item, you may have to restart your server."
+  }
+}

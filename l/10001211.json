@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Lync Server 2013 Core Components (KB2881682)"
+  },
+  "description": {
+    "text": "This package fixes issues described in KB2881682."
+  }
+}

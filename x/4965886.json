@@ -1,0 +1,93 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "de"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "no"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "he"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "fi"
+    },
+    {
+      "text": "zh-hk"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "el"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "da"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "ar"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "zh-cn"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+  },
+  "securitybulletinid": {
+    "text": "MS06-003"
+  },
+  "kbarticleid": {
+    "text": "892841"
+  },
+  "uninstallationbehavior": {}
+}

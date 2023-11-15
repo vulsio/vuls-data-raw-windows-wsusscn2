@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for SQL Server 2012 Service Pack 1 (KB2793634)"
+  },
+  "description": {
+    "text": "An issue has been identified with SQL Server 2012 Service Pack 1 where repairs could be triggered periodically on specific packages causing performance degradation. You can help fix the problem by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "creationdate": "2017-06-27T01:04:31Z",
+  "defaultlanguage": "en",
+  "updateid": "7c47ef05-0899-4b01-9707-a1bd6e74073e",
+  "revisionid": "15635940",
+  "isleaf": "true",
+  "isbundle": "true",
+  "categories": {
+    "category": [
+      {
+        "type": "UpdateClassification",
+        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+      },
+      {
+        "type": "Company",
+        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+      },
+      {
+        "type": "ProductFamily",
+        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+      },
+      {
+        "type": "Product",
+        "id": "874a7757-3a13-43b2-a7f2-cf2ff43dd6bf"
+      }
+    ]
+  },
+  "languages": {
+    "language": [
+      {
+        "name": "en"
+      },
+      {
+        "name": "pt"
+      },
+      {
+        "name": "sv"
+      },
+      {
+        "name": "tr"
+      },
+      {
+        "name": "ru"
+      },
+      {
+        "name": "pl"
+      },
+      {
+        "name": "hu"
+      },
+      {
+        "name": "no"
+      },
+      {
+        "name": "nl"
+      },
+      {
+        "name": "ko"
+      },
+      {
+        "name": "it"
+      },
+      {
+        "name": "ja"
+      },
+      {
+        "name": "he"
+      },
+      {
+        "name": "fr"
+      },
+      {
+        "name": "da"
+      },
+      {
+        "name": "fi"
+      },
+      {
+        "name": "es"
+      },
+      {
+        "name": "zh-tw"
+      },
+      {
+        "name": "cs"
+      },
+      {
+        "name": "el"
+      },
+      {
+        "name": "zh-cn"
+      },
+      {
+        "name": "de"
+      },
+      {
+        "name": "pt-br"
+      },
+      {
+        "name": "ar"
+      }
+    ]
+  },
+  "supersededby": {
+    "revision": [
+      {
+        "id": "16753572"
+      },
+      {
+        "id": "20276548"
+      },
+      {
+        "id": "18450418"
+      },
+      {
+        "id": "19855910"
+      },
+      {
+        "id": "19308567"
+      },
+      {
+        "id": "20058057"
+      },
+      {
+        "id": "19609141"
+      },
+      {
+        "id": "17713531"
+      },
+      {
+        "id": "18273292"
+      },
+      {
+        "id": "17461051"
+      },
+      {
+        "id": "18604454"
+      },
+      {
+        "id": "18004725"
+      },
+      {
+        "id": "18928721"
+      }
+    ]
+  }
+}

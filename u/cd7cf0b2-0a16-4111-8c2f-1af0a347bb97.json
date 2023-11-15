@@ -1,0 +1,141 @@
+{
+  "creationdate": "2017-06-27T01:56:05Z",
+  "defaultlanguage": "en",
+  "updateid": "cd7cf0b2-0a16-4111-8c2f-1af0a347bb97",
+  "revisionid": "10940025",
+  "isleaf": "true",
+  "isbundle": "true",
+  "categories": {
+    "category": [
+      {
+        "type": "ProductFamily",
+        "id": "523a2448-8b6c-458b-9336-307e1df6d6a6"
+      },
+      {
+        "type": "Company",
+        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+      },
+      {
+        "type": "UpdateClassification",
+        "id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
+      },
+      {
+        "type": "Product",
+        "id": "c755e211-dc2b-45a7-be72-0bdc9015a63b"
+      }
+    ]
+  },
+  "languages": {
+    "language": [
+      {
+        "name": "zh-tw"
+      },
+      {
+        "name": "cs"
+      },
+      {
+        "name": "da"
+      },
+      {
+        "name": "de"
+      },
+      {
+        "name": "el"
+      },
+      {
+        "name": "ar"
+      },
+      {
+        "name": "bg"
+      },
+      {
+        "name": "hr"
+      },
+      {
+        "name": "et"
+      },
+      {
+        "name": "he"
+      },
+      {
+        "name": "lv"
+      },
+      {
+        "name": "lt"
+      },
+      {
+        "name": "ro"
+      },
+      {
+        "name": "sr"
+      },
+      {
+        "name": "th"
+      },
+      {
+        "name": "uk"
+      },
+      {
+        "name": "en"
+      },
+      {
+        "name": "es"
+      },
+      {
+        "name": "fi"
+      },
+      {
+        "name": "fr"
+      },
+      {
+        "name": "hu"
+      },
+      {
+        "name": "it"
+      },
+      {
+        "name": "ja"
+      },
+      {
+        "name": "ja-nec"
+      },
+      {
+        "name": "ko"
+      },
+      {
+        "name": "nl"
+      },
+      {
+        "name": "no"
+      },
+      {
+        "name": "pl"
+      },
+      {
+        "name": "pt-br"
+      },
+      {
+        "name": "ru"
+      },
+      {
+        "name": "sk"
+      },
+      {
+        "name": "sv"
+      },
+      {
+        "name": "tr"
+      },
+      {
+        "name": "sl"
+      },
+      {
+        "name": "zh-cn"
+      },
+      {
+        "name": "pt"
+      }
+    ]
+  },
+  "supersededby": {}
+}

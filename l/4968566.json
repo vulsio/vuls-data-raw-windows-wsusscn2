@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for ISA Server 2004 Standard Edition (KB 960995)"
+  },
+  "description": {
+    "text": "This update resolves the issues described in Knowledge Base articles 960995 (ISA Server 2004):\n\n• ISA Server 2004 Web proxy and Web publishing listeners may stop accepting new requests after receiving specially-crafted packets. \n"
+  }
+}

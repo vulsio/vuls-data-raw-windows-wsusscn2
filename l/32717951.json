@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2016 CU17 (KB4581424)"
+  },
+  "description": {
+    "text": "A Microsoft Exchange information disclosure exists in how tokens are validated when handling certain messages. An attacker who successfully exploited the vulnerability could use this to gain further information from a user."
+  }
+}

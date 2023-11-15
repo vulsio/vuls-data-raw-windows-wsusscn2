@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "2022-08 Extended Security Updates (ESU) Licensing Preparation Package for Windows Server 2012 R2 for x64-based Systems (KB5017220)"
+  },
+  "description": {
+    "text": "This update provides the complete set of licensing changes to enable installation of the ESU MAK add-on key, which is one of the steps to prepare for installation of Extended Security Updates. A reboot is required after installing this update."
+  }
+}

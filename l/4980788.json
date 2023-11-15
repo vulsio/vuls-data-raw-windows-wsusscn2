@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Word Viewer 2003 (KB969614)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Word Viewer 2003 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves the vulnerability so that Microsoft Word 2003 documents are handled appropriately."
+  }
+}

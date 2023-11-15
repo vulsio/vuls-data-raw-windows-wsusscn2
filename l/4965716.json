@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office XP: WordPerfect 5.x Converter (KB873379)"
+  },
+  "description": {
+    "text": "A vulnerability could allow arbitrary code to run when the system uses the converter to open a maliciously crafted document. The update resolves this vulnerability so that the files that the converter opens are handled appropriately."
+  }
+}

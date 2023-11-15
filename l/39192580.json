@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "2023-06 Cumulative security Hotpatch for Azure Stack HCI, version 21H2 and Windows Server 2022 Datacenter: Azure Edition for x64-based Systems (KB5027319)"
+  },
+  "description": {
+    "text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information."
+  }
+}

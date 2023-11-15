@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Visio 2002 (KB920821)"
+  },
+  "description": {
+    "text": "Microsoft has released an update for Microsoft Visio 2002. A security vulnerability exists in Visio 2002 that could allow arbitrary code to run when you open a maliciously modified file. This update resolves that vulnerability. "
+  }
+}

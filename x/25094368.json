@@ -1,0 +1,14 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/help/4022717"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "4022717"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "SQL Server 2012 Service Pack 4 (KB4018073)"
+  },
+  "description": {
+    "text": "Service Pack 4 for SQL Server 2012 upgraded all SQL Server 2012 instances and components installed through the SQL Server setup.  Service Pack 4 can upgrade all editions of SQL Server 2012 to Service Pack 4 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 4 SQL Server 2012. To learn more about SQL Server 2012 SP4 please visit the Microsoft Support (http://support.microsoft.com) Knowledge Base article KB 4018073."
+  }
+}

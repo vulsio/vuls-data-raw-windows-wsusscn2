@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Excel Services in Microsoft Office SharePoint Server 2007 (KB955937), 64-bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Excel Services in Microsoft Office SharePoint Server 2007, 64-bit Edition, that could allow arbitrary code to run when a maliciously modified file is opened on the server. This update resolves that vulnerability."
+  }
+}

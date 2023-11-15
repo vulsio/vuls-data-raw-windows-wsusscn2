@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "System Center Virtual Machine Manager 2008 Update (KB961983)"
+  },
+  "description": {
+    "text": "This update resolves multiple issues, including cluster management, VMware integration, and Virtual Server virtual machine migration issues, as described in KB article 961983."
+  }
+}

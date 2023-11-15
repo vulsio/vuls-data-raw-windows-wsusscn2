@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Exchange 2000 Server Service Pack 3 (KB916803)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could affect your Exchange 2000 system in the following way: 1. Denial of Service 2. Elevation of Privilege. We recommend that you install this update on all Microsoft Exchange 2000 Service Pack 3 servers in your organization."
+  }
+}

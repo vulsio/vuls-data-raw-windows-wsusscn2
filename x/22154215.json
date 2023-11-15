@@ -1,0 +1,173 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ar"
+    },
+    {
+      "text": "bg"
+    },
+    {
+      "text": "zh-hk"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "hr"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "da"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "et"
+    },
+    {
+      "text": "fi"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "el"
+    },
+    {
+      "text": "he"
+    },
+    {
+      "text": "hi"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ja-nec"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "lv"
+    },
+    {
+      "text": "lt"
+    },
+    {
+      "text": "no"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "ro"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "sr"
+    },
+    {
+      "text": "sk"
+    },
+    {
+      "text": "sl"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "th"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "uk"
+    }
+  ],
+  "supporturl": {
+    "text": "http://technet.microsoft.com/en-us/exchange/fp179701"
+  },
+  "securitybulletinid": {
+    "text": "MS16-108"
+  },
+  "kbarticleid": {
+    "text": "3184736"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2016-0138"
+    },
+    {
+      "text": "CVE-2016-3378"
+    },
+    {
+      "text": "CVE-2016-3575"
+    },
+    {
+      "text": "CVE-2016-3581"
+    },
+    {
+      "text": "CVE-2016-3582"
+    },
+    {
+      "text": "CVE-2016-3583"
+    },
+    {
+      "text": "CVE-2016-3595"
+    },
+    {
+      "text": "CVE-2016-3594"
+    },
+    {
+      "text": "CVE-2015-6014"
+    },
+    {
+      "text": "CVE-2016-3593"
+    },
+    {
+      "text": "CVE-2016-3592"
+    },
+    {
+      "text": "CVE-2016-3596"
+    },
+    {
+      "text": "CVE-2016-3591"
+    }
+  ]
+}

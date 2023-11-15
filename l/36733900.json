@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Azure File Sync Agent v15.0 Release – March 2022 (KB5003882)"
+  },
+  "description": {
+    "text": "Update for Azure File Sync agent (version 15.0.0.0). For more details, see the associated Microsoft Knowledge Base article."
+  }
+}

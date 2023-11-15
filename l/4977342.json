@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office 2003 (KB936048)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office 2003 that could enable arbitrary code to run when a maliciously modified file is opened. This security update resolves that vulnerability."
+  }
+}

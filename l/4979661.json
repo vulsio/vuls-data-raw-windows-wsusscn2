@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office Visio 2007 (KB957831)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office Visio 2007 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves this vulnerability."
+  }
+}

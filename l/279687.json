@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Outlook Express 5.5 Service Pack 2 (KB897715)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to compromise a computer running Microsoft Outlook Express and gain control over it. User interaction is required to exploit this vulnerability. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

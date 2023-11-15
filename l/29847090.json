@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2016 CU12 (KB4515832)"
+  },
+  "description": {
+    "text": "The security update addresses 2 vulnerabilities:\nA denial of service vulnerability exists in Microsoft Exchange Server when the software fails to properly handle objects in memory.\nA spoofing vulnerability exists in Microsoft Exchange Server when OWA fails to properly handle web requests."
+  }
+}

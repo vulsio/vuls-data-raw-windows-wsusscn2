@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for the remote code execution vulnerability in Visual Studio 2010 Service Pack 1 (KB4336919)"
+  },
+  "description": {
+    "text": "A remote code execution vulnerability exists in Visual Studio software when the software fails to check the source markup of a file for an unbuilt project.  You can help protect your system by installing this update from Microsoft. This servicing release provides a security fix for this issue to Microsoft Visual Studio 2010 Service Pack 1."
+  }
+}

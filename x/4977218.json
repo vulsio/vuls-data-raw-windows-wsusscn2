@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS07-030"
+  },
+  "kbarticleid": {
+    "text": "931280"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,19 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://go.microsoft.com/fwlink/?linkid=2147042&amp;clcid=0x409"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5016987"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2022-34716"
+    }
+  ]
+}

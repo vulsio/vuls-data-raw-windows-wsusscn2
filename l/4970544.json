@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Visual Studio 2008 Service Pack 1 XML Editor (KB2251487)"
+  },
+  "description": {
+    "text": "A security issue has been identified leading to an XXE (Xml eXternal Entity) vulnerability. You can protect your computer by installing this update from Microsoft.  After you install this item, you may have to restart your computer."
+  }
+}

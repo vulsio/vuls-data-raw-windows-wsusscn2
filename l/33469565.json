@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "2020-08 Servicing Stack Update for Windows Server, version 2004 for ARM64-based Systems (KB4570334)"
+  },
+  "description": {
+    "text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+  }
+}

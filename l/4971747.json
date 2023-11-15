@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft Application Virtualization 4.6 Service Pack 1"
+  },
+  "description": {
+    "text": "Application Virtualization (App-V) 4.6 Service Pack 1 updates App-V 4.6 with the latest security and stability enhancements to help keep computers running App-V up-to-date, reliable, and more secure. The goal of this service pack is to increase the overall quality of the existing product features while maintaining a high level of compatibility with previous releases. Installation of the service pack may take a few minutes and you may need to restart your computer. The App-V 4.6 Service Pack 1 update cannot be uninstalled. If you want to run a previous version of App-V, you must completely uninstall App-V SP1 and then reinstall the preferred version."
+  }
+}

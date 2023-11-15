@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for the 2007 Microsoft Office System (KB974234)"
+  },
+  "description": {
+    "text": "This update resolves a problem that can cause programs that use the Outlook View Control with Forms 2.0, such as Microsoft Office Outlook with Business Contact Manager, to stop functioning as expected after Security Update for Microsoft Office Outlook 2007 (KB972363) is installed."
+  }
+}

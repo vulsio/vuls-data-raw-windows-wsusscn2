@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Word 2016 (KB4493198) 32-Bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Word 2016 32-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

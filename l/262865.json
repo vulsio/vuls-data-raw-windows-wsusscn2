@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows 2000 (KB822343)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to execute commands on a computer running Microsoft Windows 2000.  This issue only affects computers configured as Web servers. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

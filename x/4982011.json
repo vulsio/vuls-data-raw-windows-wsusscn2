@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS11-036"
+  },
+  "kbarticleid": {
+    "text": "2535802"
+  },
+  "uninstallationbehavior": {}
+}

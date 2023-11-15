@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office XP (KB975008)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office XP that could enable arbitrary code to run when a maliciously modified file is opened. This security update resolves that vulnerability."
+  }
+}

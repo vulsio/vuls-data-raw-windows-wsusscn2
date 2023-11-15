@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Word Viewer 2003 (KB917346)"
+  },
+  "description": {
+    "text": "Microsoft has released an update for Microsoft Office Word Viewer 2003. A security vulnerability exists in Word Viewer 2003 that could allow arbitrary code to run when you open a maliciously modified document. This update resolves that vulnerability.\n "
+  }
+}

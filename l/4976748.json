@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Visio 2002 (KB920816)"
+  },
+  "description": {
+    "text": "Microsoft has released a security update for Microsoft Visio 2002. This update addresses a vulnerability that could enable malicious code execution. Additionally, other fixes may be included in the update."
+  }
+}

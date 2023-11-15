@@ -1,0 +1,129 @@
+{
+  "creationdate": "2017-06-27T00:17:08Z",
+  "defaultlanguage": "en",
+  "updateid": "28912710-0c52-4d50-0000-0c4c490e4e54",
+  "revisionid": "10940908",
+  "isleaf": "true",
+  "isbundle": "true",
+  "categories": {
+    "category": [
+      {
+        "type": "ProductFamily",
+        "id": "0dbc842c-730f-4361-8811-1b048f11c09b"
+      },
+      {
+        "type": "Product",
+        "id": "260d4ca6-768f-4e3e-9285-c30693bb7bc1"
+      },
+      {
+        "type": "UpdateClassification",
+        "id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
+      },
+      {
+        "type": "Company",
+        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+      }
+    ]
+  },
+  "languages": {
+    "language": [
+      {
+        "name": "es"
+      },
+      {
+        "name": "zh-hk"
+      },
+      {
+        "name": "pt"
+      },
+      {
+        "name": "zh-cn"
+      },
+      {
+        "name": "tr"
+      },
+      {
+        "name": "sv"
+      },
+      {
+        "name": "ru"
+      },
+      {
+        "name": "pt-br"
+      },
+      {
+        "name": "pl"
+      },
+      {
+        "name": "no"
+      },
+      {
+        "name": "nl"
+      },
+      {
+        "name": "ko"
+      },
+      {
+        "name": "ja"
+      },
+      {
+        "name": "it"
+      },
+      {
+        "name": "hu"
+      },
+      {
+        "name": "he"
+      },
+      {
+        "name": "fr"
+      },
+      {
+        "name": "fi"
+      },
+      {
+        "name": "el"
+      },
+      {
+        "name": "de"
+      },
+      {
+        "name": "da"
+      },
+      {
+        "name": "cs"
+      },
+      {
+        "name": "zh-tw"
+      },
+      {
+        "name": "ar"
+      },
+      {
+        "name": "en"
+      }
+    ]
+  },
+  "supersededby": {
+    "revision": [
+      {
+        "id": "11961002"
+      },
+      {
+        "id": "13125546"
+      },
+      {
+        "id": "15363119"
+      },
+      {
+        "id": "16589727"
+      },
+      {
+        "id": "17706329"
+      },
+      {
+        "id": "21021133"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2013 SP1 (KB4012178)"
+  },
+  "description": {
+    "text": "An elevation of privilege vulnerability exists in the way that Microsoft Exchange Outlook Web Access (OWA) fails to properly handle web requests. To exploit the vulnerability, an attacker who successfully exploited this vulnerability could, perform script/content injection attacks, and attempt to trick the user into disclosing sensitive information. "
+  }
+}

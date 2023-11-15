@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 21 for Exchange Server 2007 Service Pack 3 (KB3184711)"
+  },
+  "description": {
+    "text": "This security update resolves vulnerabilities in Microsoft Exchange Server. The most severe of the vulnerabilities could allow remote code execution in some Oracle Outside In libraries that are built into Exchange Server if an attacker sends an email with a specially crafted attachment to a vulnerable Exchange server."
+  }
+}

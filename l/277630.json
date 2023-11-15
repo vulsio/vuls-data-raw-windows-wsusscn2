@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Windows 2000 (KB826232)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to read files or run programs on a computer, running Microsoft® Windows® 2000, that has been used to view an attacker's Web site or has read a specially crafted HTML e-mail. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

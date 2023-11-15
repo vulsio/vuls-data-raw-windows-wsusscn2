@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office 2003 (KB905645)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in the Korean IME for Microsoft Office 2003, Microsoft Office Project 2003, Microsoft Office OneNote 2003, and Microsoft Office Visio 2003 that could allow for elevation of privilege. This update addresses that vulnerability. "
+  }
+}

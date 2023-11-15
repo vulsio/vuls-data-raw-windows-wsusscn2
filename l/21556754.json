@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Microsoft SQL Server 2014 Service Pack 2 (KB3171021)"
+  },
+  "description": {
+    "text": "Service Pack 2 for Microsoft SQL Server 2014 upgraded all Microsoft SQL Server 2014 instances and components installed through the SQL Server setup.  Service Pack 2 can upgrade all editions of Microsoft SQL Server 2014 to Service Pack 2 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 2 Microsoft SQL Server 2014. To learn more about Microsoft SQL Server 2014 SP2 please visit the Microsoft Support (http://support.microsoft.com) Knowledge Base article KB 3171021."
+  }
+}

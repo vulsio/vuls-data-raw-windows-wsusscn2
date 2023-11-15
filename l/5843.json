@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "814078: Security Update (Microsoft Jscript version 5.5, Windows 2000)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to run programs on a computer running Microsoft® Windows®.  The attacker would first have to send you an e-mail message or entice you into visiting a malicious Web site. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for the remote code execution vulnerability in Visual Studio 2015 Update 3 (KB4571481)"
+  },
+  "description": {
+    "text": "A remote code execution vulnerability exists in Visual Studio when it improperly handles objects in memory. You can help protect your system by installing this update from Microsoft. This servicing release provides a security fix for this issue to Microsoft Visual Studio 2015 Update 3."
+  }
+}

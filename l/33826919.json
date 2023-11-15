@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2019 (KB5000871)"
+  },
+  "description": {
+    "text": "The security update addresses four remote code execution vulnerabilities for Microsoft Exchange Server."
+  }
+}

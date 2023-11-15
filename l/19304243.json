@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office Visio 2007 suites (KB3101553)  "
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office Visio 2007 suites  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

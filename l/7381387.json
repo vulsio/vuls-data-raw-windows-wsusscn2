@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Lync Server 2013 Web Components Server (KB2781564)"
+  },
+  "description": {
+    "text": "This package fixes issues described in KB2781564."
+  }
+}

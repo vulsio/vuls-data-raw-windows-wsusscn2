@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Simplified Chinese Systems Management Servers Service Pack 2"
+  },
+  "description": {
+    "text": "Microsoft Systems Management Server (SMS) 2003 Service Pack 2 (SP2) 主要是大量 SMS 2003 热修补程序的汇总，但是还介绍了对受支持配置所做的一些更改，并扩大了允许的配置的范围。此外，SMS 2003 SP2 包括增加的对可用性、安全性以及性能的改善。 \n\n重要信息：如果在已经将站点更新为 SMS 2003 SP2 之后计划安装 Inventory Tool for Microsoft Updates，则必须使用为 SP2 设计的版本。该版本随附在 SP2 中，但是在默认情况下不会安装。也可以从下面的链接下载该版本。 \n\n"
+  }
+}

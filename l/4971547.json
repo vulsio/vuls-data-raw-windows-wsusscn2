@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft BizTalk Server 2002 (KB971388)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in the Microsoft BizTalk Server 2002  that could allow arbitrary code to run when a maliciously modified web page is opened. This update resolves that vulnerability."
+  }
+}

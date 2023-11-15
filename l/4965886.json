@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Outlook 2002 (KB892841)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Outlook 2002 that could allow arbitrary code to run when opening a maliciously modified email. This update resolves that vulnerability."
+  }
+}

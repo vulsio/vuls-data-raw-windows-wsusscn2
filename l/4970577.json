@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package (KB2565063)"
+  },
+  "description": {
+    "text": "A security issue has been identified leading to MFC application vulnerability in DLL planting due to MFC not specifying the full path to system/localization DLLs.  You can protect your computer by installing this update from Microsoft.  After you install this item, you may have to restart your computer."
+  }
+}

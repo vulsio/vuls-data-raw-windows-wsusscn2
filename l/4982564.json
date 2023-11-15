@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office Forms Server 2007 (KB2553005), 64-bit Edition"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Microsoft Office Forms Server 2007, 64-bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows Media Services (KB832359)"
+  },
+  "description": {
+    "text": "A security issue has been identified in Windows Media Services. This vulnerability could allow an attacker to cause the Windows Media Service to become unresponsive. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

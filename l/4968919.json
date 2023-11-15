@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Forefront for Exchange Software Update KB978297"
+  },
+  "description": {
+    "text": "Microsoft has released an Update Rollup for Forefront Security for Exchange Server Service Pack 2. This rollup includes all the fixes that are included in Forefront Security for Exchange Server Service Pack 2.  After you install this item, you may have to restart your computer."
+  }
+}

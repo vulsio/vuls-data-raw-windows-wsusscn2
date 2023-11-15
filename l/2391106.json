@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows Server 2003 and Windows Server 2008 for x64-based Systems (KB960089)"
+  },
+  "description": {
+    "text": "A security issue has been identified in the Windows Internal Database (WYukon) that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it. The Windows Internal Database (WYukon) is used by Windows components namely Windows SharePoint Services, Windows Server Update Services, Active Directory Rights Management Services, Windows System Resource Manager and UDDI Services. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

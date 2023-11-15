@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/977304"
+  },
+  "securitybulletinid": {
+    "text": "MS09-073"
+  },
+  "kbarticleid": {
+    "text": "977304"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Visio 2002 (KB873354)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Visio 2002 that could allow malicious code execution when Visio documents are stored and opened from a web site. This update resolves this vulnerability."
+  }
+}

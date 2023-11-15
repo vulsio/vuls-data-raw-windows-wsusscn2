@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Korean Systems Management  Servers Service Pack 2"
+  },
+  "description": {
+    "text": "Microsoft Systems Management Server(SMS) 2003 서비스 팩 2(SP2)는 기본적으로 SMS 2003의 여러 패치를 모은 것이지만 지원 구성에 일부 변경 사항이 있으며 구성의 허용 범위를 넓혀 줍니다. SMS 2003 SP2에는 또한 사용 편리, 보안 및 성능과 관련한 점증적인 개선 사항이 포함되어 있습니다. \n\n중요:사이트를 SMS 2003 SP2로 업그레이드한 후 Microsoft Updates용 Inventory Tool을 설치하려는 경우 SP2용으로 설계된 버전을 사용해야 합니다. SP2용으로 설계된 버전에는 SP2가 포함되어 있지만 기본적으로 설치되어 있지는 않습니다. 아래의 링크에서 별도로 다운로드할 수도 있습니다. \n\n\n"
+  }
+}

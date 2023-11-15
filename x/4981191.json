@@ -1,0 +1,15 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS08-070"
+  },
+  "kbarticleid": {
+    "text": "949046"
+  },
+  "uninstallationbehavior": {}
+}

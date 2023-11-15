@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Windows XP (KB328940)"
+  },
+  "description": {
+    "text": "This patch resolves the \"Flaw in Windows XP Help and Support Center Could Enable File Deletion\" vulnerability in Windows XP. Download now to prevent an attacker from deleting files on another user’s computer via either a Web site or an e-mail. After you install this item, you may need to restart your computer."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkId=92734"
+  },
+  "securitybulletinid": {
+    "text": "MS07-049"
+  },
+  "kbarticleid": {
+    "text": "937986"
+  },
+  "uninstallationbehavior": {}
+}

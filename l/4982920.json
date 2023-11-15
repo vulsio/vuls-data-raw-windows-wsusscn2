@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office SharePoint Foundation 2010 (KB2494001)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Office SharePoint Foundation 2010 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

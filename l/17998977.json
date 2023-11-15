@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2013 CU8 (KB3062157)"
+  },
+  "description": {
+    "text": "The security update addresses information disclosure vulnerability and elevation of privilege vulnerability in Exchange Server 2013."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for DirectX 8 for Windows 2000 (KB941568)"
+  },
+  "description": {
+    "text": "A security issue has been identified in Microsoft DirectShow that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

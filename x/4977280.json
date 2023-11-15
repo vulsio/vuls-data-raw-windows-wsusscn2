@@ -1,0 +1,128 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ar"
+    },
+    {
+      "text": "bg"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "da"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "el"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "fi"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "he"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "no"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "ro"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "hr"
+    },
+    {
+      "text": "sk"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "th"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "uk"
+    },
+    {
+      "text": "sl"
+    },
+    {
+      "text": "et"
+    },
+    {
+      "text": "lv"
+    },
+    {
+      "text": "lt"
+    },
+    {
+      "text": "hi"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "sr"
+    },
+    {
+      "text": "zh-hk"
+    },
+    {
+      "text": "es"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+  },
+  "securitybulletinid": {
+    "text": "MS06-039"
+  },
+  "kbarticleid": {
+    "text": "914455"
+  },
+  "uninstallationbehavior": {}
+}

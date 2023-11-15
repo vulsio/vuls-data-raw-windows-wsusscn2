@@ -1,0 +1,36 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "es"
+    }
+  ],
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkID=138928"
+  },
+  "securitybulletinid": {
+    "text": "MS09-003"
+  },
+  "kbarticleid": {
+    "text": "959897"
+  },
+  "uninstallationbehavior": {}
+}

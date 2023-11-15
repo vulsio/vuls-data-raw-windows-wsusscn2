@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Web Access Companion 2010 (KB2346411)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office Web Access Companion 2010 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

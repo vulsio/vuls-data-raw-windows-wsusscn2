@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Visual Studio 2010 Service Pack 1 TFS Web Access (KB2719584)"
+  },
+  "description": {
+    "text": "This update addresses cross site scripting vulnerabilities in TFS Web Access for Team Foundation Server 2010 SP1."
+  }
+}

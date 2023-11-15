@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://www.microsoft.com/uc/default.mspx"
+  },
+  "securitybulletinid": {
+    "text": "MS15-097"
+  },
+  "kbarticleid": {
+    "text": "3081089"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2015-2510"
+    }
+  ]
+}

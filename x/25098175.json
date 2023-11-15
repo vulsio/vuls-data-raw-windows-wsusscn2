@@ -1,0 +1,18 @@
+{
+  "defaultpropertieslanguage": "en",
+  "maxdownloadsize": "0",
+  "mindownloadsize": "0",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com"
+  },
+  "securitybulletinid": {
+    "text": "MS16-155"
+  },
+  "kbarticleid": {
+    "text": "3205402"
+  },
+  "uninstallationbehavior": {}
+}

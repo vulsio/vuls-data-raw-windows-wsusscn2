@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Internet Explorer 6 Service Pack 1 (KB918439)"
+  },
+  "description": {
+    "text": "A security issue has been identified in the way ART images are handled that could allow an attacker to compromise a computer running Microsoft Windows and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

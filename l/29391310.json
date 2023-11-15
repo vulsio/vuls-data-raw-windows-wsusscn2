@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 29 for Exchange Server 2010 Service Pack 3 (KB4509410)"
+  },
+  "description": {
+    "text": "The security update addresses 2 vulnerabilities:\nAn information disclosure vulnerability exists when Microsoft Exchange Server allows creation of entities with Display Names having non-printable characters.\nAn elevation of privilege vulnerability when an attacker executes a man-in-the-middle attack to forward an authentication request to Microsoft Exchange Server."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS10-056"
+  },
+  "kbarticleid": {
+    "text": "2251419"
+  },
+  "uninstallationbehavior": {}
+}

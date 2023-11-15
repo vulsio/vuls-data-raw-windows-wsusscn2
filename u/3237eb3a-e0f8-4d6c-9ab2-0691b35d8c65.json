@@ -1,0 +1,57 @@
+{
+  "creationdate": "2021-04-08T16:46:21Z",
+  "defaultlanguage": "en",
+  "updateid": "3237eb3a-e0f8-4d6c-9ab2-0691b35d8c65",
+  "revisionid": "34021725",
+  "isleaf": "true",
+  "isbundle": "true",
+  "categories": {
+    "category": [
+      {
+        "type": "UpdateClassification",
+        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+      },
+      {
+        "type": "ProductFamily",
+        "id": "477b856e-65c4-4473-b621-a8b230bb70d9"
+      },
+      {
+        "type": "Company",
+        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+      },
+      {
+        "type": "Product",
+        "id": "704a0a4a-518f-4d69-9e03-10ba44198bd5"
+      }
+    ]
+  },
+  "languages": {},
+  "supersededby": {
+    "revision": [
+      {
+        "id": "37856124"
+      },
+      {
+        "id": "38424464"
+      },
+      {
+        "id": "35303443"
+      },
+      {
+        "id": "36960781"
+      },
+      {
+        "id": "37856177"
+      },
+      {
+        "id": "36960833"
+      },
+      {
+        "id": "38424516"
+      },
+      {
+        "id": "35303495"
+      }
+    ]
+  }
+}

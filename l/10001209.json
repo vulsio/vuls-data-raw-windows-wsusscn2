@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Lync Server 2010 (KB2889610)"
+  },
+  "description": {
+    "text": "This package fixes the issues described in KB2889610."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2019 CU7 (KB4602269)"
+  },
+  "description": {
+    "text": "The security update addresses one spoofing vulnerability for Microsoft Exchange Server."
+  }
+}

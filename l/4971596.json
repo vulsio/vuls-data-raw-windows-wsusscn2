@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Host Integration Server 2006 Service Pack 1 (KB2579597)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could cause denial of service vulnerability in Host Integration Server. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/973636"
+  },
+  "securitybulletinid": {
+    "text": "MS09-062"
+  },
+  "kbarticleid": {
+    "text": "973636"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2009-2503"
+    }
+  ]
+}

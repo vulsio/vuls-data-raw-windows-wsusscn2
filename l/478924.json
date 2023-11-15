@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "MSXML 4.0 SP2 Security Update (KB927978)"
+  },
+  "description": {
+    "text": "A vulnerability exists in Microsoft XML Core Services that could allow for information disclosure because the XMLHTTP ActiveX control incorrectly interprets an HTTP server-side redirect."
+  }
+}

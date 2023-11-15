@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update, February 12, 2002"
+  },
+  "description": {
+    "text": "This update resolves the \"Unchecked Buffer in SNMP Service Could Enable Arbitrary Code to be Run\" security vulnerability in Windows XP, and is discussed in Microsoft Security Bulletin MS02-006. Download now to help prevent a malicious user from running code of his or her choice or launching a denial of service (DoS) attack on your computer."
+  }
+}

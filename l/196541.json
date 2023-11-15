@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q324380: Security Update (Windows XP)"
+  },
+  "description": {
+    "text": "This update resolves the \"Cryptographic Flaw in RDP Protocol can Lead to Information Disclosure (Q324380)\" security vulnerability in Windows XP. Download now if you use Remote Desktop or Terminal Services, to help prevent an attacker from potentially learning encrypted information that was sent during Remote Desktop or Terminal Services sessions."
+  }
+}

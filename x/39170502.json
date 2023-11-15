@@ -1,0 +1,82 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Critical",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://aka.ms/vs/admin/feedback"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5007364"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2023-33135"
+    },
+    {
+      "text": "CVE-2023-25815"
+    },
+    {
+      "text": "CVE-2023-24895"
+    },
+    {
+      "text": "CVE-2023-33126"
+    },
+    {
+      "text": "CVE-2023-29331"
+    },
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-27911"
+    },
+    {
+      "text": "CVE-2023-33139"
+    },
+    {
+      "text": "CVE-2023-27910"
+    },
+    {
+      "text": "CVE-2023-29011"
+    },
+    {
+      "text": "CVE-2023-29012"
+    },
+    {
+      "text": "CVE-2023-29007"
+    },
+    {
+      "text": "CVE-2023-27909"
+    },
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-33128"
+    },
+    {
+      "text": "CVE-2023-24936"
+    },
+    {
+      "text": "CVE-2023-32032"
+    },
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-24897"
+    },
+    {
+      "text": "CVE-2023-25652"
+    }
+  ]
+}

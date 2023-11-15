@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2016 CU11 (KB4468741)"
+  },
+  "description": {
+    "text": "A tampering vulnerability exists when Microsoft Exchange Server fails to properly handle profile data. An attacker who successfully exploited this vulnerability could modify a targeted user's profile data."
+  }
+}

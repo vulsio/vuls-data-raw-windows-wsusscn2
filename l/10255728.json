@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Visual Studio Team Foundation Server 2013 (KB2903566)"
+  },
+  "description": {
+    "text": "This security update resolves a privately reported vulnerability in TFS 2013 web access. The vulnerability could allow java script to be executed on a vulnerable browser if an attacker sends a specially crafted message."
+  }
+}

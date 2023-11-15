@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup 30 for Exchange Server 2010 Service Pack 3 (KB4536989)"
+  },
+  "description": {
+    "text": "The security update addresses a remote code execution vulnerability that exists in Microsoft Exchange software when the software fails to properly handle objects in memory. "
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Outlook 2003 (KB924085)"
+  },
+  "description": {
+    "text": "This update resolves a security vulnerability in Microsoft Office Outlook 2003 that could enable a remote user to execute code on a computer that is running Outlook 2003."
+  }
+}

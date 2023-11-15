@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Azure File Sync Agent v4.2 Release – December 2018 (KB4459990)"
+  },
+  "description": {
+    "text": "Update for Azure File Sync agent (version 4.2.0.0). For more details, see the associated Microsoft Knowledge Base article."
+  }
+}

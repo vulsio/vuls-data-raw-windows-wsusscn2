@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2019 CU8 (KB5000871)"
+  },
+  "description": {
+    "text": "The security update addresses seven remote code execution vulnerabilities for Microsoft Exchange Server."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office 2007 (KB951550)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office 2007 that could allow information disclosure. This update resolves that issue."
+  }
+}

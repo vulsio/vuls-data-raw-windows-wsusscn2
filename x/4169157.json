@@ -1,0 +1,30 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com "
+  },
+  "securitybulletinid": {
+    "text": "MS11-032"
+  },
+  "kbarticleid": {
+    "text": "2507618"
+  },
+  "uninstallationbehavior": {}
+}

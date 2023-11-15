@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update Rollup 8 for Microsoft System Center 2012 RTM - Operations Manager Web Console (KB 3071089)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft System Center 2012 RTM - Operations Manager Web Console that could allow Elevation of Privilege if a user visits an affected website by way of a specially crafted URL. This update resolves that vulnerability."
+  }
+}

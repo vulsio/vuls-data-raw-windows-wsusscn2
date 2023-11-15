@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2013 CU1 (KB2874216)"
+  },
+  "description": {
+    "text": "The security update addresses the vulnerabilities by updating the affected Oracle Outside In libraries to a non-vulnerable version."
+  }
+}

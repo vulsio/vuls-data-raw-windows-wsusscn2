@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office Web Components (KB947319)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office 2003 Web Components and Microsoft Office XP Web Components that could allow arbitrary code to run when a maliciously modified web page is opened. This update resolves that vulnerability in both products."
+  }
+}

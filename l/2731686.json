@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Windows Internal Database Service Pack 3 (KB955706)"
+  },
+  "description": {
+    "text": "Windows Internal Database Service Pack 3 (KB955706) upgrades the Windows Internal Database (WYukon) used by Windows components namely Windows SharePoint Services, Windows Server Update Services, Active Directory Rights Management Services, Windows System Resource Manager and UDDI Services. After you install this item, you may have to restart your computer."
+  }
+}

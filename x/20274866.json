@@ -1,0 +1,19 @@
+{
+  "defaultpropertieslanguage": "en",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS16-029"
+  },
+  "kbarticleid": {
+    "text": "3114861"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2010-0000"
+    }
+  ]
+}

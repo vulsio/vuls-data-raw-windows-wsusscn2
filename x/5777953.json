@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/2680326"
+  },
+  "securitybulletinid": {
+    "text": "MS12-028"
+  },
+  "kbarticleid": {
+    "text": "2680326"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,87 @@
+{
+  "creationdate": "2017-06-27T01:12:33Z",
+  "defaultlanguage": "en",
+  "updateid": "cea3a100-3853-4fcc-b8f9-69154d81869d",
+  "revisionid": "2805119",
+  "isleaf": "true",
+  "isbundle": "true",
+  "deploymentaction": "Bundle",
+  "categories": {},
+  "languages": {
+    "language": [
+      {
+        "name": "zh-cn"
+      },
+      {
+        "name": "zh-tw"
+      },
+      {
+        "name": "de"
+      },
+      {
+        "name": "es"
+      },
+      {
+        "name": "fr"
+      },
+      {
+        "name": "it"
+      },
+      {
+        "name": "ja"
+      },
+      {
+        "name": "ko"
+      },
+      {
+        "name": "pt-br"
+      },
+      {
+        "name": "en"
+      },
+      {
+        "name": "ar"
+      },
+      {
+        "name": "cs"
+      },
+      {
+        "name": "da"
+      },
+      {
+        "name": "el"
+      },
+      {
+        "name": "fi"
+      },
+      {
+        "name": "he"
+      },
+      {
+        "name": "hu"
+      },
+      {
+        "name": "nl"
+      },
+      {
+        "name": "no"
+      },
+      {
+        "name": "pl"
+      },
+      {
+        "name": "sv"
+      },
+      {
+        "name": "tr"
+      },
+      {
+        "name": "pt"
+      },
+      {
+        "name": "ru"
+      }
+    ]
+  },
+  "supersededby": {}
+}

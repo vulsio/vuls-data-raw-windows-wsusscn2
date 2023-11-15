@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "maxdownloadsize": "0",
+  "mindownloadsize": "0",
+  "isbeta": "false",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://go.microsoft.com/fwlink/?LinkID=281970"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "2841134"
+  },
+  "uninstallationbehavior": {}
+}

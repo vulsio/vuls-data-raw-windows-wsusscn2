@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for the 2007 Microsoft Office System (KB972581)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in the 2007 Microsoft Office System that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves the vulnerability so that the 2007 Microsoft Office System documents are handled appropriately."
+  }
+}

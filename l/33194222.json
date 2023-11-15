@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Azure File Sync Agent v11.1 Release – November 2020 (KB4539951)"
+  },
+  "description": {
+    "text": "Update for Azure File Sync agent (version 11.1.0.0). For more details, see the associated Microsoft Knowledge Base article."
+  }
+}

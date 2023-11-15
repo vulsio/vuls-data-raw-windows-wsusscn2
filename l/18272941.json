@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for SQL Server 2008 R2 Service Pack 2 (KB3045313)"
+  },
+  "description": {
+    "text": "A security issue has been identified in the SQL Server 2008 R2 Service Pack 2 that could allow an attacker to compromise your system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

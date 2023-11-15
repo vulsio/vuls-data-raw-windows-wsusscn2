@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "System Center Configuration Manager Service Pack 1 For Admin Console"
+  },
+  "description": {
+    "text": "Service Pack 1 (SP1) supports Windows Vista SP1 and Windows Server 2008, integrates support for Intel’s vPro technology, and provides an update to the Asset Intelligence capability initially shipped in Configuration Manager.\n"
+  }
+}

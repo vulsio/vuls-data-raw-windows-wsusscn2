@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4032212)  "
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office Compatibility Pack Service Pack 3  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+  }
+}

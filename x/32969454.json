@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://support.microsoft.com/en-us/help/4506163"
+  },
+  "securitybulletinid": {
+    "text": "MS00-000"
+  },
+  "kbarticleid": {
+    "text": "4506163"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2019-1079"
+    }
+  ]
+}

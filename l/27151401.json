@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for SQL Server 2016 Service Pack 1 GDR (KB4458842)"
+  },
+  "description": {
+    "text": "Executing a specially crafted query involving calculating difference between values of different date types and aggregation of the results, could lead to stack corruption, if the query runs in batch mode. Depending on particular values processed by such query, this could lead to terminating the SQL Server process, or a possibility of remote code execution.\nMore information about the vulnerability can be found here: http://support.microsoft.com/help/4458842\n\nThe original update for this security vulnerability, KB4293801 released on August 14, 2018, introduced an issue where the sqlceip.exe process experiences an unhandled exception.  For this reason, the update has been replaced.  If you have previously applied KB4293801, it is recommended that you install KB4458842 as soon as possible.\n"
+  }
+}

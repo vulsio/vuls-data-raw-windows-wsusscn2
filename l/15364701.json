@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Service Bus for Windows Server 1.1 (KB2972621)"
+  },
+  "description": {
+    "text": "Security Update for Service Bus for Windows Server 1.1. This update fixes a security vulnerability related to usage of the AMPQ protocol. It also contains a few other bug fixes to the product."
+  }
+}

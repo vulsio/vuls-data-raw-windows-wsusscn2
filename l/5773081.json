@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package (KB973923)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system with Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package and gain complete control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

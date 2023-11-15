@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update, December 17, 2001"
+  },
+  "description": {
+    "text": "This update resolves the \"Unchecked Buffer in Universal Plug and Play Can Lead to System Compromise\" security vulnerability in Windows XP.  Download now to help prevent a malicious user from compromising your computer or using your computer to compromise another computer's functionality."
+  }
+}

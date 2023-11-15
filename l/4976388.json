@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for SharePoint Team Services (KB911701)"
+  },
+  "description": {
+    "text": "A cross-site scripting and spoofing vulnerability exists in SharePoint Team Services from Microsoft. This update fixes that vulnerability. "
+  }
+}

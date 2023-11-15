@@ -1,0 +1,152 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "ar"
+    },
+    {
+      "text": "bg"
+    },
+    {
+      "text": "zh-hk"
+    },
+    {
+      "text": "zh-cn"
+    },
+    {
+      "text": "zh-tw"
+    },
+    {
+      "text": "hr"
+    },
+    {
+      "text": "cs"
+    },
+    {
+      "text": "da"
+    },
+    {
+      "text": "nl"
+    },
+    {
+      "text": "en"
+    },
+    {
+      "text": "et"
+    },
+    {
+      "text": "fi"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "el"
+    },
+    {
+      "text": "he"
+    },
+    {
+      "text": "hi"
+    },
+    {
+      "text": "hu"
+    },
+    {
+      "text": "it"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "ja-nec"
+    },
+    {
+      "text": "ko"
+    },
+    {
+      "text": "lv"
+    },
+    {
+      "text": "lt"
+    },
+    {
+      "text": "no"
+    },
+    {
+      "text": "pl"
+    },
+    {
+      "text": "pt-br"
+    },
+    {
+      "text": "pt"
+    },
+    {
+      "text": "ro"
+    },
+    {
+      "text": "ru"
+    },
+    {
+      "text": "sr"
+    },
+    {
+      "text": "sk"
+    },
+    {
+      "text": "sl"
+    },
+    {
+      "text": "es"
+    },
+    {
+      "text": "sv"
+    },
+    {
+      "text": "th"
+    },
+    {
+      "text": "tr"
+    },
+    {
+      "text": "uk"
+    }
+  ],
+  "supporturl": {
+    "text": "http://technet.microsoft.com/en-us/exchange/fp179701"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5000871"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2021-26412"
+    },
+    {
+      "text": "CVE-2021-27078"
+    },
+    {
+      "text": "CVE-2021-26854"
+    },
+    {
+      "text": "CVE-2021-26855"
+    },
+    {
+      "text": "CVE-2021-26857"
+    },
+    {
+      "text": "CVE-2021-26858"
+    },
+    {
+      "text": "CVE-2021-27065"
+    }
+  ]
+}

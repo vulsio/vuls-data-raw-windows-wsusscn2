@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Cumulative Security Update for Outlook Express 6 SP1 (KB823353)"
+  },
+  "description": {
+    "text": "A vulnerability exists in Outlook Express that could allow an attacker to cause Outlook Express to fail. You can help protect your computer by installing this update. After you install this update you may need to restart your computer."
+  }
+}

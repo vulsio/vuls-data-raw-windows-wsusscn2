@@ -1,0 +1,16 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/"
+  },
+  "securitybulletinid": {
+    "text": "MS11-068"
+  },
+  "kbarticleid": {
+    "text": "2556532"
+  },
+  "uninstallationbehavior": {}
+}

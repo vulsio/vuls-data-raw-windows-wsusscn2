@@ -1,0 +1,25 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "https://go.microsoft.com/fwlink/?linkid=2147044&clcid=0x409"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5005419"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2021-26423"
+    },
+    {
+      "text": "CVE-2021-34482"
+    },
+    {
+      "text": "CVE-2021-34532"
+    }
+  ]
+}

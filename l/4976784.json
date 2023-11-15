@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Word Viewer 2003 (KB934041)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office Word Viewer 2003 that could allow remote code execution. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update for Windows Vista for x64-based Systems (KB937287)"
+  },
+  "description": {
+    "text": "Install this update to enable future updates to install successfully on all editions of Windows Vista. This update may be required before selected future updates can be installed.  After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
+  }
+}

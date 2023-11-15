@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Expression Design 4 (KB2667730)"
+  },
+  "description": {
+    "text": "This security update resolves a vulnerability in Microsoft Expression Design which could allow remote code execution if a user opens a legitimate file located in the same network directory as a specially crafted dynamic link library (DLL) file."
+  }
+}

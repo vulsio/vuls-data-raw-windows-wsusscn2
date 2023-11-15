@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Learning Essentials 1.0 and 1.1 and 1.5 (KB929437)"
+  },
+  "description": {
+    "text": "Microsoft has released a security update for the Learning Essentials for Microsoft Office tools add-in versions 1.0, 1.1, and 1.5. This update addresses a vulnerability that could allow remote code execution."
+  }
+}

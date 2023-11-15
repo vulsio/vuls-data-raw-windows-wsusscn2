@@ -1,0 +1,18 @@
+{
+  "defaultpropertieslanguage": "en",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "832671"
+  },
+  "uninstallationbehavior": {}
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office OneNote 2007 (KB950130)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office OneNote 2007 that could allow arbitrary code to run when you click on a maliciously modified hyperlink. This update resolves that vulnerability."
+  }
+}

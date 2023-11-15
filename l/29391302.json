@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2019 CU2 (KB4509408)"
+  },
+  "description": {
+    "text": "The security update addresses 2 vulnerabilities:\nAn information disclosure vulnerability exists when Microsoft Exchange Server allows creation of entities with Display Names having non-printable characters.\nA cross-site-scripting (XSS) vulnerability exists when Microsoft Exchange Server does not properly sanitize a specially crafted web request to an affected Microsoft Exchange Server."
+  }
+}

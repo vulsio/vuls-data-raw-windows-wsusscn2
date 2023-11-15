@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update For Exchange Server 2016 CU8 (KB4073392)"
+  },
+  "description": {
+    "text": "This security update resolves a vulnerability in Microsoft Exchange Outlook Web Access (OWA). The vulnerability could allow elevation of privilege or spoofing in Microsoft Exchange Server if an attacker sends an email message that has a specially crafted attachment to a vulnerable server that is running Exchange Server."
+  }
+}

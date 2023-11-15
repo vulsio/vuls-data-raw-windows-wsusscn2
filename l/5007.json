@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q329115: Security Update (Windows XP)"
+  },
+  "description": {
+    "text": "This update resolves the \"Certificate Validation Flaw Could Enable Identity Spoofing\" vulnerability in Windows XP. Download now to help prevent an attacker from attempting identity spoofing using certificates. After you install this item, you may have to restart your computer."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q329414: Security Update (MDAC 2.6)"
+  },
+  "description": {
+    "text": "This security update applies to a component of Windows known as the Microsoft Data Access Component (MDAC). Please install now to help protect your Windows-based computer.  For more information, read the associated Microsoft Security Bulletin at http://www.microsoft.com/security."
+  }
+}

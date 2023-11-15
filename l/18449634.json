@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update Rollup 7 for Microsoft System Center 2012 R2 - Operations Manager Web Console (KB 3064919)\n        "
+  },
+  "description": {
+    "text": "\n          A security vulnerability exists in Microsoft System Center 2012 R2 - Operations Manager Web Console that could allow Elevation of Privilege if a user visits an affected website by way of a specially crafted URL. This update resolves that vulnerability.\n        "
+  }
+}

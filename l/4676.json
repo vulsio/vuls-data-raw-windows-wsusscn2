@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows 2000 (329834)"
+  },
+  "description": {
+    "text": "This update resolves the \"Unchecked Buffer in PPTP Implementation Could Enable Denial of Service\" security vulnerability in Windows 2000. Download now to help prevent an attacker from disrupting service on a server that offers private networking and uses the PPTP protocol."
+  }
+}

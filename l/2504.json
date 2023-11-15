@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q318138: Security Update (Windows XP)"
+  },
+  "description": {
+    "text": "This update resolves the \"Unchecked Buffer in Remote Access Service Phonebook Could Lead to Code Execution\" security vulnerability in Windows XP. This vulnerability is the result of an unchecked buffer in the Remote Access Service (RAS) Phonebook. Download now to eliminate this vulnerability by instituting proper input checking on the RAS phonebook entries."
+  }
+}

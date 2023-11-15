@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Lync Server 2013 Persistent Chat (KB2835433)"
+  },
+  "description": {
+    "text": "This package fixes issues described in KB2835433."
+  }
+}

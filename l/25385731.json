@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for SQL Server 2014 Service Pack 2 GDR (KB4019093)"
+  },
+  "description": {
+    "text": "Install this update to resolve issues in SQL Server 2014 SP2 Analysis Services. For a complete listing of the issues resolved in this update, see the associated Microsoft Knowledge Base article. After you install this update, you may have to restart your computer. \n\t "
+  }
+}

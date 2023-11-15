@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Small Business Accounting 2006 Office Web Components (KB968377)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Small Business Accounting 2006 Office Web Components that could allow arbitrary code to run when a maliciously modified web page is opened. This update resolves that vulnerability."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Microsoft Office 2003 (KB2598253)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft Office System 2003 that could allow arbitrary code to run when you open a maliciously modified file. This update resolves that vulnerability."
+  }
+}

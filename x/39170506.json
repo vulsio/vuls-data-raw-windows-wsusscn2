@@ -1,0 +1,31 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/kb/5026455"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "5026455"
+  },
+  "uninstallationbehavior": {},
+  "cveid": [
+    {
+      "text": "CVE-2023-27909"
+    },
+    {
+      "text": "CVE-2023-27910"
+    },
+    {
+      "text": "CVE-2023-27911"
+    },
+    {
+      "text": "CVE-2023-33139"
+    },
+    {
+      "text": "CVE-2023-24897"
+    }
+  ]
+}

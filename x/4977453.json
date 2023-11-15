@@ -1,0 +1,15 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Moderate",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS08-011"
+  },
+  "kbarticleid": {
+    "text": "943973"
+  },
+  "uninstallationbehavior": {}
+}

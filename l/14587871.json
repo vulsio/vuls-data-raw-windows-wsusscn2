@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Update Rollup for Lync Server 2013 Conferencing Attendant (KB2954867)"
+  },
+  "description": {
+    "text": "This package fixes issues described in KB2954867."
+  }
+}

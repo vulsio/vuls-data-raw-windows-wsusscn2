@@ -1,0 +1,21 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "isbeta": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    }
+  ],
+  "supporturl": {
+    "text": "http://support.microsoft.com/"
+  },
+  "securitybulletinid": {
+    "text": "MS11-017"
+  },
+  "kbarticleid": {
+    "text": "2483619"
+  },
+  "uninstallationbehavior": {}
+}

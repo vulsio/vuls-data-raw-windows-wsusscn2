@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows 2000 (815021)"
+  },
+  "description": {
+    "text": "An identified security vulnerability in Microsoft® Windows 2000 could allow an attacker to take control of the computer. This issue is most likely to affect computers used as web servers. You can help protect your computer from this and other identified issues by installing this update from Microsoft.  After you install this item, you may have to restart your computer."
+  }
+}

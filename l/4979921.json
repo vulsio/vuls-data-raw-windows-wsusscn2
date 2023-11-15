@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for PowerPoint Viewer 2003 (KB969615)"
+  },
+  "description": {
+    "text": "A security vulnerability exists in Microsoft PowerPoint Viewer 2003 that could allow arbitrary code to run when a maliciously modified document is opened. This update resolves that vulnerability."
+  }
+}

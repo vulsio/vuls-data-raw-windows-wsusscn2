@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Host Integration Server 2006 (KB956695)"
+  },
+  "description": {
+    "text": "This update provides a fix for a security vulnerability in the SNA RPC Service. "
+  }
+}

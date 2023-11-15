@@ -1,0 +1,15 @@
+{
+  "defaultpropertieslanguage": "en",
+  "msrcseverity": "Important",
+  "installationbehavior": {},
+  "supporturl": {
+    "text": "http://support.microsoft.com/?LN=en-us"
+  },
+  "securitybulletinid": {
+    "text": "MS07-013"
+  },
+  "kbarticleid": {
+    "text": "929437"
+  },
+  "uninstallationbehavior": {}
+}

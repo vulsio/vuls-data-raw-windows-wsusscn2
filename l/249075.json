@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Windows Server 2003 x64 Edition (KB899587)"
+  },
+  "description": {
+    "text": "A security issue has been identified that could allow an attacker to gain access to sensitive data transmitted through your Microsoft Windows-based system in a domain environment, and to perform denial of service attacks against domain controllers. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+  }
+}

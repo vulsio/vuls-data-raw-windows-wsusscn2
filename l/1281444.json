@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Windows Rights Management Services Client with Service Pack 2 (KB917275)"
+  },
+  "description": {
+    "text": "Rights Management Services (RMS) client Service Pack 2 contains software updates for RMS Client v1.0 and RMS Client v1.0 SP1 that provide support for Microsoft new Exchange and Office SharePoint technologies and future implementations of ADFS clients, as well as improvements in security processor functionality. Native 64-bit execution for X64 and IA64 platforms is also supported in this release."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Security Update for Office Communicator 2007 R2 (KB2708980)"
+  },
+  "description": {
+    "text": "This security update resolves one publicly disclosed vulnerability and three privately reported vulnerabilities in Microsoft Lync. The most severe vulnerabilities could allow remote code execution if a user views shared content that contains specially crafted TrueType fonts."
+  }
+}

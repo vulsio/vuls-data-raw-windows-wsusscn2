@@ -1,0 +1,31 @@
+{
+  "defaultpropertieslanguage": "en",
+  "isbeta": "false",
+  "requiresreacceptanceofeula": "false",
+  "installationbehavior": {},
+  "language": [
+    {
+      "text": "en"
+    },
+    {
+      "text": "fr"
+    },
+    {
+      "text": "de"
+    },
+    {
+      "text": "ja"
+    },
+    {
+      "text": "es"
+    }
+  ],
+  "supporturl": {
+    "text": "http://technet.microsoft.com/en-us/windows/dd767387.aspx"
+  },
+  "securitybulletinid": {},
+  "kbarticleid": {
+    "text": "948465"
+  },
+  "uninstallationbehavior": {}
+}

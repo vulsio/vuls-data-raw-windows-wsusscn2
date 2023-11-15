@@ -1,0 +1,11 @@
+{
+  "language": {
+    "text": "en"
+  },
+  "title": {
+    "text": "Q324096: Security Update (Windows XP)"
+  },
+  "description": {
+    "text": "This update resolves the \"Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution\" vulnerability in Windows XP. Download now to eliminate a vulnerability of moderate severity in the Front Page 2000 Server Extensions for Microsoft Office."
+  }
+}
