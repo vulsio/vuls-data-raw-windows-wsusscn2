@@ -26,5 +26,14 @@
     ]
   },
   "languages": {},
-  "supersededby": {}
+  "supersededby": {
+    "revision": [
+      {
+        "id": "40123506"
+      },
+      {
+        "id": "40123470"
+      }
+    ]
+  }
 }
