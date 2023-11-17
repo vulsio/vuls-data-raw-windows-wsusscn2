@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkID=93309"
-  },
-  "securitybulletinid": {
-    "text": "MS07-052"
-  },
-  "kbarticleid": {
-    "text": "937061"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkID=93309"
+	},
+	"securitybulletinid": {
+		"text": "MS07-052"
+	},
+	"kbarticleid": {
+		"text": "937061"
+	},
+	"uninstallationbehavior": {}
 }

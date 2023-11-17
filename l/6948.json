@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "MS03-026: Security Update for Windows Server 2003 (823980)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to remotely compromise a computer running Microsoft® Windows® and gain complete control over it. This security issue is the vulnerability that is exploited by the blaster worm. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "MS03-026: Security Update for Windows Server 2003 (823980)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to remotely compromise a computer running Microsoft® Windows® and gain complete control over it. This security issue is the vulnerability that is exploited by the blaster worm. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

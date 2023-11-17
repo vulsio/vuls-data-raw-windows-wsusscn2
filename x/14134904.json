@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS11-024"
-  },
-  "kbarticleid": {
-    "text": "2491683"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS11-024"
+	},
+	"kbarticleid": {
+		"text": "2491683"
+	},
+	"uninstallationbehavior": {}
 }

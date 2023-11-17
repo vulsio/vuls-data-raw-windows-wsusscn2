@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS15-005"
-  },
-  "kbarticleid": {
-    "text": "3022777"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS15-005"
+	},
+	"kbarticleid": {
+		"text": "3022777"
+	},
+	"uninstallationbehavior": {}
 }

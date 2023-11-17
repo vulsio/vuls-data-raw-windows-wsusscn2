@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Windows Vista (KB3148851)"
-  },
-  "description": {
-    "text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Windows Vista (KB3148851)"
+	},
+	"description": {
+		"text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS11-069"
-  },
-  "kbarticleid": {
-    "text": "2539635"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS11-069"
+	},
+	"kbarticleid": {
+		"text": "2539635"
+	},
+	"uninstallationbehavior": {}
 }

@@ -1,85 +1,85 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "requiresreacceptanceofeula": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "pt-br"
-    }
-  ],
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=71719"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "940767"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"requiresreacceptanceofeula": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "pt-br"
+		}
+	],
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=71719"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "940767"
+	},
+	"uninstallationbehavior": {}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2013 CU22 (KB4503028)"
-  },
-  "description": {
-    "text": "This update for Microsoft Exchange Server provides enhanced security as a defense in depth measure."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2013 CU22 (KB4503028)"
+	},
+	"description": {
+		"text": "This update for Microsoft Exchange Server provides enhanced security as a defense in depth measure."
+	}
 }

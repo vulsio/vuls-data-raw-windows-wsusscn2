@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the information disclosure vulnerability in Microsoft Visual Studio 2015 Update 3 (KB5026455)"
-  },
-  "description": {
-    "text": "Information disclosure vulnerability in Microsoft Visual Studio 2015 Update 3"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the information disclosure vulnerability in Microsoft Visual Studio 2015 Update 3 (KB5026455)"
+	},
+	"description": {
+		"text": "Information disclosure vulnerability in Microsoft Visual Studio 2015 Update 3"
+	}
 }

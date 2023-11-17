@@ -1,72 +1,72 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "ja"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS11-077"
-  },
-  "kbarticleid": {
-    "text": "2567053"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "ja"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS11-077"
+	},
+	"kbarticleid": {
+		"text": "2567053"
+	},
+	"uninstallationbehavior": {}
 }

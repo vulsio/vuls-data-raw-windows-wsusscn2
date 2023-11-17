@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 10 for Microsoft System Center 2016 - Operations Manager WebConsole (KB4580254)\n        "
-  },
-  "description": {
-    "text": "This updates resolves problems described in  KB4580254\n        "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 10 for Microsoft System Center 2016 - Operations Manager WebConsole (KB4580254)\n        "
+	},
+	"description": {
+		"text": "This updates resolves problems described in  KB4580254\n        "
+	}
 }

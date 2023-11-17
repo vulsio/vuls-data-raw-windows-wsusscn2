@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS10-029"
-  },
-  "kbarticleid": {
-    "text": "978338"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS10-029"
+	},
+	"kbarticleid": {
+		"text": "978338"
+	},
+	"uninstallationbehavior": {}
 }

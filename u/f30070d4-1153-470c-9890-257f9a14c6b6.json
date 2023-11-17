@@ -1,60 +1,60 @@
 {
-  "creationdate": "2017-06-27T02:10:24Z",
-  "defaultlanguage": "en",
-  "updateid": "f30070d4-1153-470c-9890-257f9a14c6b6",
-  "revisionid": "4971057",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "ca9e8c72-81c4-11dc-8284-f47156d89593"
-      },
-      {
-        "type": "Product",
-        "id": "d8584b2b-3ac5-4201-91cb-caf6d240dc0b"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "de"
-      },
-      {
-        "name": "en"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "ko"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "zh-tw"
-      }
-    ]
-  },
-  "supersededby": {}
+	"creationdate": "2017-06-27T02:10:24Z",
+	"defaultlanguage": "en",
+	"updateid": "f30070d4-1153-470c-9890-257f9a14c6b6",
+	"revisionid": "4971057",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "ca9e8c72-81c4-11dc-8284-f47156d89593"
+			},
+			{
+				"type": "Product",
+				"id": "d8584b2b-3ac5-4201-91cb-caf6d240dc0b"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "de"
+			},
+			{
+				"name": "en"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "ko"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "zh-tw"
+			}
+		]
+	},
+	"supersededby": {}
 }

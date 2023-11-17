@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 2 for System Center 2019 - Data Protection Manager (KB4563392)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article KB4563392."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for System Center 2019 - Data Protection Manager (KB4563392)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article KB4563392."
+	}
 }

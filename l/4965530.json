@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Project 2002 Service Pack 1"
-  },
-  "description": {
-    "text": "Project 2002 Service Pack 1 (SP1) provides the latest updates to Microsoft Project 2002. SP1 contains significant security enhancements as well as stability and performance improvements. This service pack contains all previously released updates to Project 2002."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Project 2002 Service Pack 1"
+	},
+	"description": {
+		"text": "Project 2002 Service Pack 1 (SP1) provides the latest updates to Microsoft Project 2002. SP1 contains significant security enhancements as well as stability and performance improvements. This service pack contains all previously released updates to Project 2002."
+	}
 }

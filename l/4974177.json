@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Unified Communications Managed API 3.0, Windows Workflow Activities Runtime 64 bit (KB 2568557)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 2568557"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Unified Communications Managed API 3.0, Windows Workflow Activities Runtime 64 bit (KB 2568557)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 2568557"
+	}
 }

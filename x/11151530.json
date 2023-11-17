@@ -1,51 +1,51 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "es"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS14-011"
-  },
-  "kbarticleid": {
-    "text": "2909212"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "es"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS14-011"
+	},
+	"kbarticleid": {
+		"text": "2909212"
+	},
+	"uninstallationbehavior": {}
 }

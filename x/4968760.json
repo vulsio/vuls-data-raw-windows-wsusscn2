@@ -1,42 +1,42 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=59048"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "951951"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=59048"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "951951"
+	},
+	"uninstallationbehavior": {}
 }

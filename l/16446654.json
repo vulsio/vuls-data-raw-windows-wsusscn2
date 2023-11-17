@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 5 for Microsoft System Center 2012 R2 - Operations Manager Agent (KB3023138)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in KB3023138"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 5 for Microsoft System Center 2012 R2 - Operations Manager Agent (KB3023138)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in KB3023138"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS12-079"
-  },
-  "kbarticleid": {
-    "text": "2760498"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2010-0000"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS12-079"
+	},
+	"kbarticleid": {
+		"text": "2760498"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2010-0000"
+		}
+	]
 }

@@ -1,69 +1,69 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "tr"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS12-035"
-  },
-  "kbarticleid": {
-    "text": "2604078"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "tr"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS12-035"
+	},
+	"kbarticleid": {
+		"text": "2604078"
+	},
+	"uninstallationbehavior": {}
 }

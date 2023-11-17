@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft Advanced Threat Analytics 1.6 Update 1"
-  },
-  "description": {
-    "text": "Abnormal behavior algorithm false positive reduction.\nCenter performance improvement."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft Advanced Threat Analytics 1.6 Update 1"
+	},
+	"description": {
+		"text": "Abnormal behavior algorithm false positive reduction.\nCenter performance improvement."
+	}
 }

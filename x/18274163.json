@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "pt-br"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS15-075"
-  },
-  "kbarticleid": {
-    "text": "3072633"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "pt-br"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS15-075"
+	},
+	"kbarticleid": {
+		"text": "3072633"
+	},
+	"uninstallationbehavior": {}
 }

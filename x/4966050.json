@@ -1,83 +1,83 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "zh-hk"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "fi"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "887619"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "zh-hk"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "fi"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "887619"
+	},
+	"uninstallationbehavior": {}
 }

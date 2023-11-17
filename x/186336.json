@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=40974"
-  },
-  "securitybulletinid": {
-    "text": "MS05-006"
-  },
-  "kbarticleid": {
-    "text": "887981"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=40974"
+	},
+	"securitybulletinid": {
+		"text": "MS05-006"
+	},
+	"kbarticleid": {
+		"text": "887981"
+	},
+	"uninstallationbehavior": {}
 }

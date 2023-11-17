@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ko"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "he"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS16-032"
-  },
-  "kbarticleid": {
-    "text": "3139914"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ko"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "he"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS16-032"
+	},
+	"kbarticleid": {
+		"text": "3139914"
+	},
+	"uninstallationbehavior": {}
 }

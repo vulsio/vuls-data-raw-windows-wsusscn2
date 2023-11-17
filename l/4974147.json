@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Conferencing Server (KB 2514975)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 2514975"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Conferencing Server (KB 2514975)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 2514975"
+	}
 }

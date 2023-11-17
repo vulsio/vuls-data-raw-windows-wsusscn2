@@ -1,91 +1,91 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "requiresreacceptanceofeula": "true",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-hk"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com/winxp"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "936929"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"requiresreacceptanceofeula": "true",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-hk"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com/winxp"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "936929"
+	},
+	"uninstallationbehavior": {}
 }

@@ -1,72 +1,72 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-hk"
-    }
-  ],
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=131761"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "2660819"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-hk"
+		}
+	],
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=131761"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "2660819"
+	},
+	"uninstallationbehavior": {}
 }

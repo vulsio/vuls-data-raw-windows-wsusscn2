@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync 2010 X64 (KB2884632)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB2884632."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync 2010 X64 (KB2884632)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB2884632."
+	}
 }

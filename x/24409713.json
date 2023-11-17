@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "pt-br"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS17-022"
-  },
-  "kbarticleid": {
-    "text": "3216916"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "pt-br"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS17-022"
+	},
+	"kbarticleid": {
+		"text": "3216916"
+	},
+	"uninstallationbehavior": {}
 }

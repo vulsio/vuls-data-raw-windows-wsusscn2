@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows Server Update Services 3.0 SP2 for x64-based Systems (KB972455)"
-  },
-  "description": {
-    "text": "Install Microsoft Windows Server Update Services 3.0 Service Pack 2 (WSUS 3.0 SP2) to obtain improvements including support for Windows Server 2008 R2, Windows 7 clients, BranchCache and additional features. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows Server Update Services 3.0 SP2 for x64-based Systems (KB972455)"
+	},
+	"description": {
+		"text": "Install Microsoft Windows Server Update Services 3.0 Service Pack 2 (WSUS 3.0 SP2) to obtain improvements including support for Windows Server 2008 R2, Windows 7 clients, BranchCache and additional features. After you install this item, you may have to restart your computer."
+	}
 }

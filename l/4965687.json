@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Visio 2002 Service Pack 2"
-  },
-  "description": {
-    "text": "Visio 2002 Service Pack 2 (SP2) provides the latest updates to Microsoft Visio 2002. SP2 contains significant security enhancements as well as stability and performance improvements. This service pack applies to any level of Visio 2002. It contains all updates included in SR1, in addition to updates released after SR1."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Visio 2002 Service Pack 2"
+	},
+	"description": {
+		"text": "Visio 2002 Service Pack 2 (SP2) provides the latest updates to Microsoft Visio 2002. SP2 contains significant security enhancements as well as stability and performance improvements. This service pack applies to any level of Visio 2002. It contains all updates included in SR1, in addition to updates released after SR1."
+	}
 }

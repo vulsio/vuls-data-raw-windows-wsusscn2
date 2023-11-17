@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Exchange 2000 Server Service Pack 3 (KB959897)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Exchange 2000 Server Service Pack 3 systems and gain control over them. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Exchange 2000 Server Service Pack 3 (KB959897)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Exchange 2000 Server Service Pack 3 systems and gain control over them. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

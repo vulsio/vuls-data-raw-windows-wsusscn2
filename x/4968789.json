@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=59048"
-  },
-  "securitybulletinid": {
-    "text": "MS08-052"
-  },
-  "kbarticleid": {
-    "text": "957177"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=59048"
+	},
+	"securitybulletinid": {
+		"text": "MS08-052"
+	},
+	"kbarticleid": {
+		"text": "957177"
+	},
+	"uninstallationbehavior": {}
 }

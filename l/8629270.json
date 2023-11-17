@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 2 for Microsoft SharePoint 2010 Indexing Connector for Documentum (KB2687459) "
-  },
-  "description": {
-    "text": "Service Pack 2 (SP2) for Microsoft SharePoint 2010 Indexing Connector for Documentum  contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 2 for Microsoft SharePoint 2010 Indexing Connector for Documentum (KB2687459) "
+	},
+	"description": {
+		"text": "Service Pack 2 (SP2) for Microsoft SharePoint 2010 Indexing Connector for Documentum  contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
+	}
 }

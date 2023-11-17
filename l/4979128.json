@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Access Snapshot Viewer 2003 (KB955439)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in the Snapshot Viewer that could allow arbitrary code to run when you open a maliciously modified web page or document. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Access Snapshot Viewer 2003 (KB955439)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in the Snapshot Viewer that could allow arbitrary code to run when you open a maliciously modified web page or document. This update resolves that vulnerability."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2020-05 Update for Windows Server 2012 R2 for x64-based Systems (KB4557900)"
-  },
-  "description": {
-    "text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2020-05 Update for Windows Server 2012 R2 for x64-based Systems (KB4557900)"
+	},
+	"description": {
+		"text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Microsoft Silverlight (KB4481252)"
-  },
-  "description": {
-    "text": "This update to Silverlight improves security, reliability, accessibility support, startup performance, enhances line-of-business support and includes several fixes to better support rich internet applications. This update is backward compatible with web applications built using previous versions of Silverlight."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Microsoft Silverlight (KB4481252)"
+	},
+	"description": {
+		"text": "This update to Silverlight improves security, reliability, accessibility support, startup performance, enhances line-of-business support and includes several fixes to better support rich internet applications. This update is backward compatible with web applications built using previous versions of Silverlight."
+	}
 }

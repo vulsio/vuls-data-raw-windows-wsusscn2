@@ -1,57 +1,57 @@
 {
-  "creationdate": "2023-03-13T20:24:04Z",
-  "defaultlanguage": "en",
-  "updateid": "517bab01-2498-4172-9d5e-a59e508fc71a",
-  "revisionid": "38632785",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "b3c75dc1-155f-4be4-b015-3f1a91758e52"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "38980219"
-      },
-      {
-        "id": "39193336"
-      },
-      {
-        "id": "39745506"
-      },
-      {
-        "id": "39373553"
-      },
-      {
-        "id": "39909103"
-      },
-      {
-        "id": "38812994"
-      },
-      {
-        "id": "40122320"
-      },
-      {
-        "id": "39527644"
-      }
-    ]
-  }
+	"creationdate": "2023-03-13T20:24:04Z",
+	"defaultlanguage": "en",
+	"updateid": "517bab01-2498-4172-9d5e-a59e508fc71a",
+	"revisionid": "38632785",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "b3c75dc1-155f-4be4-b015-3f1a91758e52"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "38980219"
+			},
+			{
+				"id": "39193336"
+			},
+			{
+				"id": "39745506"
+			},
+			{
+				"id": "39373553"
+			},
+			{
+				"id": "39909103"
+			},
+			{
+				"id": "38812994"
+			},
+			{
+				"id": "40122320"
+			},
+			{
+				"id": "39527644"
+			}
+		]
+	}
 }

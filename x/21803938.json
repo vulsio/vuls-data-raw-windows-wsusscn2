@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS16-097"
-  },
-  "kbarticleid": {
-    "text": "3178034"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS16-097"
+	},
+	"kbarticleid": {
+		"text": "3178034"
+	},
+	"uninstallationbehavior": {}
 }

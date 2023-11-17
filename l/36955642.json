@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-06 .NET Core 3.1.26 Security Update for x86 Client (KB5015424)"
-  },
-  "description": {
-    "text": "2022-06 .NET Core 3.1.26 Security Update for x86 Client (KB5015424)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-06 .NET Core 3.1.26 Security Update for x86 Client (KB5015424)"
+	},
+	"description": {
+		"text": "2022-06 .NET Core 3.1.26 Security Update for x86 Client (KB5015424)"
+	}
 }

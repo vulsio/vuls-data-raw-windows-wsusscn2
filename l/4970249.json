@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Visual Studio 2005 Service Pack 1"
-  },
-  "description": {
-    "text": "Visual Studio 2005 Service Pack 1 updates Microsoft Visual Studio 2005, Microsoft Visual Studio 2005 Team System, Microsoft Visual Studio 2005 Tools for the Microsoft Office System, and Microsoft Visual Studio 2005 Team Explorer with the latest security and stability enhancements to help keep those systems up-to-date, reliable, and secure.  The goal of all of our service packs is to increase the overall quality of the existing product features while maintaining a high level of compatibility. The installation of this service pack might take up to several hours. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Visual Studio 2005 Service Pack 1"
+	},
+	"description": {
+		"text": "Visual Studio 2005 Service Pack 1 updates Microsoft Visual Studio 2005, Microsoft Visual Studio 2005 Team System, Microsoft Visual Studio 2005 Tools for the Microsoft Office System, and Microsoft Visual Studio 2005 Team Explorer with the latest security and stability enhancements to help keep those systems up-to-date, reliable, and secure.  The goal of all of our service packs is to increase the overall quality of the existing product features while maintaining a high level of compatibility. The installation of this service pack might take up to several hours. After you install this item, you may have to restart your computer."
+	}
 }

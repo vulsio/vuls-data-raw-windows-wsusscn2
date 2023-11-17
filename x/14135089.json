@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS13-027"
-  },
-  "kbarticleid": {
-    "text": "2807986"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS13-027"
+	},
+	"kbarticleid": {
+		"text": "2807986"
+	},
+	"uninstallationbehavior": {}
 }

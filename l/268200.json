@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows 2000 (KB908523)"
-  },
-  "description": {
-    "text": "A security issue has been identified in Microsoft Windows based systems that could allow an attacker who successfully exploited this vulnerability to take complete control of an affected system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows 2000 (KB908523)"
+	},
+	"description": {
+		"text": "A security issue has been identified in Microsoft Windows based systems that could allow an attacker who successfully exploited this vulnerability to take complete control of an affected system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights. After you install this item, you may have to restart your computer."
+	}
 }

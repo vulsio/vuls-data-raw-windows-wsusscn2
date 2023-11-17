@@ -1,72 +1,72 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "ru"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS13-036"
-  },
-  "kbarticleid": {
-    "text": "2808735"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "ru"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS13-036"
+	},
+	"kbarticleid": {
+		"text": "2808735"
+	},
+	"uninstallationbehavior": {}
 }

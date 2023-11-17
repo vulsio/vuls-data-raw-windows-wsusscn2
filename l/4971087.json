@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Expression Web 3 Service Pack 1 (KB976594)"
-  },
-  "description": {
-    "text": "Microsoft Expression Web 3 Service Pack 1 (KB976594) contains significant fixes and improvements in publishing, SuperPreview, file management, extensibility, and other areas of the program."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Expression Web 3 Service Pack 1 (KB976594)"
+	},
+	"description": {
+		"text": "Microsoft Expression Web 3 Service Pack 1 (KB976594) contains significant fixes and improvements in publishing, SuperPreview, file management, extensibility, and other areas of the program."
+	}
 }

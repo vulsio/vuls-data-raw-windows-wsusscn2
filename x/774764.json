@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ar"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ja-nec"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/891861"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "891861"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ar"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ja-nec"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/891861"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "891861"
+	},
+	"uninstallationbehavior": {}
 }

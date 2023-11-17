@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/2520426"
-  },
-  "securitybulletinid": {
-    "text": "MS11-040"
-  },
-  "kbarticleid": {
-    "text": "2520426"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2011-1889"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/2520426"
+	},
+	"securitybulletinid": {
+		"text": "MS11-040"
+	},
+	"kbarticleid": {
+		"text": "2520426"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2011-1889"
+		}
+	]
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Expression Media 2 SP2"
-  },
-  "description": {
-    "text": "Expression Media SP2 provides the latest updates to Microsoft Expression Media. Some fixes that are included with this service pack may have been previously released as separate updates. This service pack combines them into one update."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Expression Media 2 SP2"
+	},
+	"description": {
+		"text": "Expression Media SP2 provides the latest updates to Microsoft Expression Media. Some fixes that are included with this service pack may have been previously released as separate updates. This service pack combines them into one update."
+	}
 }

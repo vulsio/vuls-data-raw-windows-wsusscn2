@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft SQL Server 2008 R2 - PowerPivot for Microsoft Excel 2010 - Service Pack 1 (KB2639688)"
-  },
-  "description": {
-    "text": "Microsoft PowerPivot for Microsoft Excel 2010 provides ground-breaking technology, such as fast manipulation of large data sets (often millions of rows), streamlined integration of data, and the ability to effortlessly share your analysis through Microsoft SharePoint 2010."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft SQL Server 2008 R2 - PowerPivot for Microsoft Excel 2010 - Service Pack 1 (KB2639688)"
+	},
+	"description": {
+		"text": "Microsoft PowerPivot for Microsoft Excel 2010 provides ground-breaking technology, such as fast manipulation of large data sets (often millions of rows), streamlined integration of data, and the ability to effortlessly share your analysis through Microsoft SharePoint 2010."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync 2010 Attendant (KB 2496326)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB 2496326."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync 2010 Attendant (KB 2496326)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB 2496326."
+	}
 }

@@ -1,51 +1,51 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS08-033"
-  },
-  "kbarticleid": {
-    "text": "951698"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS08-033"
+	},
+	"kbarticleid": {
+		"text": "951698"
+	},
+	"uninstallationbehavior": {}
 }

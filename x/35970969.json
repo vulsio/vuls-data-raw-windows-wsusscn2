@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/5007275"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5007275"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2021-42277"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/5007275"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5007275"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2021-42277"
+		}
+	]
 }

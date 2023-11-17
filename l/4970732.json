@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communications Server 2007 R2, Conferencing Attendant (KB 2403680)"
-  },
-  "description": {
-    "text": "This Package fixes issues described in KB Article 2403680."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communications Server 2007 R2, Conferencing Attendant (KB 2403680)"
+	},
+	"description": {
+		"text": "This Package fixes issues described in KB Article 2403680."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Q311967: Security Update"
-  },
-  "description": {
-    "text": "This update resolves the \"Unchecked buffer in the Multiple UNC Provider\" security vulnerability in Windows XP, and is discussed in Microsoft Security Bulletin MS02-017. Download now to help prevent a malicious user from exploiting a buffer overflow vulnerability to either cause your computer to restart or to run unauthorized programs on your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Q311967: Security Update"
+	},
+	"description": {
+		"text": "This update resolves the \"Unchecked buffer in the Multiple UNC Provider\" security vulnerability in Windows XP, and is discussed in Microsoft Security Bulletin MS02-017. Download now to help prevent a malicious user from exploiting a buffer overflow vulnerability to either cause your computer to restart or to run unauthorized programs on your computer."
+	}
 }

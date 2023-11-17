@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Office 2003 Service Pack 3 (SP3) for Multilingual User Interface Pack"
-  },
-  "description": {
-    "text": "Microsoft Office 2003 Service Pack 3 (SP3) for Multilingual User Interface Pack contains significant security enhancements, in addition to stability improvements. Some of the fixes included with SP3 have been previously released as separate updates. This service pack combines them into one update."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Office 2003 Service Pack 3 (SP3) for Multilingual User Interface Pack"
+	},
+	"description": {
+		"text": "Microsoft Office 2003 Service Pack 3 (SP3) for Multilingual User Interface Pack contains significant security enhancements, in addition to stability improvements. Some of the fixes included with SP3 have been previously released as separate updates. This service pack combines them into one update."
+	}
 }

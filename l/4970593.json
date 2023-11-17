@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "HPC Pack 2008 Service Pack 1"
-  },
-  "description": {
-    "text": "Microsoft HPC Pack 2008 Service Pack 1 (SP1) provides the latest performance, reliability, and security updates to the HPC Pack 2008 product. It is recommended for all users of HPC Pack 2008."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "HPC Pack 2008 Service Pack 1"
+	},
+	"description": {
+		"text": "Microsoft HPC Pack 2008 Service Pack 1 (SP1) provides the latest performance, reliability, and security updates to the HPC Pack 2008 product. It is recommended for all users of HPC Pack 2008."
+	}
 }

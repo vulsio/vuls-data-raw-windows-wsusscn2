@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2021-06 .NET 5.0.7 Security Update for x64 Client"
-  },
-  "description": {
-    "text": "2021-06 .NET 5.0.7 Security Update for x64 Client"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2021-06 .NET 5.0.7 Security Update for x64 Client"
+	},
+	"description": {
+		"text": "2021-06 .NET 5.0.7 Security Update for x64 Client"
+	}
 }

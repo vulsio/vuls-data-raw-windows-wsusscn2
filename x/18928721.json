@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "pt-br"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS15-106"
-  },
-  "kbarticleid": {
-    "text": "3093983"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "pt-br"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS15-106"
+	},
+	"kbarticleid": {
+		"text": "3093983"
+	},
+	"uninstallationbehavior": {}
 }

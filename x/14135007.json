@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS11-053"
-  },
-  "kbarticleid": {
-    "text": "2532531"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS11-053"
+	},
+	"kbarticleid": {
+		"text": "2532531"
+	},
+	"uninstallationbehavior": {}
 }

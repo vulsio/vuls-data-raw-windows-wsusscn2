@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Windows Vista (KB2570791)"
-  },
-  "description": {
-    "text": "Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries. This update enables your computer to automatically adjust the computer clock on the correct date in 2011. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Windows Vista (KB2570791)"
+	},
+	"description": {
+		"text": "Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries. This update enables your computer to automatically adjust the computer clock on the correct date in 2011. After you install this item, you may have to restart your computer."
+	}
 }

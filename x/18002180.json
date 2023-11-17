@@ -1,53 +1,53 @@
 {
-  "defaultpropertieslanguage": "en",
-  "maxdownloadsize": "0",
-  "mindownloadsize": "0",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "ko"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS15-061"
-  },
-  "kbarticleid": {
-    "text": "3057839"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"maxdownloadsize": "0",
+	"mindownloadsize": "0",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "ko"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS15-061"
+	},
+	"kbarticleid": {
+		"text": "3057839"
+	},
+	"uninstallationbehavior": {}
 }

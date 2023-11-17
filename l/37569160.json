@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-09 Cumulative Update for Azure Stack HCI, version 20H2 and  Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5017311)"
-  },
-  "description": {
-    "text": "Install this update to resolve issues in Azure Stack HCI, version 20H2 and Windows Server 2019 Datacenter: Azure Edition. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-09 Cumulative Update for Azure Stack HCI, version 20H2 and  Windows Server 2019 Datacenter: Azure Edition for x64-based Systems (KB5017311)"
+	},
+	"description": {
+		"text": "Install this update to resolve issues in Azure Stack HCI, version 20H2 and Windows Server 2019 Datacenter: Azure Edition. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+	}
 }

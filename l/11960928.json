@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 2 for Microsoft System Center 2012 R2 Orchestrator - SPF (KB2932939)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 2932939"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for Microsoft System Center 2012 R2 Orchestrator - SPF (KB2932939)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 2932939"
+	}
 }

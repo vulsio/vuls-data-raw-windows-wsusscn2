@@ -1,24 +1,24 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ja"
-    },
-    {
-      "text": "en"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS09-029"
-  },
-  "kbarticleid": {
-    "text": "961371"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ja"
+		},
+		{
+			"text": "en"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS09-029"
+	},
+	"kbarticleid": {
+		"text": "961371"
+	},
+	"uninstallationbehavior": {}
 }

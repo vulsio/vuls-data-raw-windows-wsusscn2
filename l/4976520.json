@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for PowerPoint 2003 (KB923091)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office PowerPoint 2003 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for PowerPoint 2003 (KB923091)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office PowerPoint 2003 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

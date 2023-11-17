@@ -1,30 +1,30 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ja"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "en"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS06-014"
-  },
-  "kbarticleid": {
-    "text": "911562"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ja"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "en"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS06-014"
+	},
+	"kbarticleid": {
+		"text": "911562"
+	},
+	"uninstallationbehavior": {}
 }

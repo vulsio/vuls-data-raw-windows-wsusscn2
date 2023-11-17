@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Mediation Server (KB 2640253)"
-  },
-  "description": {
-    "text": "This Package fixes issues described in KB Article 2640253"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Mediation Server (KB 2640253)"
+	},
+	"description": {
+		"text": "This Package fixes issues described in KB Article 2640253"
+	}
 }

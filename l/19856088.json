@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 8 for Microsoft System Center 2012 R2 - Operations Manager Console (KB3096382)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in KB3096382"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 8 for Microsoft System Center 2012 R2 - Operations Manager Console (KB3096382)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in KB3096382"
+	}
 }

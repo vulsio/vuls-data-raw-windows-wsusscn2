@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Windows (819696)"
-  },
-  "description": {
-    "text": "An identified security issue in Microsoft DirectX could allow an attacker to run programs on a computer running Microsoft Windows. The attacker would first have to send you an e-mail message or entice you into visiting a malicious Web site. You can help protect your computer by installing this update from Microsoft. Once you have installed this item, it cannot be removed."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Windows (819696)"
+	},
+	"description": {
+		"text": "An identified security issue in Microsoft DirectX could allow an attacker to run programs on a computer running Microsoft Windows. The attacker would first have to send you an e-mail message or entice you into visiting a malicious Web site. You can help protect your computer by installing this update from Microsoft. Once you have installed this item, it cannot be removed."
+	}
 }

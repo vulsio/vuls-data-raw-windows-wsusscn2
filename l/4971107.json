@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Expression Web 4 Service Pack 2  (KB2571841)"
-  },
-  "description": {
-    "text": "Microsoft Expression Web 4 Service Pack 2 (SP2) contains significant fixes and improvements. It includes support for jQuery, image thumbnails in the Folder List panel, a new Snippets panel, universal comment/uncomment, custom toolbars, and custom workspaces."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Expression Web 4 Service Pack 2  (KB2571841)"
+	},
+	"description": {
+		"text": "Microsoft Expression Web 4 Service Pack 2 (SP2) contains significant fixes and improvements. It includes support for jQuery, image thumbnails in the Folder List panel, a new Snippets panel, universal comment/uncomment, custom toolbars, and custom workspaces."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2010 Unified Communications Managed API 3.0, Core Runtime 64-bit (KB2793341)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2793341."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2010 Unified Communications Managed API 3.0, Core Runtime 64-bit (KB2793341)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2793341."
+	}
 }

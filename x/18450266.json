@@ -1,24 +1,24 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://www.microsoft.com/uc/default.mspx"
-  },
-  "securitybulletinid": {
-    "text": "MS15-080"
-  },
-  "kbarticleid": {
-    "text": "3075590"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2015-2432"
-    },
-    {
-      "text": "CVE-2015-2437"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://www.microsoft.com/uc/default.mspx"
+	},
+	"securitybulletinid": {
+		"text": "MS15-080"
+	},
+	"kbarticleid": {
+		"text": "3075590"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2015-2432"
+		},
+		{
+			"text": "CVE-2015-2437"
+		}
+	]
 }

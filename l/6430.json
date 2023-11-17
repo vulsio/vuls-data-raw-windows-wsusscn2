@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Flaw In Windows Media Player May Allow Media Library Access (819639)"
-  },
-  "description": {
-    "text": "An identified security issue in Windows Media Player 9 could allow an attacker to see certain information on your computer after you viewed a Web page. For instance, this issue could allow an attacker to view information about your media library and modify it.  By installing this update, you can help protect your computer. After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Flaw In Windows Media Player May Allow Media Library Access (819639)"
+	},
+	"description": {
+		"text": "An identified security issue in Windows Media Player 9 could allow an attacker to see certain information on your computer after you viewed a Web page. For instance, this issue could allow an attacker to view information about your media library and modify it.  By installing this update, you can help protect your computer. After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
+	}
 }

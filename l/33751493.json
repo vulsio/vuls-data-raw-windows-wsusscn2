@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 32 for Exchange Server 2010 Service Pack 3 (KB5000978)"
-  },
-  "description": {
-    "text": "The security update addresses one remote code execution vulnerability for Microsoft Exchange Server."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 32 for Exchange Server 2010 Service Pack 3 (KB5000978)"
+	},
+	"description": {
+		"text": "The security update addresses one remote code execution vulnerability for Microsoft Exchange Server."
+	}
 }

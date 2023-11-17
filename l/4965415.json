@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Office XP Service Pack 3 for Access 2002 Runtime"
-  },
-  "description": {
-    "text": "Office XP Service Pack 3 for Access 2002 Runtime provides the latest updates to Microsoft Access 2002 Runtime.  This update contains significant security enhancements as well as stability and performance improvements."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Office XP Service Pack 3 for Access 2002 Runtime"
+	},
+	"description": {
+		"text": "Office XP Service Pack 3 for Access 2002 Runtime provides the latest updates to Microsoft Access 2002 Runtime.  This update contains significant security enhancements as well as stability and performance improvements."
+	}
 }

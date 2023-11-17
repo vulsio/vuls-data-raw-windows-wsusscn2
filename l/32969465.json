@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4489639)"
-  },
-  "description": {
-    "text": "An Elevation of Privilege vulnerability exists when Diagnostics Hub Standard Collector allows file creation in arbitrary locations."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4489639)"
+	},
+	"description": {
+		"text": "An Elevation of Privilege vulnerability exists when Diagnostics Hub Standard Collector allows file creation in arbitrary locations."
+	}
 }

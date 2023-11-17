@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync 2010 x64 (KB2953593)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB2953593."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync 2010 x64 (KB2953593)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB2953593."
+	}
 }

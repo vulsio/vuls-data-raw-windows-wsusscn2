@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows SharePoint Services 3.0 Service Pack 1 (KB936988)"
-  },
-  "description": {
-    "text": "Windows SharePoint Services 3.0 Service Pack 1 (KB936988) contains significant security, stability and performance enhancements. After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows SharePoint Services 3.0 Service Pack 1 (KB936988)"
+	},
+	"description": {
+		"text": "Windows SharePoint Services 3.0 Service Pack 1 (KB936988) contains significant security, stability and performance enhancements. After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
+	}
 }

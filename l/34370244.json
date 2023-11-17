@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "\n          Update Rollup 3 for Microsoft System Center 2019 - Operations Manager WebConsole (KB4594078)\n\t\t\t\t"
-  },
-  "description": {
-    "text": "\n          This updates resolves problems described in  KB4594078\n\t\t\t\t"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "\n          Update Rollup 3 for Microsoft System Center 2019 - Operations Manager WebConsole (KB4594078)\n\t\t\t\t"
+	},
+	"description": {
+		"text": "\n          This updates resolves problems described in  KB4594078\n\t\t\t\t"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Host Integration Server 2004 Service Pack 1 (KB2578757)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could cause denial of service vulnerability in Host Integration Server. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Host Integration Server 2004 Service Pack 1 (KB2578757)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could cause denial of service vulnerability in Host Integration Server. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "browseonly": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "all"
-    }
-  ],
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=507417"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5032202"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"browseonly": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "all"
+		}
+	],
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=507417"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5032202"
+	},
+	"uninstallationbehavior": {}
 }

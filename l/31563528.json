@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for Microsoft System Center 2019 - Operations Manager Server (KB4533415)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in  KB4533415."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for Microsoft System Center 2019 - Operations Manager Server (KB4533415)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in  KB4533415."
+	}
 }

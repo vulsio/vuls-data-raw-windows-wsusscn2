@@ -1,123 +1,123 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ar"
-    },
-    {
-      "text": "bg"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "et"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hi"
-    },
-    {
-      "text": "hr"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "lv"
-    },
-    {
-      "text": "lt"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ro"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sr"
-    },
-    {
-      "text": "sk"
-    },
-    {
-      "text": "sl"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "th"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "uk"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/923643"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "923643"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ar"
+		},
+		{
+			"text": "bg"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "et"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hi"
+		},
+		{
+			"text": "hr"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "lv"
+		},
+		{
+			"text": "lt"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ro"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sr"
+		},
+		{
+			"text": "sk"
+		},
+		{
+			"text": "sl"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "th"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "uk"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/923643"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "923643"
+	},
+	"uninstallationbehavior": {}
 }

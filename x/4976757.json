@@ -1,15 +1,15 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS07-014"
-  },
-  "kbarticleid": {
-    "text": "924883"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS07-014"
+	},
+	"kbarticleid": {
+		"text": "924883"
+	},
+	"uninstallationbehavior": {}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2021-05 .NET Core 3.1.15 Security Update for x64 Client"
-  },
-  "description": {
-    "text": "2021-05 .NET Core 3.1.15 Security Update for x64 Client"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2021-05 .NET Core 3.1.15 Security Update for x64 Client"
+	},
+	"description": {
+		"text": "2021-05 .NET Core 3.1.15 Security Update for x64 Client"
+	}
 }

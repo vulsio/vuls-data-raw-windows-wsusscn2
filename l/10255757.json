@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2013 CU2 (KB2880833)"
-  },
-  "description": {
-    "text": "The security update addresses the vulnerabilities by updating the affected Oracle Outside In libraries to a non-vulnerable version, and the vulnerabilities that Exchange Server could allow remote code execution."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2013 CU2 (KB2880833)"
+	},
+	"description": {
+		"text": "The security update addresses the vulnerabilities by updating the affected Oracle Outside In libraries to a non-vulnerable version, and the vulnerabilities that Exchange Server could allow remote code execution."
+	}
 }

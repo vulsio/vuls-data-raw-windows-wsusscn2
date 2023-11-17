@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/4513696"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4513696"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2019-1232"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/4513696"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4513696"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2019-1232"
+		}
+	]
 }

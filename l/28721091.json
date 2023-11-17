@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2019 (KB4487563)"
-  },
-  "description": {
-    "text": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests. An attacker who successfully exploited the vulnerability could perform script or content injection attacks, and attempt to trick the user into disclosing sensitive information. An attacker could also redirect the user to a malicious website that could spoof content or the vulnerability could be used as a pivot to chain an attack with other vulnerabilities in web services."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2019 (KB4487563)"
+	},
+	"description": {
+		"text": "A spoofing vulnerability exists in Microsoft Exchange Server when Outlook Web Access (OWA) fails to properly handle web requests. An attacker who successfully exploited the vulnerability could perform script or content injection attacks, and attempt to trick the user into disclosing sensitive information. An attacker could also redirect the user to a malicious website that could spoof content or the vulnerability could be used as a pivot to chain an attack with other vulnerabilities in web services."
+	}
 }

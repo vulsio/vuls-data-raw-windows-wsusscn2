@@ -1,87 +1,87 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "he"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS10-074"
-  },
-  "kbarticleid": {
-    "text": "2387149"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "he"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS10-074"
+	},
+	"kbarticleid": {
+		"text": "2387149"
+	},
+	"uninstallationbehavior": {}
 }

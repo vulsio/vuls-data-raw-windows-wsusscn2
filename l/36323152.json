@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-03 .NET 5.0.15 Security Update for x64 Client (KB5012416)"
-  },
-  "description": {
-    "text": "2022-03 .NET 5.0.15 Security Update for x64 Client (KB5012416)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-03 .NET 5.0.15 Security Update for x64 Client (KB5012416)"
+	},
+	"description": {
+		"text": "2022-03 .NET 5.0.15 Security Update for x64 Client (KB5012416)"
+	}
 }

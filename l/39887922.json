@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the remote code execution vulnerability in Microsoft Visual Studio 2015 Update 3 (KB5029366)"
-  },
-  "description": {
-    "text": "Remote code execution vulnerability in Microsoft Visual Studio 2015 Update 3"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the remote code execution vulnerability in Microsoft Visual Studio 2015 Update 3 (KB5029366)"
+	},
+	"description": {
+		"text": "Remote code execution vulnerability in Microsoft Visual Studio 2015 Update 3"
+	}
 }

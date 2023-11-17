@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Cumulative Security Update for ActiveX Killbits for Windows Vista for x64-based Systems (KB2508272)"
-  },
-  "description": {
-    "text": "Security issues have been identified in ActiveX controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it. You can help protect your system by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Cumulative Security Update for ActiveX Killbits for Windows Vista for x64-based Systems (KB2508272)"
+	},
+	"description": {
+		"text": "Security issues have been identified in ActiveX controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it. You can help protect your system by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

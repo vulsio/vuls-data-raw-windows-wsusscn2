@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft StreamInsight 1.2 (KB2587551)"
-  },
-  "description": {
-    "text": "This update is the Microsoft StreamInsight 1.2 release. It is installed side by side with your existing StreamInsight installation. It contains the SDK to develop applications and adapters, runtime libraries, and the event flow debugger. Read the Installation and Programming Considerations sections of the online documentation to understand how the side by side install works."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft StreamInsight 1.2 (KB2587551)"
+	},
+	"description": {
+		"text": "This update is the Microsoft StreamInsight 1.2 release. It is installed side by side with your existing StreamInsight installation. It contains the SDK to develop applications and adapters, runtime libraries, and the event flow debugger. Read the Installation and Programming Considerations sections of the online documentation to understand how the side by side install works."
+	}
 }

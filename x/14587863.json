@@ -1,24 +1,24 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://www.microsoft.com/uc/default.mspx"
-  },
-  "securitybulletinid": {
-    "text": "MS14-055"
-  },
-  "kbarticleid": {
-    "text": "2982390"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2014-4070"
-    },
-    {
-      "text": "CVE-2014-4071"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://www.microsoft.com/uc/default.mspx"
+	},
+	"securitybulletinid": {
+		"text": "MS14-055"
+	},
+	"kbarticleid": {
+		"text": "2982390"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2014-4070"
+		},
+		{
+			"text": "CVE-2014-4071"
+		}
+	]
 }

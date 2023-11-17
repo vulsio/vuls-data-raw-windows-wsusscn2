@@ -1,96 +1,96 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "zh-hk"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "ja-nec"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "tr"
-    }
-  ],
-  "supporturl": {
-    "text": "http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/exchange/"
-  },
-  "securitybulletinid": {
-    "text": "MS05-021"
-  },
-  "kbarticleid": {
-    "text": "894549"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "zh-hk"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "ja-nec"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "tr"
+		}
+	],
+	"supporturl": {
+		"text": "http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/exchange/"
+	},
+	"securitybulletinid": {
+		"text": "MS05-021"
+	},
+	"kbarticleid": {
+		"text": "894549"
+	},
+	"uninstallationbehavior": {}
 }

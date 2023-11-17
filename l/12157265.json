@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2010 (KB2957044)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB2957044."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2010 (KB2957044)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB2957044."
+	}
 }

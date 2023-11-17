@@ -1,13 +1,13 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/4459990"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4459990"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/4459990"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4459990"
+	},
+	"uninstallationbehavior": {}
 }

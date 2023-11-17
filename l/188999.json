@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows XP Service Pack 1 (Network Install)"
-  },
-  "description": {
-    "text": "Windows XP Service Pack 1 (SP1) provides the latest security, reliability, and performance updates to the Windows XP family of operating systems. Windows XP SP1 is designed to ensure Windows XP platform compatibility with newly released software and hardware, and includes updates to resolve issues discovered by customers or by Microsoft's internal testing team. Windows XP SP1 includes Internet Explorer 6 SP1."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows XP Service Pack 1 (Network Install)"
+	},
+	"description": {
+		"text": "Windows XP Service Pack 1 (SP1) provides the latest security, reliability, and performance updates to the Windows XP family of operating systems. Windows XP SP1 is designed to ensure Windows XP platform compatibility with newly released software and hardware, and includes updates to resolve issues discovered by customers or by Microsoft's internal testing team. Windows XP SP1 includes Internet Explorer 6 SP1."
+	}
 }

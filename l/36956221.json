@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Visual Studio 2019 version 16.11.0 to 16.11.12 update"
-  },
-  "description": {
-    "text": "This security update applies to all editions of Visual Studio 2019 between versions 16.11.0 and 16.11.11, and will update client machines to version 16.11.12. The client machines must be enabled to receive this administrator update, and by default Visual Studio must be closed on the client in order for the update to succeed. For further details, refer to https://aka.ms/vs/16/release/4576339.\n\nKB 5001148 is a prerequisite that is required to be installed on client machines before this update can apply. For more information, refer to https://support.microsoft.com/help/5001148."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Visual Studio 2019 version 16.11.0 to 16.11.12 update"
+	},
+	"description": {
+		"text": "This security update applies to all editions of Visual Studio 2019 between versions 16.11.0 and 16.11.11, and will update client machines to version 16.11.12. The client machines must be enabled to receive this administrator update, and by default Visual Studio must be closed on the client in order for the update to succeed. For further details, refer to https://aka.ms/vs/16/release/4576339.\n\nKB 5001148 is a prerequisite that is required to be installed on client machines before this update can apply. For more information, refer to https://support.microsoft.com/help/5001148."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for System Center Data Protection Manager 2010 (KB2250444) "
-  },
-  "description": {
-    "text": "This hotfix rollup resolves the following issues: \nYou cannot protect the Microsoft Exchange Database Availability Group (DAG) on a secondary DPM 2010 server. \nYou are prompted to restart a client computer after you install an agent on the client. \nDPM services crash, and you receive the error, \"Unable to connect to the database because of a fatal database error.\" \nMSDPM crashes, and event ID 945 is logged in the event log. \nWhen you change a Protection Group, add a very large database, change the disk allocation, and then commit the Protection Group, DPM 2010 does not honor the user intent, and instead, DPM 2010 sets the sizes of replica and shadow copy volumes to the default sizes. \nThe Management tab does not link to information about the latest Microsoft Knowledge Base article for DPM 2010. \nYou receive the message, \"Computers not synchronized,\" when you try to replicate DPM 2010 databases to a System Center Operations Manager.\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for System Center Data Protection Manager 2010 (KB2250444) "
+	},
+	"description": {
+		"text": "This hotfix rollup resolves the following issues: \nYou cannot protect the Microsoft Exchange Database Availability Group (DAG) on a secondary DPM 2010 server. \nYou are prompted to restart a client computer after you install an agent on the client. \nDPM services crash, and you receive the error, \"Unable to connect to the database because of a fatal database error.\" \nMSDPM crashes, and event ID 945 is logged in the event log. \nWhen you change a Protection Group, add a very large database, change the disk allocation, and then commit the Protection Group, DPM 2010 does not honor the user intent, and instead, DPM 2010 sets the sizes of replica and shadow copy volumes to the default sizes. \nThe Management tab does not link to information about the latest Microsoft Knowledge Base article for DPM 2010. \nYou receive the message, \"Computers not synchronized,\" when you try to replicate DPM 2010 databases to a System Center Operations Manager.\n"
+	}
 }

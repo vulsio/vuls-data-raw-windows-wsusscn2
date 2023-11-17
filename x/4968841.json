@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=59048"
-  },
-  "securitybulletinid": {
-    "text": "MS09-062"
-  },
-  "kbarticleid": {
-    "text": "975962"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=59048"
+	},
+	"securitybulletinid": {
+		"text": "MS09-062"
+	},
+	"kbarticleid": {
+		"text": "975962"
+	},
+	"uninstallationbehavior": {}
 }

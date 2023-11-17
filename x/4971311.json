@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/956483"
-  },
-  "securitybulletinid": {
-    "text": "MS08-052"
-  },
-  "kbarticleid": {
-    "text": "956483"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/956483"
+	},
+	"securitybulletinid": {
+		"text": "MS08-052"
+	},
+	"kbarticleid": {
+		"text": "956483"
+	},
+	"uninstallationbehavior": {}
 }

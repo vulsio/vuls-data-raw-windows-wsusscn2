@@ -1,72 +1,72 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "pt"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS12-043"
-  },
-  "kbarticleid": {
-    "text": "2719985"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "pt"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS12-043"
+	},
+	"kbarticleid": {
+		"text": "2719985"
+	},
+	"uninstallationbehavior": {}
 }

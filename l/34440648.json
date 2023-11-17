@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft SharePoint Foundation 2013 (KB5001939)  farm-deployment"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft SharePoint Foundation 2013  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft SharePoint Foundation 2013 (KB5001939)  farm-deployment"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft SharePoint Foundation 2013  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

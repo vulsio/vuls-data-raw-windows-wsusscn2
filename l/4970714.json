@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communications Server 2007 R2, Web Conferencing Server (KB 980096)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 980096"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communications Server 2007 R2, Web Conferencing Server (KB 980096)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 980096"
+	}
 }

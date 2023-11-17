@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office SharePoint Server 2007 (KB2433089) 32-Bit"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office SharePoint Server 2007 that could allow elevation of privileges. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office SharePoint Server 2007 (KB2433089) 32-Bit"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office SharePoint Server 2007 that could allow elevation of privileges. This update resolves that vulnerability."
+	}
 }

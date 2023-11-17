@@ -1,15 +1,15 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS11-036"
-  },
-  "kbarticleid": {
-    "text": "2540162"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS11-036"
+	},
+	"kbarticleid": {
+		"text": "2540162"
+	},
+	"uninstallationbehavior": {}
 }

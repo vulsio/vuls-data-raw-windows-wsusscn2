@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/help/4047170"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4047170"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/help/4047170"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4047170"
+	},
+	"uninstallationbehavior": {}
 }

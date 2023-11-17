@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "requiresreacceptanceofeula": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS09-060"
-  },
-  "kbarticleid": {
-    "text": "974556"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"requiresreacceptanceofeula": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS09-060"
+	},
+	"kbarticleid": {
+		"text": "974556"
+	},
+	"uninstallationbehavior": {}
 }

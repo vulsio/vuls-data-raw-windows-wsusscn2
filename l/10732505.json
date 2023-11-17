@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows SharePoint Services 3.0 Service Pack 3 x64 Edition (KB2526305) "
-  },
-  "description": {
-    "text": "Windows SharePoint Services 3.0 Service Pack 3 (KB2526305) provides the latest updates to Windows SharePoint Services 3.0. After you install this item, you may have to restart your computer. After you have installed this item, it cannot be removed."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows SharePoint Services 3.0 Service Pack 3 x64 Edition (KB2526305) "
+	},
+	"description": {
+		"text": "Windows SharePoint Services 3.0 Service Pack 3 (KB2526305) provides the latest updates to Windows SharePoint Services 3.0. After you install this item, you may have to restart your computer. After you have installed this item, it cannot be removed."
+	}
 }

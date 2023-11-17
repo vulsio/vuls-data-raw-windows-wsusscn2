@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/"
-  },
-  "securitybulletinid": {
-    "text": "MS11-007"
-  },
-  "kbarticleid": {
-    "text": "2485376"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/"
+	},
+	"securitybulletinid": {
+		"text": "MS11-007"
+	},
+	"kbarticleid": {
+		"text": "2485376"
+	},
+	"uninstallationbehavior": {}
 }

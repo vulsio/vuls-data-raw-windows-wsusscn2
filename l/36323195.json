@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-03 .NET 6.0.3 Security Update for x64 Client (KB5012417)"
-  },
-  "description": {
-    "text": "2022-03 .NET 6.0.3 Security Update for x64 Client (KB5012417)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-03 .NET 6.0.3 Security Update for x64 Client (KB5012417)"
+	},
+	"description": {
+		"text": "2022-03 .NET 6.0.3 Security Update for x64 Client (KB5012417)"
+	}
 }

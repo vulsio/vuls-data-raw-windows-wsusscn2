@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Data Protection Manager 2006 Service Pack 1"
-  },
-  "description": {
-    "text": "Microsoft® System Center Data Protection Manager (DPM) 2006 Service Pack 1 (SP1) enables you to protect more types of file servers, provides an interface for configuring your Microsoft Update selection, includes updates previously released as individual hotfixes, and also provides several bug fixes. The DPM product team recommends that every installation of DPM take advantage of these improvements by installing DPM SP1. "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Data Protection Manager 2006 Service Pack 1"
+	},
+	"description": {
+		"text": "Microsoft® System Center Data Protection Manager (DPM) 2006 Service Pack 1 (SP1) enables you to protect more types of file servers, provides an interface for configuring your Microsoft Update selection, includes updates previously released as individual hotfixes, and also provides several bug fixes. The DPM product team recommends that every installation of DPM take advantage of these improvements by installing DPM SP1. "
+	}
 }

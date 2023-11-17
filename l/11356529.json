@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 1 for Microsoft Office Audit and Control Management Server 2013 (KB2863865) "
-  },
-  "description": {
-    "text": "Service Pack 1 for Microsoft Office Audit and Control Management Server 2013  contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 1 for Microsoft Office Audit and Control Management Server 2013 (KB2863865) "
+	},
+	"description": {
+		"text": "Service Pack 1 for Microsoft Office Audit and Control Management Server 2013  contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft Office Compatibility Pack Service Pack 3 (SP3)"
-  },
-  "description": {
-    "text": "Service Pack 3 provides the latest updates to the Microsoft Office Compatibility Pack."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft Office Compatibility Pack Service Pack 3 (SP3)"
+	},
+	"description": {
+		"text": "Service Pack 3 provides the latest updates to the Microsoft Office Compatibility Pack."
+	}
 }

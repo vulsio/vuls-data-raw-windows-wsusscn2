@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft PowerPoint 2013 (KB4484468) 64-Bit Edition"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft PowerPoint 2013 64-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft PowerPoint 2013 (KB4484468) 64-Bit Edition"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft PowerPoint 2013 64-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communications Server 2007 R2,Web Components Server (KB 2501721)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 2501721"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communications Server 2007 R2,Web Components Server (KB 2501721)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 2501721"
+	}
 }

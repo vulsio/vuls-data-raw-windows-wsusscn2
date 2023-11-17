@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Visio 2003 Service Pack 1"
-  },
-  "description": {
-    "text": "Visio 2003 Service Pack 1 provides the latest updates to Microsoft Office Visio 2003. Service Pack 1 (SP1) contains significant security enhancements as well as stability and performance improvements. Some of the fixes included with SP1 have been previously released as separate updates. This service pack combines them into one update."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Visio 2003 Service Pack 1"
+	},
+	"description": {
+		"text": "Visio 2003 Service Pack 1 provides the latest updates to Microsoft Office Visio 2003. Service Pack 1 (SP1) contains significant security enhancements as well as stability and performance improvements. Some of the fixes included with SP1 have been previously released as separate updates. This service pack combines them into one update."
+	}
 }

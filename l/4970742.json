@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communicator 2007 R2 (KB 2291453)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB 2291453."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communicator 2007 R2 (KB 2291453)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB 2291453."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Q329048: Security Update"
-  },
-  "description": {
-    "text": "This update resolves the \"Unchecked Buffer in File Decompression Functions\" security vulnerability in Windows XP. Download now to help prevent a specially malformed file from causing unauthorized code to run on your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Q329048: Security Update"
+	},
+	"description": {
+		"text": "This update resolves the \"Unchecked Buffer in File Decompression Functions\" security vulnerability in Windows XP. Download now to help prevent a specially malformed file from causing unauthorized code to run on your computer."
+	}
 }

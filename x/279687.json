@@ -1,93 +1,93 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "fr"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "ja-nec"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS05-030"
-  },
-  "kbarticleid": {
-    "text": "897715"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "fr"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "ja-nec"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS05-030"
+	},
+	"kbarticleid": {
+		"text": "897715"
+	},
+	"uninstallationbehavior": {}
 }

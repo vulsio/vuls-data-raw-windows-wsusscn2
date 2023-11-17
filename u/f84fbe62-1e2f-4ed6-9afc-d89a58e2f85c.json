@@ -1,153 +1,153 @@
 {
-  "creationdate": "2017-06-27T02:12:40Z",
-  "defaultlanguage": "en",
-  "updateid": "f84fbe62-1e2f-4ed6-9afc-d89a58e2f85c",
-  "revisionid": "3893656",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Product",
-        "id": "558f4bc3-4827-49e1-accf-ea79fd72d4c9"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "en"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "pl"
-      },
-      {
-        "name": "nl"
-      },
-      {
-        "name": "cs"
-      },
-      {
-        "name": "el"
-      },
-      {
-        "name": "hu"
-      },
-      {
-        "name": "da"
-      },
-      {
-        "name": "he"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "pt"
-      },
-      {
-        "name": "zh-tw"
-      },
-      {
-        "name": "ru"
-      },
-      {
-        "name": "pt-br"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "sv"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "ar"
-      },
-      {
-        "name": "fi"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "ko"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "tr"
-      },
-      {
-        "name": "no"
-      }
-    ]
-  },
-  "supersededby": {
-    "revision": [
-      {
-        "id": "3978491"
-      },
-      {
-        "id": "5780407"
-      },
-      {
-        "id": "7052397"
-      },
-      {
-        "id": "3978466"
-      },
-      {
-        "id": "4871836"
-      },
-      {
-        "id": "5780050"
-      },
-      {
-        "id": "7713532"
-      },
-      {
-        "id": "4930594"
-      },
-      {
-        "id": "4914489"
-      },
-      {
-        "id": "6010372"
-      },
-      {
-        "id": "6209248"
-      },
-      {
-        "id": "8059950"
-      },
-      {
-        "id": "11542262"
-      },
-      {
-        "id": "5529335"
-      },
-      {
-        "id": "6391456"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T02:12:40Z",
+	"defaultlanguage": "en",
+	"updateid": "f84fbe62-1e2f-4ed6-9afc-d89a58e2f85c",
+	"revisionid": "3893656",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Product",
+				"id": "558f4bc3-4827-49e1-accf-ea79fd72d4c9"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "en"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "pl"
+			},
+			{
+				"name": "nl"
+			},
+			{
+				"name": "cs"
+			},
+			{
+				"name": "el"
+			},
+			{
+				"name": "hu"
+			},
+			{
+				"name": "da"
+			},
+			{
+				"name": "he"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "pt"
+			},
+			{
+				"name": "zh-tw"
+			},
+			{
+				"name": "ru"
+			},
+			{
+				"name": "pt-br"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "sv"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "ar"
+			},
+			{
+				"name": "fi"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "ko"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "tr"
+			},
+			{
+				"name": "no"
+			}
+		]
+	},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "3978491"
+			},
+			{
+				"id": "5780407"
+			},
+			{
+				"id": "7052397"
+			},
+			{
+				"id": "3978466"
+			},
+			{
+				"id": "4871836"
+			},
+			{
+				"id": "5780050"
+			},
+			{
+				"id": "7713532"
+			},
+			{
+				"id": "4930594"
+			},
+			{
+				"id": "4914489"
+			},
+			{
+				"id": "6010372"
+			},
+			{
+				"id": "6209248"
+			},
+			{
+				"id": "8059950"
+			},
+			{
+				"id": "11542262"
+			},
+			{
+				"id": "5529335"
+			},
+			{
+				"id": "6391456"
+			}
+		]
+	}
 }

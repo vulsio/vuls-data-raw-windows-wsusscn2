@@ -1,12 +1,12 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "843187"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/oas/default.aspx?LN=en-us&gprid=6527&x=9&y=8"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "843187"
+	},
+	"uninstallationbehavior": {}
 }

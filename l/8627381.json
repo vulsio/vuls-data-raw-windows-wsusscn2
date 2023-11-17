@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition"
-  },
-  "description": {
-    "text": "Service Pack 2 (SP2) for Microsoft Office 2010 32-Bit Edition contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition"
+	},
+	"description": {
+		"text": "Service Pack 2 (SP2) for Microsoft Office 2010 32-Bit Edition contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
+	}
 }

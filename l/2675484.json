@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Windows Server 2008 (KB955430)"
-  },
-  "description": {
-    "text": "Install this update to enable future updates to install successfully on all editions of Windows Server 2008. This update may be required before selected future updates can be installed. After you install this item, it cannot be removed. This update is provided to you and licensed under the Windows Server 2008 License Terms."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Windows Server 2008 (KB955430)"
+	},
+	"description": {
+		"text": "Install this update to enable future updates to install successfully on all editions of Windows Server 2008. This update may be required before selected future updates can be installed. After you install this item, it cannot be removed. This update is provided to you and licensed under the Windows Server 2008 License Terms."
+	}
 }

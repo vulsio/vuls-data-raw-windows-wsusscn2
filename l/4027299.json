@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Windows Server 2003, Windows Vista, and Windows Server 2008 for x64-based Systems (KB2416447)\n"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system that is running the Microsoft .NET Framework and gain access to information. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Windows Server 2003, Windows Vista, and Windows Server 2008 for x64-based Systems (KB2416447)\n"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system that is running the Microsoft .NET Framework and gain access to information. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2010 Web Components Server (KB2793338)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2793338."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2010 Web Components Server (KB2793338)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2793338."
+	}
 }

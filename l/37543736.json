@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-09 .NET Core 3.1.29 Security Update for x64 Client (KB5017903)"
-  },
-  "description": {
-    "text": "2022-09 .NET Core 3.1.29 Security Update for x64 Client (KB5017903)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-09 .NET Core 3.1.29 Security Update for x64 Client (KB5017903)"
+	},
+	"description": {
+		"text": "2022-09 .NET Core 3.1.29 Security Update for x64 Client (KB5017903)"
+	}
 }

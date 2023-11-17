@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft .NET Framework 3.5 Service Pack 1 and .NET Framework 3.5 Family Update for .NET versions 2.0 through 3.5 (KB951847) x64"
-  },
-  "description": {
-    "text": "Microsoft .NET Framework 3.5 Service Pack 1 is a full cumulative update that contains many new features building incrementally upon .NET Framework 2.0, 3.0, 3.5, and includes cumulative servicing updates to the .NET Framework 2.0 and .NET Framework 3.0 subcomponents. The .NET Framework 3.5 Family Update provides important application compatibility updates. This combined Service Pack and update is applicable to .NET versions 2.0 through 3.5."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft .NET Framework 3.5 Service Pack 1 and .NET Framework 3.5 Family Update for .NET versions 2.0 through 3.5 (KB951847) x64"
+	},
+	"description": {
+		"text": "Microsoft .NET Framework 3.5 Service Pack 1 is a full cumulative update that contains many new features building incrementally upon .NET Framework 2.0, 3.0, 3.5, and includes cumulative servicing updates to the .NET Framework 2.0 and .NET Framework 3.0 subcomponents. The .NET Framework 3.5 Family Update provides important application compatibility updates. This combined Service Pack and update is applicable to .NET versions 2.0 through 3.5."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4538032)"
-  },
-  "description": {
-    "text": "An elevation of privilege vulnerability exists when the Diagnostics Hub Standard Collector improperly handles file operations. An attacker who successfully exploited this vulnerability could run processes in an elevated context."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4538032)"
+	},
+	"description": {
+		"text": "An elevation of privilege vulnerability exists when the Diagnostics Hub Standard Collector improperly handles file operations. An attacker who successfully exploited this vulnerability could run processes in an elevated context."
+	}
 }

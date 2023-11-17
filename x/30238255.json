@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "maxdownloadsize": "0",
-  "mindownloadsize": "0",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://support.microsoft.com/help/4525246"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4525246"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"maxdownloadsize": "0",
+	"mindownloadsize": "0",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/help/4525246"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4525246"
+	},
+	"uninstallationbehavior": {}
 }

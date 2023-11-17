@@ -1,90 +1,90 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "ar"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "de"
-    }
-  ],
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS13-027"
-  },
-  "kbarticleid": {
-    "text": "2807986"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "ar"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "de"
+		}
+	],
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS13-027"
+	},
+	"kbarticleid": {
+		"text": "2807986"
+	},
+	"uninstallationbehavior": {}
 }

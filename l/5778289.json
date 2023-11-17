@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Groove Server 2010 (KB2589325) "
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Groove Server 2010  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Groove Server 2010 (KB2589325) "
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Groove Server 2010  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

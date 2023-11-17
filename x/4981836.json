@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "requiresreacceptanceofeula": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS10-103"
-  },
-  "kbarticleid": {
-    "text": "2284692"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"requiresreacceptanceofeula": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS10-103"
+	},
+	"kbarticleid": {
+		"text": "2284692"
+	},
+	"uninstallationbehavior": {}
 }

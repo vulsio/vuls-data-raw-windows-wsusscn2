@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 4 for Microsoft System Center 2019 - Operations Manager Server (KB5013427)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in KB5013427."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 4 for Microsoft System Center 2019 - Operations Manager Server (KB5013427)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in KB5013427."
+	}
 }

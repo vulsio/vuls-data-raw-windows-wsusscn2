@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync 2010 X64 (KB2737155)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB2737155."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync 2010 X64 (KB2737155)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB2737155."
+	}
 }

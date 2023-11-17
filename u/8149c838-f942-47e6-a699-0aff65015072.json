@@ -1,12 +1,12 @@
 {
-  "creationdate": "2017-06-27T00:25:35Z",
-  "defaultlanguage": "en",
-  "updateid": "8149c838-f942-47e6-a699-0aff65015072",
-  "revisionid": "4970533",
-  "isleaf": "true",
-  "isbundle": "true",
-  "deploymentaction": "Bundle",
-  "categories": {},
-  "languages": {},
-  "supersededby": {}
+	"creationdate": "2017-06-27T00:25:35Z",
+	"defaultlanguage": "en",
+	"updateid": "8149c838-f942-47e6-a699-0aff65015072",
+	"revisionid": "4970533",
+	"isleaf": "true",
+	"isbundle": "true",
+	"deploymentaction": "Bundle",
+	"categories": {},
+	"languages": {},
+	"supersededby": {}
 }

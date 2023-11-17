@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "System Center Virtual Machine Manager 2008 Update (KB959596)"
-  },
-  "description": {
-    "text": "This update resolves multiple issues, including physical to virtual (P2V) conversion and VMWare integration issues, as described in KB article 959596."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "System Center Virtual Machine Manager 2008 Update (KB959596)"
+	},
+	"description": {
+		"text": "This update resolves multiple issues, including physical to virtual (P2V) conversion and VMWare integration issues, as described in KB article 959596."
+	}
 }

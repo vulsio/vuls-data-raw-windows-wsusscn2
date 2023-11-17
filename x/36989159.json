@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://support.microsoft.com/help/5014743"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5014743"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/help/5014743"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5014743"
+	},
+	"uninstallationbehavior": {}
 }

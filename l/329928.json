@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows XP x64 Edition (KB921883)"
-  },
-  "description": {
-    "text": "A security issue has been identified in the Server service that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows XP x64 Edition (KB921883)"
+	},
+	"description": {
+		"text": "A security issue has been identified in the Server service that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

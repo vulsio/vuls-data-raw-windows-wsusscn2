@@ -1,20 +1,20 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS15-131"
-  },
-  "kbarticleid": {
-    "text": "3114479"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2010-0000"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS15-131"
+	},
+	"kbarticleid": {
+		"text": "3114479"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2010-0000"
+		}
+	]
 }

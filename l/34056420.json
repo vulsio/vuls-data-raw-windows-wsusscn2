@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2019 CU9 (KB5001779)"
-  },
-  "description": {
-    "text": "The security update addresses the vulnerabilities descripted in the CVEs"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2019 CU9 (KB5001779)"
+	},
+	"description": {
+		"text": "The security update addresses the vulnerabilities descripted in the CVEs"
+	}
 }

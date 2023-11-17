@@ -1,12 +1,12 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "923620"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "923620"
+	},
+	"uninstallationbehavior": {}
 }

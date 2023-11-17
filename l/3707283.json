@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Windows 7 (KB980408)"
-  },
-  "description": {
-    "text": "Install this update to resolve reliability issues with Windows 7 and Server 2008 R2. For complete details of this update, see the Knowledge Base Article. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Windows 7 (KB980408)"
+	},
+	"description": {
+		"text": "Install this update to resolve reliability issues with Windows 7 and Server 2008 R2. For complete details of this update, see the Knowledge Base Article. After you install this item, you may have to restart your computer."
+	}
 }

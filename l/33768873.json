@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2021-03 .NET 5.0.4 Security Update for x64 Server"
-  },
-  "description": {
-    "text": "2021-03 .NET 5.0.4 Security Update for x64 Server"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2021-03 .NET 5.0.4 Security Update for x64 Server"
+	},
+	"description": {
+		"text": "2021-03 .NET 5.0.4 Security Update for x64 Server"
+	}
 }

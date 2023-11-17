@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Q329115: Security Update (Windows 2000)"
-  },
-  "description": {
-    "text": "This update resolves the \"Certificate Validation Flaw Could Enable Identity Spoofing\" vulnerability in Windows 2000. Download now to help prevent an attacker from attempting identity spoofing using certificates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Q329115: Security Update (Windows 2000)"
+	},
+	"description": {
+		"text": "This update resolves the \"Certificate Validation Flaw Could Enable Identity Spoofing\" vulnerability in Windows 2000. Download now to help prevent an attacker from attempting identity spoofing using certificates."
+	}
 }

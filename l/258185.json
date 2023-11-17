@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows Server 2003 (KB905414)"
-  },
-  "description": {
-    "text": "A denial of service security issue has been identified that could cause the Network Manager service to stop responding on your Windows-based system. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows Server 2003 (KB905414)"
+	},
+	"description": {
+		"text": "A denial of service security issue has been identified that could cause the Network Manager service to stop responding on your Windows-based system. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

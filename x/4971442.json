@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/967044"
-  },
-  "securitybulletinid": {
-    "text": "MS09-024"
-  },
-  "kbarticleid": {
-    "text": "967044"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2009-1533"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/967044"
+	},
+	"securitybulletinid": {
+		"text": "MS09-024"
+	},
+	"kbarticleid": {
+		"text": "967044"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2009-1533"
+		}
+	]
 }

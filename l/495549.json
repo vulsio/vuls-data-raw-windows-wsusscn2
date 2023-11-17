@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Data Access Components 2.7 Service Pack 1 (KB927779)"
-  },
-  "description": {
-    "text": "A security issue has been identified in Microsoft Data Access Components (MDAC) that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Data Access Components 2.7 Service Pack 1 (KB927779)"
+	},
+	"description": {
+		"text": "A security issue has been identified in Microsoft Data Access Components (MDAC) that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

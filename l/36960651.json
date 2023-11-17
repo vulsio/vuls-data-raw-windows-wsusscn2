@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft SharePoint Enterprise Server 2013 (KB5002167) "
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft SharePoint Enterprise Server 2013  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft SharePoint Enterprise Server 2013 (KB5002167) "
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft SharePoint Enterprise Server 2013  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

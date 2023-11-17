@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Microsoft Forefront Client Security (KB957177)"
-  },
-  "description": {
-    "text": "This patch  updates the Microsoft Forefront Client Security Anti-Malware Agent."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Microsoft Forefront Client Security (KB957177)"
+	},
+	"description": {
+		"text": "This patch  updates the Microsoft Forefront Client Security Anti-Malware Agent."
+	}
 }

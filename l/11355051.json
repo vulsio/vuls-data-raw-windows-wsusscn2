@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 1 for Microsoft Office 2013 Language Interface Pack (KB2817428) 32-Bit Edition"
-  },
-  "description": {
-    "text": "Service Pack 1 for Microsoft Office 2013 Language Interface Pack 32-Bit Edition contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 1 for Microsoft Office 2013 Language Interface Pack (KB2817428) 32-Bit Edition"
+	},
+	"description": {
+		"text": "Service Pack 1 for Microsoft Office 2013 Language Interface Pack 32-Bit Edition contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
+	}
 }

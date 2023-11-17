@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communications Server 2007 R2, Outside Voice Control (KB 980372)"
-  },
-  "description": {
-    "text": "This Package fixes issues described in KB Article 980372"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communications Server 2007 R2, Outside Voice Control (KB 980372)"
+	},
+	"description": {
+		"text": "This Package fixes issues described in KB Article 980372"
+	}
 }

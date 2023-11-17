@@ -1,18 +1,18 @@
 {
-  "defaultpropertieslanguage": "en",
-  "browseonly": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "all"
-    }
-  ],
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=507417"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5023706"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"browseonly": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "all"
+		}
+	],
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=507417"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5023706"
+	},
+	"uninstallationbehavior": {}
 }

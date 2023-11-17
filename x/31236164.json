@@ -1,15 +1,15 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://support.microsoft.com/kb/4476755"
-  },
-  "securitybulletinid": {
-    "text": "MS19-001"
-  },
-  "kbarticleid": {
-    "text": "4476755"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/kb/4476755"
+	},
+	"securitybulletinid": {
+		"text": "MS19-001"
+	},
+	"kbarticleid": {
+		"text": "4476755"
+	},
+	"uninstallationbehavior": {}
 }

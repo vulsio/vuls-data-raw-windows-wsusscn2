@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Visio Multilingual User Interface 2003 (KB921585)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in the Microsoft Visio 2003 Multilingual User Interface Portuguese Grammar Checker that could allow remote code execution. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Visio Multilingual User Interface 2003 (KB921585)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in the Microsoft Visio 2003 Multilingual User Interface Portuguese Grammar Checker that could allow remote code execution. This update resolves that vulnerability."
+	}
 }

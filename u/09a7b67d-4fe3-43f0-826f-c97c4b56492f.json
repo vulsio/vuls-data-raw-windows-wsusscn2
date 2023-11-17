@@ -1,81 +1,81 @@
 {
-  "creationdate": "2020-09-07T17:57:09Z",
-  "defaultlanguage": "en",
-  "updateid": "09a7b67d-4fe3-43f0-826f-c97c4b56492f",
-  "revisionid": "32510940",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "Product",
-        "id": "6407468e-edc7-4ecd-8c32-521f64cee65e"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "34709194"
-      },
-      {
-        "id": "35333334"
-      },
-      {
-        "id": "37359729"
-      },
-      {
-        "id": "38454379"
-      },
-      {
-        "id": "37188901"
-      },
-      {
-        "id": "33802116"
-      },
-      {
-        "id": "34267994"
-      },
-      {
-        "id": "36364601"
-      },
-      {
-        "id": "35115891"
-      },
-      {
-        "id": "32930058"
-      },
-      {
-        "id": "34468124"
-      },
-      {
-        "id": "38980267"
-      },
-      {
-        "id": "37886231"
-      },
-      {
-        "id": "39373151"
-      },
-      {
-        "id": "34880228"
-      },
-      {
-        "id": "37726383"
-      }
-    ]
-  }
+	"creationdate": "2020-09-07T17:57:09Z",
+	"defaultlanguage": "en",
+	"updateid": "09a7b67d-4fe3-43f0-826f-c97c4b56492f",
+	"revisionid": "32510940",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "Product",
+				"id": "6407468e-edc7-4ecd-8c32-521f64cee65e"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "34709194"
+			},
+			{
+				"id": "35333334"
+			},
+			{
+				"id": "37359729"
+			},
+			{
+				"id": "38454379"
+			},
+			{
+				"id": "37188901"
+			},
+			{
+				"id": "33802116"
+			},
+			{
+				"id": "34267994"
+			},
+			{
+				"id": "36364601"
+			},
+			{
+				"id": "35115891"
+			},
+			{
+				"id": "32930058"
+			},
+			{
+				"id": "34468124"
+			},
+			{
+				"id": "38980267"
+			},
+			{
+				"id": "37886231"
+			},
+			{
+				"id": "39373151"
+			},
+			{
+				"id": "34880228"
+			},
+			{
+				"id": "37726383"
+			}
+		]
+	}
 }

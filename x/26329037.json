@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/help/4089229"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4089229"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/help/4089229"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4089229"
+	},
+	"uninstallationbehavior": {}
 }

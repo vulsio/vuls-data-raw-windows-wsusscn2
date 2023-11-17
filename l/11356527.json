@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 1 for Microsoft Visio 2013 Viewer (KB2817444) 32-Bit Edition"
-  },
-  "description": {
-    "text": "Service Pack 1 for Microsoft Visio 2013 Viewer 32-Bit Edition contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 1 for Microsoft Visio 2013 Viewer (KB2817444) 32-Bit Edition"
+	},
+	"description": {
+		"text": "Service Pack 1 for Microsoft Visio 2013 Viewer 32-Bit Edition contains new updates which improve security, performance, and stability.  Additionally, the SP is a roll-up of all previously released updates."
+	}
 }

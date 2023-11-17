@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Antigen Software Update KB980586"
-  },
-  "description": {
-    "text": "This update provides the latest fixes for Antigen 9 with Service Pack 2 for Exchange and SMTP, including additional support for Antigen’s virus engine functionality, scan performance and interoperability with Exchange. \nAfter you install this item, you may have to restart your computer.\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Antigen Software Update KB980586"
+	},
+	"description": {
+		"text": "This update provides the latest fixes for Antigen 9 with Service Pack 2 for Exchange and SMTP, including additional support for Antigen’s virus engine functionality, scan performance and interoperability with Exchange. \nAfter you install this item, you may have to restart your computer.\n"
+	}
 }

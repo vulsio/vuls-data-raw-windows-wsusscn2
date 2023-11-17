@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2013 CU16 (KB4036108)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to run programs and access data on a computer running Microsoft Exchange Server 2013. You can help protect your computer by installing this update from Microsoft."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2013 CU16 (KB4036108)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to run programs and access data on a computer running Microsoft Exchange Server 2013. You can help protect your computer by installing this update from Microsoft."
+	}
 }

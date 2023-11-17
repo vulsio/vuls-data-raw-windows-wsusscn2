@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for 2007 Microsoft Office System Servers (KB951597), 64-bit Edition"
-  },
-  "description": {
-    "text": "A security vulnerability exists in the 2007 Microsoft Office System Servers that could allow information disclosure. This update resolves that issue."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for 2007 Microsoft Office System Servers (KB951597), 64-bit Edition"
+	},
+	"description": {
+		"text": "A security vulnerability exists in the 2007 Microsoft Office System Servers that could allow information disclosure. This update resolves that issue."
+	}
 }

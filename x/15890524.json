@@ -1,146 +1,146 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ar"
-    },
-    {
-      "text": "bg"
-    },
-    {
-      "text": "zh-hk"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "hr"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "et"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hi"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ja-nec"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "lv"
-    },
-    {
-      "text": "lt"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ro"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sr"
-    },
-    {
-      "text": "sk"
-    },
-    {
-      "text": "sl"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "th"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "uk"
-    }
-  ],
-  "supporturl": {
-    "text": "http://technet.microsoft.com/en-us/exchange/fp179701"
-  },
-  "securitybulletinid": {
-    "text": "MS14-075"
-  },
-  "kbarticleid": {
-    "text": "3011140"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2014-6319"
-    },
-    {
-      "text": "CVE-2014-6336"
-    },
-    {
-      "text": "CVE-2014-6324"
-    },
-    {
-      "text": "CVE-2014-6326"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ar"
+		},
+		{
+			"text": "bg"
+		},
+		{
+			"text": "zh-hk"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "hr"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "et"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hi"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ja-nec"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "lv"
+		},
+		{
+			"text": "lt"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ro"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sr"
+		},
+		{
+			"text": "sk"
+		},
+		{
+			"text": "sl"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "th"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "uk"
+		}
+	],
+	"supporturl": {
+		"text": "http://technet.microsoft.com/en-us/exchange/fp179701"
+	},
+	"securitybulletinid": {
+		"text": "MS14-075"
+	},
+	"kbarticleid": {
+		"text": "3011140"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2014-6319"
+		},
+		{
+			"text": "CVE-2014-6336"
+		},
+		{
+			"text": "CVE-2014-6324"
+		},
+		{
+			"text": "CVE-2014-6326"
+		}
+	]
 }

@@ -1,70 +1,70 @@
 {
-  "creationdate": "2017-06-27T01:46:05Z",
-  "defaultlanguage": "en",
-  "updateid": "c7d75feb-483c-41e8-aca1-e25a095cac84",
-  "revisionid": "13525979",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "7f44c2a7-bc36-470b-be3b-c01b6dc5dd4e"
-      },
-      {
-        "type": "Product",
-        "id": "dbf57a08-0d5a-46ff-b30c-7715eb9498e9"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "en"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "ru"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "pt-br"
-      },
-      {
-        "name": "zh-tw"
-      },
-      {
-        "name": "ko"
-      }
-    ]
-  },
-  "supersededby": {}
+	"creationdate": "2017-06-27T01:46:05Z",
+	"defaultlanguage": "en",
+	"updateid": "c7d75feb-483c-41e8-aca1-e25a095cac84",
+	"revisionid": "13525979",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "7f44c2a7-bc36-470b-be3b-c01b6dc5dd4e"
+			},
+			{
+				"type": "Product",
+				"id": "dbf57a08-0d5a-46ff-b30c-7715eb9498e9"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "en"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "ru"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "pt-br"
+			},
+			{
+				"name": "zh-tw"
+			},
+			{
+				"name": "ko"
+			}
+		]
+	},
+	"supersededby": {}
 }

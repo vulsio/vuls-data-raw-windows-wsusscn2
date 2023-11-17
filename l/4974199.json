@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Bandwidth Policy Service (KB 2650037)"
-  },
-  "description": {
-    "text": "This Package fixes issues described in KB Article 2650037"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Bandwidth Policy Service (KB 2650037)"
+	},
+	"description": {
+		"text": "This Package fixes issues described in KB Article 2650037"
+	}
 }

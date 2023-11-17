@@ -1,18 +1,18 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&FamilyID=37B20B4B-DFEC-464D-908B-5D783E2370D3"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "899738"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&FamilyID=37B20B4B-DFEC-464D-908B-5D783E2370D3"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "899738"
+	},
+	"uninstallationbehavior": {}
 }

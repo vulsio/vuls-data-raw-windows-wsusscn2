@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Word Web Application 2010 (KB2566450)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft 2010 Word Web Application that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Word Web Application 2010 (KB2566450)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft 2010 Word Web Application that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

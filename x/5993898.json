@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?kbid=2726382"
-  },
-  "securitybulletinid": {
-    "text": "MS12-066"
-  },
-  "kbarticleid": {
-    "text": "2726382"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2012-2520"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?kbid=2726382"
+	},
+	"securitybulletinid": {
+		"text": "MS12-066"
+	},
+	"kbarticleid": {
+		"text": "2726382"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2012-2520"
+		}
+	]
 }

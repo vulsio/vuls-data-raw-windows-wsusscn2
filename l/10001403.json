@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 5 for Microsoft System Center Advisor (KB2900542)"
-  },
-  "description": {
-    "text": "This update resolves System Center Advisor issues described in KB Article 2900542. "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 5 for Microsoft System Center Advisor (KB2900542)"
+	},
+	"description": {
+		"text": "This update resolves System Center Advisor issues described in KB Article 2900542. "
+	}
 }

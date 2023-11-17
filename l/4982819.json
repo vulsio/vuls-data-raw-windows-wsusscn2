@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the 2007 Microsoft Office System (KB2553074)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in the 2007 Microsoft Office System and the Microsoft Office Compatibility Pack that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the 2007 Microsoft Office System (KB2553074)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in the 2007 Microsoft Office System and the Microsoft Office Compatibility Pack that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

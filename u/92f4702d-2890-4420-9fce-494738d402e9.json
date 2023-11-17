@@ -1,72 +1,72 @@
 {
-  "creationdate": "2022-10-18T17:05:48Z",
-  "defaultlanguage": "en",
-  "updateid": "92f4702d-2890-4420-9fce-494738d402e9",
-  "revisionid": "37769780",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "b3c75dc1-155f-4be4-b015-3f1a91758e52"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "39909107"
-      },
-      {
-        "id": "39527634"
-      },
-      {
-        "id": "38980226"
-      },
-      {
-        "id": "38454294"
-      },
-      {
-        "id": "39373545"
-      },
-      {
-        "id": "39193342"
-      },
-      {
-        "id": "39745502"
-      },
-      {
-        "id": "40122332"
-      },
-      {
-        "id": "38632783"
-      },
-      {
-        "id": "38252840"
-      },
-      {
-        "id": "38813024"
-      },
-      {
-        "id": "37886358"
-      },
-      {
-        "id": "38088012"
-      }
-    ]
-  }
+	"creationdate": "2022-10-18T17:05:48Z",
+	"defaultlanguage": "en",
+	"updateid": "92f4702d-2890-4420-9fce-494738d402e9",
+	"revisionid": "37769780",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "b3c75dc1-155f-4be4-b015-3f1a91758e52"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "39909107"
+			},
+			{
+				"id": "39527634"
+			},
+			{
+				"id": "38980226"
+			},
+			{
+				"id": "38454294"
+			},
+			{
+				"id": "39373545"
+			},
+			{
+				"id": "39193342"
+			},
+			{
+				"id": "39745502"
+			},
+			{
+				"id": "40122332"
+			},
+			{
+				"id": "38632783"
+			},
+			{
+				"id": "38252840"
+			},
+			{
+				"id": "38813024"
+			},
+			{
+				"id": "37886358"
+			},
+			{
+				"id": "38088012"
+			}
+		]
+	}
 }

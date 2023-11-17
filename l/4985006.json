@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 3 for Visio Viewer 2007 (KB2526301) (SP3)"
-  },
-  "description": {
-    "text": "Service Pack 3 provides the latest updates to the Microsoft Office Visio Viewer 2007."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 3 for Visio Viewer 2007 (KB2526301) (SP3)"
+	},
+	"description": {
+		"text": "Service Pack 3 provides the latest updates to the Microsoft Office Visio Viewer 2007."
+	}
 }

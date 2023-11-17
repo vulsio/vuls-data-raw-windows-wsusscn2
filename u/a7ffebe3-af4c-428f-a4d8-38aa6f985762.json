@@ -1,87 +1,87 @@
 {
-  "creationdate": "2017-06-27T01:27:37Z",
-  "defaultlanguage": "en",
-  "updateid": "a7ffebe3-af4c-428f-a4d8-38aa6f985762",
-  "revisionid": "4967331",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "ProductFamily",
-        "id": "0a4c6c73-8887-4d7f-9cbe-d08fa8fa9d1e"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "Product",
-        "id": "60916385-7546-4e9b-836e-79d65e517bab"
-      },
-      {
-        "type": "UpdateClassification",
-        "id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "en"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "ko"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "zh-tw"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "ru"
-      }
-    ]
-  },
-  "supersededby": {
-    "revision": [
-      {
-        "id": "4967665"
-      },
-      {
-        "id": "4967714"
-      },
-      {
-        "id": "4967700"
-      },
-      {
-        "id": "4967739"
-      },
-      {
-        "id": "4967573"
-      },
-      {
-        "id": "4967763"
-      },
-      {
-        "id": "4967689"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T01:27:37Z",
+	"defaultlanguage": "en",
+	"updateid": "a7ffebe3-af4c-428f-a4d8-38aa6f985762",
+	"revisionid": "4967331",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "ProductFamily",
+				"id": "0a4c6c73-8887-4d7f-9cbe-d08fa8fa9d1e"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "Product",
+				"id": "60916385-7546-4e9b-836e-79d65e517bab"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "en"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "ko"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "zh-tw"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "ru"
+			}
+		]
+	},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "4967665"
+			},
+			{
+				"id": "4967714"
+			},
+			{
+				"id": "4967700"
+			},
+			{
+				"id": "4967739"
+			},
+			{
+				"id": "4967573"
+			},
+			{
+				"id": "4967763"
+			},
+			{
+				"id": "4967689"
+			}
+		]
+	}
 }

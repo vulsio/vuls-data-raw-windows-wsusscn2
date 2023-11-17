@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Word 2003 (KB934181)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office Word 2003 that could allow remote code execution. This update resolves that vulnerability. This update also includes changes that enable blocking of specific file formats in Word 2003."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Word 2003 (KB934181)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office Word 2003 that could allow remote code execution. This update resolves that vulnerability. This update also includes changes that enable blocking of specific file formats in Word 2003."
+	}
 }

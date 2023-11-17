@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://go.microsoft.com/fwlink/?linkid=2147044&amp;clcid=0x409"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5009194"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2021-43877"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://go.microsoft.com/fwlink/?linkid=2147044&amp;clcid=0x409"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5009194"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2021-43877"
+		}
+	]
 }

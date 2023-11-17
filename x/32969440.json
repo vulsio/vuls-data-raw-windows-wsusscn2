@@ -1,22 +1,22 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/4571479"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4571479"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2020-16874"
-    },
-    {
-      "text": "CVE-2020-16856"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/4571479"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4571479"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2020-16874"
+		},
+		{
+			"text": "CVE-2020-16856"
+		}
+	]
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2019 CU3 (KB4536987)"
-  },
-  "description": {
-    "text": "The security update addresses a remote code execution vulnerability and an elevation of privilege vulnerability that exist in Microsoft Exchange Server."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2019 CU3 (KB4536987)"
+	},
+	"description": {
+		"text": "The security update addresses a remote code execution vulnerability and an elevation of privilege vulnerability that exist in Microsoft Exchange Server."
+	}
 }

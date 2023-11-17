@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft Office Accounting 2009 Service Pack 3 (KB2006634)"
-  },
-  "description": {
-    "text": "Service Pack 3 for Microsoft Office Accounting 2009 provides the latest updates to Microsoft Office Accounting 2009. This service pack contains stability and performance enhancements."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft Office Accounting 2009 Service Pack 3 (KB2006634)"
+	},
+	"description": {
+		"text": "Service Pack 3 for Microsoft Office Accounting 2009 provides the latest updates to Microsoft Office Accounting 2009. This service pack contains stability and performance enhancements."
+	}
 }

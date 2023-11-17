@@ -1,78 +1,78 @@
 {
-  "creationdate": "2021-07-12T22:36:19Z",
-  "defaultlanguage": "en",
-  "updateid": "6153e22a-8401-476d-a061-8a41ecb0b50e",
-  "revisionid": "34709256",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "f4b9c883-f4db-4fb5-b204-3343c11fa021"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "38980285"
-      },
-      {
-        "id": "38454365"
-      },
-      {
-        "id": "39527690"
-      },
-      {
-        "id": "37726461"
-      },
-      {
-        "id": "37359869"
-      },
-      {
-        "id": "34880462"
-      },
-      {
-        "id": "39908757"
-      },
-      {
-        "id": "40123500"
-      },
-      {
-        "id": "39745155"
-      },
-      {
-        "id": "35313342"
-      },
-      {
-        "id": "35115986"
-      },
-      {
-        "id": "37189065"
-      },
-      {
-        "id": "36364576"
-      },
-      {
-        "id": "37886289"
-      },
-      {
-        "id": "39373165"
-      }
-    ]
-  }
+	"creationdate": "2021-07-12T22:36:19Z",
+	"defaultlanguage": "en",
+	"updateid": "6153e22a-8401-476d-a061-8a41ecb0b50e",
+	"revisionid": "34709256",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "f4b9c883-f4db-4fb5-b204-3343c11fa021"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "38980285"
+			},
+			{
+				"id": "38454365"
+			},
+			{
+				"id": "39527690"
+			},
+			{
+				"id": "37726461"
+			},
+			{
+				"id": "37359869"
+			},
+			{
+				"id": "34880462"
+			},
+			{
+				"id": "39908757"
+			},
+			{
+				"id": "40123500"
+			},
+			{
+				"id": "39745155"
+			},
+			{
+				"id": "35313342"
+			},
+			{
+				"id": "35115986"
+			},
+			{
+				"id": "37189065"
+			},
+			{
+				"id": "36364576"
+			},
+			{
+				"id": "37886289"
+			},
+			{
+				"id": "39373165"
+			}
+		]
+	}
 }

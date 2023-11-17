@@ -1,37 +1,37 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://aka.ms/vs/admin/feedback"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4576339"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2022-34716"
-    },
-    {
-      "text": "CVE-2022-31012"
-    },
-    {
-      "text": "CVE-2022-35826"
-    },
-    {
-      "text": "CVE-2022-35827"
-    },
-    {
-      "text": "CVE-2022-35825"
-    },
-    {
-      "text": "CVE-2022-35777"
-    },
-    {
-      "text": "CVE-2022-29187"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://aka.ms/vs/admin/feedback"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4576339"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2022-34716"
+		},
+		{
+			"text": "CVE-2022-31012"
+		},
+		{
+			"text": "CVE-2022-35826"
+		},
+		{
+			"text": "CVE-2022-35827"
+		},
+		{
+			"text": "CVE-2022-35825"
+		},
+		{
+			"text": "CVE-2022-35777"
+		},
+		{
+			"text": "CVE-2022-29187"
+		}
+	]
 }

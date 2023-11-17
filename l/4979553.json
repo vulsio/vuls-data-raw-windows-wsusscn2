@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office 2002 (KB956464)"
-  },
-  "description": {
-    "text": "A vulnerability exists in Microsoft Office XP that could allow malicious script to run when you click a hyperlink. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office 2002 (KB956464)"
+	},
+	"description": {
+		"text": "A vulnerability exists in Microsoft Office XP that could allow malicious script to run when you click a hyperlink. This update resolves that vulnerability."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Administrative Tools (KB 2467771)"
-  },
-  "description": {
-    "text": "This Package fixes issues described in KB Article 2467771"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Administrative Tools (KB 2467771)"
+	},
+	"description": {
+		"text": "This Package fixes issues described in KB Article 2467771"
+	}
 }

@@ -1,55 +1,55 @@
 {
-  "creationdate": "2023-05-08T20:25:15Z",
-  "defaultlanguage": "en",
-  "updateid": "b2fd3cf6-cd77-4dbe-990d-0bd9b03f95fb",
-  "revisionid": "38980541",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "a3c2375d-0c8a-42f9-bce0-28333e198407"
-      },
-      {
-        "type": "Product",
-        "id": "d2085b71-5f1f-43a9-880d-ed159016d5c6"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "40122314"
-      },
-      {
-        "id": "39192593"
-      },
-      {
-        "id": "39909195"
-      },
-      {
-        "id": "39527640"
-      },
-      {
-        "id": "39745012"
-      },
-      {
-        "id": "39373135"
-      }
-    ]
-  }
+	"creationdate": "2023-05-08T20:25:15Z",
+	"defaultlanguage": "en",
+	"updateid": "b2fd3cf6-cd77-4dbe-990d-0bd9b03f95fb",
+	"revisionid": "38980541",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "a3c2375d-0c8a-42f9-bce0-28333e198407"
+			},
+			{
+				"type": "Product",
+				"id": "d2085b71-5f1f-43a9-880d-ed159016d5c6"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "40122314"
+			},
+			{
+				"id": "39192593"
+			},
+			{
+				"id": "39909195"
+			},
+			{
+				"id": "39527640"
+			},
+			{
+				"id": "39745012"
+			},
+			{
+				"id": "39373135"
+			}
+		]
+	}
 }

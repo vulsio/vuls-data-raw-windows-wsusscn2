@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for SQL Server 2014 Service Pack 3 GDR (KB4505218)"
-  },
-  "description": {
-    "text": "A remote code execution vulnerability exists in Microsoft SQL Server when it incorrectly handles processing of internal functions. An attacker who successfully exploited this vulnerability could execute code in the context of the SQL Server Database Engine service account.\nTo exploit the vulnerability, an authenticated attacker would need to submit a specially crafted query to an affected SQL server.  The security update addresses the vulnerability by modifying how the Microsoft SQL Server Database Engine handles the processing of functions."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for SQL Server 2014 Service Pack 3 GDR (KB4505218)"
+	},
+	"description": {
+		"text": "A remote code execution vulnerability exists in Microsoft SQL Server when it incorrectly handles processing of internal functions. An attacker who successfully exploited this vulnerability could execute code in the context of the SQL Server Database Engine service account.\nTo exploit the vulnerability, an authenticated attacker would need to submit a specially crafted query to an affected SQL server.  The security update addresses the vulnerability by modifying how the Microsoft SQL Server Database Engine handles the processing of functions."
+	}
 }

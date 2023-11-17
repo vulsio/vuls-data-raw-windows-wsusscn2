@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2021-12 .NET 5.0.13 Security Update for x86 Client (KB5009194)"
-  },
-  "description": {
-    "text": "2021-12 .NET 5.0.13 Security Update for x86 Client (KB5009194)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2021-12 .NET 5.0.13 Security Update for x86 Client (KB5009194)"
+	},
+	"description": {
+		"text": "2021-12 .NET 5.0.13 Security Update for x86 Client (KB5009194)"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 16 for Microsoft Azure Site Recovery Provider"
-  },
-  "description": {
-    "text": "This update contains the latest features and bug fixes of the Microsoft Azure Site Recovery Provider. For a complete listing of the features that are a part of this update please read the associated Microsoft Knowledge Base article.\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 16 for Microsoft Azure Site Recovery Provider"
+	},
+	"description": {
+		"text": "This update contains the latest features and bug fixes of the Microsoft Azure Site Recovery Provider. For a complete listing of the features that are a part of this update please read the associated Microsoft Knowledge Base article.\n"
+	}
 }

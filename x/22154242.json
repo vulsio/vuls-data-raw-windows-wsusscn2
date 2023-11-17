@@ -1,92 +1,92 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://technet.microsoft.com/en-us/exchange/bb330841.aspx"
-  },
-  "securitybulletinid": {
-    "text": "MS16-108"
-  },
-  "kbarticleid": {
-    "text": "3184711"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2016-0138"
-    },
-    {
-      "text": "CVE-2016-3575"
-    },
-    {
-      "text": "CVE-2016-3581"
-    },
-    {
-      "text": "CVE-2016-3582"
-    },
-    {
-      "text": "CVE-2016-3583"
-    },
-    {
-      "text": "CVE-2016-3595"
-    },
-    {
-      "text": "CVE-2016-3594"
-    },
-    {
-      "text": "CVE-2015-6014"
-    },
-    {
-      "text": "CVE-2016-3593"
-    },
-    {
-      "text": "CVE-2016-3592"
-    },
-    {
-      "text": "CVE-2016-3596"
-    },
-    {
-      "text": "CVE-2016-3591"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://technet.microsoft.com/en-us/exchange/bb330841.aspx"
+	},
+	"securitybulletinid": {
+		"text": "MS16-108"
+	},
+	"kbarticleid": {
+		"text": "3184711"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2016-0138"
+		},
+		{
+			"text": "CVE-2016-3575"
+		},
+		{
+			"text": "CVE-2016-3581"
+		},
+		{
+			"text": "CVE-2016-3582"
+		},
+		{
+			"text": "CVE-2016-3583"
+		},
+		{
+			"text": "CVE-2016-3595"
+		},
+		{
+			"text": "CVE-2016-3594"
+		},
+		{
+			"text": "CVE-2015-6014"
+		},
+		{
+			"text": "CVE-2016-3593"
+		},
+		{
+			"text": "CVE-2016-3592"
+		},
+		{
+			"text": "CVE-2016-3596"
+		},
+		{
+			"text": "CVE-2016-3591"
+		}
+	]
 }

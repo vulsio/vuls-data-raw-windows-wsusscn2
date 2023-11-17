@@ -1,25 +1,25 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/5001292"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5001292"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2021-28313"
-    },
-    {
-      "text": "CVE-2021-28321"
-    },
-    {
-      "text": "CVE-2021-28322"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/5001292"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5001292"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2021-28313"
+		},
+		{
+			"text": "CVE-2021-28321"
+		},
+		{
+			"text": "CVE-2021-28322"
+		}
+	]
 }

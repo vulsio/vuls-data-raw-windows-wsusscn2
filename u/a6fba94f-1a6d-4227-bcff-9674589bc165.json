@@ -1,144 +1,144 @@
 {
-  "creationdate": "2017-06-27T01:31:26Z",
-  "defaultlanguage": "en",
-  "updateid": "a6fba94f-1a6d-4227-bcff-9674589bc165",
-  "revisionid": "4978923",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "477b856e-65c4-4473-b621-a8b230bb70d9"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "Product",
-        "id": "6248b8b1-ffeb-dbd9-887a-2acf53b09dfe"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "ar"
-      },
-      {
-        "name": "bg"
-      },
-      {
-        "name": "cs"
-      },
-      {
-        "name": "da"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "el"
-      },
-      {
-        "name": "en"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "et"
-      },
-      {
-        "name": "fi"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "he"
-      },
-      {
-        "name": "hr"
-      },
-      {
-        "name": "hu"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "ko"
-      },
-      {
-        "name": "lt"
-      },
-      {
-        "name": "lv"
-      },
-      {
-        "name": "nl"
-      },
-      {
-        "name": "no"
-      },
-      {
-        "name": "pl"
-      },
-      {
-        "name": "pt"
-      },
-      {
-        "name": "pt-br"
-      },
-      {
-        "name": "ro"
-      },
-      {
-        "name": "ru"
-      },
-      {
-        "name": "sk"
-      },
-      {
-        "name": "sl"
-      },
-      {
-        "name": "sv"
-      },
-      {
-        "name": "th"
-      },
-      {
-        "name": "tr"
-      },
-      {
-        "name": "uk"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "zh-hk"
-      },
-      {
-        "name": "zh-tw"
-      }
-    ]
-  },
-  "supersededby": {
-    "revision": [
-      {
-        "id": "4981785"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T01:31:26Z",
+	"defaultlanguage": "en",
+	"updateid": "a6fba94f-1a6d-4227-bcff-9674589bc165",
+	"revisionid": "4978923",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "477b856e-65c4-4473-b621-a8b230bb70d9"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "Product",
+				"id": "6248b8b1-ffeb-dbd9-887a-2acf53b09dfe"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "ar"
+			},
+			{
+				"name": "bg"
+			},
+			{
+				"name": "cs"
+			},
+			{
+				"name": "da"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "el"
+			},
+			{
+				"name": "en"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "et"
+			},
+			{
+				"name": "fi"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "he"
+			},
+			{
+				"name": "hr"
+			},
+			{
+				"name": "hu"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "ko"
+			},
+			{
+				"name": "lt"
+			},
+			{
+				"name": "lv"
+			},
+			{
+				"name": "nl"
+			},
+			{
+				"name": "no"
+			},
+			{
+				"name": "pl"
+			},
+			{
+				"name": "pt"
+			},
+			{
+				"name": "pt-br"
+			},
+			{
+				"name": "ro"
+			},
+			{
+				"name": "ru"
+			},
+			{
+				"name": "sk"
+			},
+			{
+				"name": "sl"
+			},
+			{
+				"name": "sv"
+			},
+			{
+				"name": "th"
+			},
+			{
+				"name": "tr"
+			},
+			{
+				"name": "uk"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "zh-hk"
+			},
+			{
+				"name": "zh-tw"
+			}
+		]
+	},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "4981785"
+			}
+		]
+	}
 }

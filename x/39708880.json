@@ -1,31 +1,31 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5030560"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2023-36799"
-    },
-    {
-      "text": "CVE-2023-36796"
-    },
-    {
-      "text": "CVE-2023-36792"
-    },
-    {
-      "text": "CVE-2023-36794"
-    },
-    {
-      "text": "CVE-2023-36793"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5030560"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2023-36799"
+		},
+		{
+			"text": "CVE-2023-36796"
+		},
+		{
+			"text": "CVE-2023-36792"
+		},
+		{
+			"text": "CVE-2023-36794"
+		},
+		{
+			"text": "CVE-2023-36793"
+		}
+	]
 }

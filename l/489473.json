@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "MSXML 6.0 RTM Security Update (KB927977)"
-  },
-  "description": {
-    "text": "A vulnerability exists in the XMLHTTP ActiveX control within Microsoft XML Core Services that could allow for remote code execution"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "MSXML 6.0 RTM Security Update (KB927977)"
+	},
+	"description": {
+		"text": "A vulnerability exists in the XMLHTTP ActiveX control within Microsoft XML Core Services that could allow for remote code execution"
+	}
 }

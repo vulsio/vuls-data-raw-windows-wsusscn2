@@ -1,13 +1,13 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?kbid=956389"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "956389"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?kbid=956389"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "956389"
+	},
+	"uninstallationbehavior": {}
 }

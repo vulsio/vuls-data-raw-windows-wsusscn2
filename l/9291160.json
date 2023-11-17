@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Excel 2003 (KB2810048)  "
-  },
-  "description": {
-    "text": "A security vulnerability exists in Excel 2003  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Excel 2003 (KB2810048)  "
+	},
+	"description": {
+		"text": "A security vulnerability exists in Excel 2003  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

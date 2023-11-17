@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Core Components (KB 2695369)"
-  },
-  "description": {
-    "text": "This package fixes some issues described in KB Article 2695369"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Core Components (KB 2695369)"
+	},
+	"description": {
+		"text": "This package fixes some issues described in KB Article 2695369"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for Microsoft System Center 2022 - Operations Manager WebConsole (KB5020318)"
-  },
-  "description": {
-    "text": "This update resolves problems described in KB5020318."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for Microsoft System Center 2022 - Operations Manager WebConsole (KB5020318)"
+	},
+	"description": {
+		"text": "This update resolves problems described in KB5020318."
+	}
 }

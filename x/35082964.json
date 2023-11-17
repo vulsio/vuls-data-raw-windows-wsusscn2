@@ -1,22 +1,22 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://aka.ms/vs/wsus/feedback"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4576339"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2021-36952"
-    },
-    {
-      "text": "CVE-2021-26434"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://aka.ms/vs/wsus/feedback"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4576339"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2021-36952"
+		},
+		{
+			"text": "CVE-2021-26434"
+		}
+	]
 }

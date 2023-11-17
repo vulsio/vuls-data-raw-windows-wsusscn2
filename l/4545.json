@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Q327696: Internet Information Services Security Roll-up Package"
-  },
-  "description": {
-    "text": "This update addresses several newly discovered security vulnerabilities affecting Internet Information Services (IIS) 5.1 with Windows XP Professional, as well as incorporating all previous updates for IIS. Download now help protect the security of your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Q327696: Internet Information Services Security Roll-up Package"
+	},
+	"description": {
+		"text": "This update addresses several newly discovered security vulnerabilities affecting Internet Information Services (IIS) 5.1 with Windows XP Professional, as well as incorporating all previous updates for IIS. Download now help protect the security of your computer."
+	}
 }

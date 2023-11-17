@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2013 CU23 (KB4523171)"
-  },
-  "description": {
-    "text": "A remote code execution vulnerability exists in Microsoft Exchange through the deserialization of metadata via Powershell. An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the logged in user."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2013 CU23 (KB4523171)"
+	},
+	"description": {
+		"text": "A remote code execution vulnerability exists in Microsoft Exchange through the deserialization of metadata via Powershell. An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the logged in user."
+	}
 }

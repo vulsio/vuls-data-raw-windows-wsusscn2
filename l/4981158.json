@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office 2003 Web Components for the 2007 Microsoft Office System (KB947318)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office 2003 Web Components for the 2007 Microsoft Office System that could allow arbitrary code to run when a maliciously modified web page is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office 2003 Web Components for the 2007 Microsoft Office System (KB947318)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office 2003 Web Components for the 2007 Microsoft Office System that could allow arbitrary code to run when a maliciously modified web page is opened. This update resolves that vulnerability."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows XP (KB923414)"
-  },
-  "description": {
-    "text": "A security issue has been identified in the Server service that could allow a remote user to cause an affected Windows-based system to stop responding. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows XP (KB923414)"
+	},
+	"description": {
+		"text": "A security issue has been identified in the Server service that could allow a remote user to cause an affected Windows-based system to stop responding. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

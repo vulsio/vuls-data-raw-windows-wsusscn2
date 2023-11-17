@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2013 CU23 (KB4593466)"
-  },
-  "description": {
-    "text": "The security update addresses three remote code execution vulnerabilities and one information disclosure vulnerability for Microsoft Exchange Server."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2013 CU23 (KB4593466)"
+	},
+	"description": {
+		"text": "The security update addresses three remote code execution vulnerabilities and one information disclosure vulnerability for Microsoft Exchange Server."
+	}
 }

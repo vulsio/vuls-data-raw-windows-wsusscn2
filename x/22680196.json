@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://www.microsoft.com/uc/default.mspx"
-  },
-  "securitybulletinid": {
-    "text": "MS16-120"
-  },
-  "kbarticleid": {
-    "text": "3188397"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2016-7182"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://www.microsoft.com/uc/default.mspx"
+	},
+	"securitybulletinid": {
+		"text": "MS16-120"
+	},
+	"kbarticleid": {
+		"text": "3188397"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2016-7182"
+		}
+	]
 }

@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://www.microsoft.com/uc/default.mspx"
-  },
-  "securitybulletinid": {
-    "text": "MS14-032"
-  },
-  "kbarticleid": {
-    "text": "2963286"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2014-1823"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://www.microsoft.com/uc/default.mspx"
+	},
+	"securitybulletinid": {
+		"text": "MS14-032"
+	},
+	"kbarticleid": {
+		"text": "2963286"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2014-1823"
+		}
+	]
 }

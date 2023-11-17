@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2010 Core Components (KB2847898)"
-  },
-  "description": {
-    "text": "This package fixes some issues described in KB2847898"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2010 Core Components (KB2847898)"
+	},
+	"description": {
+		"text": "This package fixes some issues described in KB2847898"
+	}
 }

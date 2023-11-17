@@ -1,46 +1,46 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://aka.ms/vs/admin/feedback"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5007364"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2023-36799"
-    },
-    {
-      "text": "CVE-2023-36794"
-    },
-    {
-      "text": "CVE-2023-36793"
-    },
-    {
-      "text": "CVE-2023-36759"
-    },
-    {
-      "text": "CVE-2023-36759"
-    },
-    {
-      "text": "CVE-2023-36792"
-    },
-    {
-      "text": "CVE-2023-36759"
-    },
-    {
-      "text": "CVE-2023-36792"
-    },
-    {
-      "text": "CVE-2023-36796"
-    },
-    {
-      "text": "CVE-2023-36759"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://aka.ms/vs/admin/feedback"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5007364"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2023-36799"
+		},
+		{
+			"text": "CVE-2023-36794"
+		},
+		{
+			"text": "CVE-2023-36793"
+		},
+		{
+			"text": "CVE-2023-36759"
+		},
+		{
+			"text": "CVE-2023-36759"
+		},
+		{
+			"text": "CVE-2023-36792"
+		},
+		{
+			"text": "CVE-2023-36759"
+		},
+		{
+			"text": "CVE-2023-36792"
+		},
+		{
+			"text": "CVE-2023-36796"
+		},
+		{
+			"text": "CVE-2023-36759"
+		}
+	]
 }

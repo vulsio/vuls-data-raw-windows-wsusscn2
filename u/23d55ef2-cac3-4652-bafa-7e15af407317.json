@@ -1,79 +1,79 @@
 {
-  "creationdate": "2020-06-08T17:26:01Z",
-  "defaultlanguage": "en",
-  "updateid": "23d55ef2-cac3-4652-bafa-7e15af407317",
-  "revisionid": "31907347",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "a3c2375d-0c8a-42f9-bce0-28333e198407"
-      },
-      {
-        "type": "Product",
-        "id": "d2085b71-5f1f-43a9-880d-ed159016d5c6"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "34468341"
-      },
-      {
-        "id": "32746355"
-      },
-      {
-        "id": "33592337"
-      },
-      {
-        "id": "32511469"
-      },
-      {
-        "id": "34880649"
-      },
-      {
-        "id": "33401805"
-      },
-      {
-        "id": "35117376"
-      },
-      {
-        "id": "33802072"
-      },
-      {
-        "id": "32135854"
-      },
-      {
-        "id": "34268559"
-      },
-      {
-        "id": "35333456"
-      },
-      {
-        "id": "32930116"
-      },
-      {
-        "id": "34053034"
-      },
-      {
-        "id": "32312324"
-      }
-    ]
-  }
+	"creationdate": "2020-06-08T17:26:01Z",
+	"defaultlanguage": "en",
+	"updateid": "23d55ef2-cac3-4652-bafa-7e15af407317",
+	"revisionid": "31907347",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "a3c2375d-0c8a-42f9-bce0-28333e198407"
+			},
+			{
+				"type": "Product",
+				"id": "d2085b71-5f1f-43a9-880d-ed159016d5c6"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "34468341"
+			},
+			{
+				"id": "32746355"
+			},
+			{
+				"id": "33592337"
+			},
+			{
+				"id": "32511469"
+			},
+			{
+				"id": "34880649"
+			},
+			{
+				"id": "33401805"
+			},
+			{
+				"id": "35117376"
+			},
+			{
+				"id": "33802072"
+			},
+			{
+				"id": "32135854"
+			},
+			{
+				"id": "34268559"
+			},
+			{
+				"id": "35333456"
+			},
+			{
+				"id": "32930116"
+			},
+			{
+				"id": "34053034"
+			},
+			{
+				"id": "32312324"
+			}
+		]
+	}
 }

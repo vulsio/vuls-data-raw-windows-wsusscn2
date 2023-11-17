@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows SharePoint Services Language Template Pack Service Pack 2 (KB887624)"
-  },
-  "description": {
-    "text": "Windows SharePoint Services Language Template Pack Service Pack 2 ensures that Windows SharePoint Services performs with full functionality when a Language Template Pack is installed.  This package services the following languages: Arabic, Portuguese (Brazil), Chinese (Simplified), Czech, Danish, German, Greek, English, Spanish, Finnish, French, Hebrew, Hungarian, Italian, Japanese, Korean, Dutch, Norwegian (Bokmål), Polish, Portuguese (Portugal), Russian, Swedish, Turkish, and Chinese (Traditional). After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows SharePoint Services Language Template Pack Service Pack 2 (KB887624)"
+	},
+	"description": {
+		"text": "Windows SharePoint Services Language Template Pack Service Pack 2 ensures that Windows SharePoint Services performs with full functionality when a Language Template Pack is installed.  This package services the following languages: Arabic, Portuguese (Brazil), Chinese (Simplified), Czech, Danish, German, Greek, English, Spanish, Finnish, French, Hebrew, Hungarian, Italian, Japanese, Korean, Dutch, Norwegian (Bokmål), Polish, Portuguese (Portugal), Russian, Swedish, Turkish, and Chinese (Traditional). After you install this item, you may have to restart your computer. Once you have installed this item, it cannot be removed."
+	}
 }

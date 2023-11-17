@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-12 .NET Core 3.1.32 Security Update for x64 Server (KB5021953)"
-  },
-  "description": {
-    "text": "2022-12 .NET Core 3.1.32 Security Update for x64 Server (KB5021953)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-12 .NET Core 3.1.32 Security Update for x64 Server (KB5021953)"
+	},
+	"description": {
+		"text": "2022-12 .NET Core 3.1.32 Security Update for x64 Server (KB5021953)"
+	}
 }

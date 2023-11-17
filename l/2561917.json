@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows Server 2003 (KB923810)"
-  },
-  "description": {
-    "text": "A security issue has been identified in Windows Kodak Image Viewer that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows Server 2003 (KB923810)"
+	},
+	"description": {
+		"text": "A security issue has been identified in Windows Kodak Image Viewer that could allow an attacker to compromise your Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows Server 2003 64-bit Itanium Edition (KB905495)\n"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to tamper with the file transfer location on your computer when using the Microsoft Windows FTP (File Transfer Protocol) client. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows Server 2003 64-bit Itanium Edition (KB905495)\n"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to tamper with the file transfer location on your computer when using the Microsoft Windows FTP (File Transfer Protocol) client. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

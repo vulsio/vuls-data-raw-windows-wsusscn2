@@ -1,13 +1,13 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://learn.microsoft.com/en-us/system-center/orchestrator"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5033099"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://learn.microsoft.com/en-us/system-center/orchestrator"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5033099"
+	},
+	"uninstallationbehavior": {}
 }

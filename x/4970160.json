@@ -1,36 +1,36 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://www.microsoft.com/downloads/details.aspx?familyid=3992A556-32E3-49AB-B734-6341D208C66D"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "933867"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://www.microsoft.com/downloads/details.aspx?familyid=3992A556-32E3-49AB-B734-6341D208C66D"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "933867"
+	},
+	"uninstallationbehavior": {}
 }

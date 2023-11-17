@@ -1,68 +1,68 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "en"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    }
-  ],
-  "supporturl": {
-    "text": "http://technet.microsoft.com/en-us/exchange/bb330841.aspx"
-  },
-  "securitybulletinid": {
-    "text": "MS13-105"
-  },
-  "kbarticleid": {
-    "text": "2903911"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2013-5763"
-    },
-    {
-      "text": "CVE-2013-5791"
-    },
-    {
-      "text": "CVE-2013-1330"
-    },
-    {
-      "text": "CVE-2013-5058"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		}
+	],
+	"supporturl": {
+		"text": "http://technet.microsoft.com/en-us/exchange/bb330841.aspx"
+	},
+	"securitybulletinid": {
+		"text": "MS13-105"
+	},
+	"kbarticleid": {
+		"text": "2903911"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2013-5763"
+		},
+		{
+			"text": "CVE-2013-5791"
+		},
+		{
+			"text": "CVE-2013-1330"
+		},
+		{
+			"text": "CVE-2013-5058"
+		}
+	]
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Skype for Business Server 2015, SmartSetup (KB3061064)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB3061064."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Skype for Business Server 2015, SmartSetup (KB3061064)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB3061064."
+	}
 }

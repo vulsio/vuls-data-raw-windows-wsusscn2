@@ -1,21 +1,21 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://www.microsoft.com/uc/default.mspx"
-  },
-  "securitybulletinid": {
-    "text": "MS15-128"
-  },
-  "kbarticleid": {
-    "text": "3115873"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2015-6107"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://www.microsoft.com/uc/default.mspx"
+	},
+	"securitybulletinid": {
+		"text": "MS15-128"
+	},
+	"kbarticleid": {
+		"text": "3115873"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2015-6107"
+		}
+	]
 }

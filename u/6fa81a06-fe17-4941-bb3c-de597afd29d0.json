@@ -1,63 +1,63 @@
 {
-  "creationdate": "2017-06-27T00:56:14Z",
-  "defaultlanguage": "en",
-  "updateid": "6fa81a06-fe17-4941-bb3c-de597afd29d0",
-  "revisionid": "4966128",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "Product",
-        "id": "1403f223-a63f-f572-82ba-c92391218055"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "477b856e-65c4-4473-b621-a8b230bb70d9"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "UpdateClassification",
-        "id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "en"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "nl"
-      },
-      {
-        "name": "pt-br"
-      },
-      {
-        "name": "sv"
-      }
-    ]
-  },
-  "supersededby": {
-    "revision": [
-      {
-        "id": "4977522"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T00:56:14Z",
+	"defaultlanguage": "en",
+	"updateid": "6fa81a06-fe17-4941-bb3c-de597afd29d0",
+	"revisionid": "4966128",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "Product",
+				"id": "1403f223-a63f-f572-82ba-c92391218055"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "477b856e-65c4-4473-b621-a8b230bb70d9"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "en"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "nl"
+			},
+			{
+				"name": "pt-br"
+			},
+			{
+				"name": "sv"
+			}
+		]
+	},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "4977522"
+			}
+		]
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the remote code execution vulnerability in Microsoft Visual Studio 2012 Update 5 (KB5016314)"
-  },
-  "description": {
-    "text": "Remote code vulnerability in Microsoft Visual Studio 2012 Update 5 (KB5016314)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the remote code execution vulnerability in Microsoft Visual Studio 2012 Update 5 (KB5016314)"
+	},
+	"description": {
+		"text": "Remote code vulnerability in Microsoft Visual Studio 2012 Update 5 (KB5016314)"
+	}
 }

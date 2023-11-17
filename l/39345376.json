@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2023-07 .NET 7.0.9 Security Update for x64 Server (KB5028706)"
-  },
-  "description": {
-    "text": "2023-07 .NET 7.0.9 Security Update for x64 Server (KB5028706)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2023-07 .NET 7.0.9 Security Update for x64 Server (KB5028706)"
+	},
+	"description": {
+		"text": "2023-07 .NET 7.0.9 Security Update for x64 Server (KB5028706)"
+	}
 }

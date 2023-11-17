@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 9 for Microsoft System Center 2012 SP1 - Virtual Machine Manager (KB3030383)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 3021805."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 9 for Microsoft System Center 2012 SP1 - Virtual Machine Manager (KB3030383)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 3021805."
+	}
 }

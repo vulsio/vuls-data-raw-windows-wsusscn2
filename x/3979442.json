@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/kb/981852 "
-  },
-  "securitybulletinid": {
-    "text": "MS10-047"
-  },
-  "kbarticleid": {
-    "text": "981852"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/981852 "
+	},
+	"securitybulletinid": {
+		"text": "MS10-047"
+	},
+	"kbarticleid": {
+		"text": "981852"
+	},
+	"uninstallationbehavior": {}
 }

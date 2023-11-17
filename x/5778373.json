@@ -1,20 +1,20 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?LN=en-us"
-  },
-  "securitybulletinid": {
-    "text": "MS12-057"
-  },
-  "kbarticleid": {
-    "text": "2596754"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2010-0000"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?LN=en-us"
+	},
+	"securitybulletinid": {
+		"text": "MS12-057"
+	},
+	"kbarticleid": {
+		"text": "2596754"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2010-0000"
+		}
+	]
 }

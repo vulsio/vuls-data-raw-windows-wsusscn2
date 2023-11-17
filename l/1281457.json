@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 2 for Windows XP Professional, x64 Edition"
-  },
-  "description": {
-    "text": "Microsoft Windows Server 2003 Service Pack 2 (SP2) is a cumulative service pack that includes the latest updates and provides enhancements to security and stability. This service pack is available for Windows XP Professional, x64 Edition. After you install this item, you may have to restart your computer.\n        "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 2 for Windows XP Professional, x64 Edition"
+	},
+	"description": {
+		"text": "Microsoft Windows Server 2003 Service Pack 2 (SP2) is a cumulative service pack that includes the latest updates and provides enhancements to security and stability. This service pack is available for Windows XP Professional, x64 Edition. After you install this item, you may have to restart your computer.\n        "
+	}
 }

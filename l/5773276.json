@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Excel Viewer 2003 Service Pack 3 (SP3)"
-  },
-  "description": {
-    "text": "Microsoft Office Excel Viewer 2003 Service Pack 3 (SP3) contains significant security enhancements. Some of the fixes included with SP3 have been previously released as separate updates. This service pack combines them into one update."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Excel Viewer 2003 Service Pack 3 (SP3)"
+	},
+	"description": {
+		"text": "Microsoft Office Excel Viewer 2003 Service Pack 3 (SP3) contains significant security enhancements. Some of the fixes included with SP3 have been previously released as separate updates. This service pack combines them into one update."
+	}
 }

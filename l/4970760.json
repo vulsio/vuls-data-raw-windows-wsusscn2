@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communicator 2007 R2 (KB 2549042)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB 2549042."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communicator 2007 R2 (KB 2549042)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB 2549042."
+	}
 }

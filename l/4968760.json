@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Forefront Client Security Service Pack 1 (KB951951)"
-  },
-  "description": {
-    "text": "\n\tThis service pack upgrades Microsoft Forefront Client Security to Microsoft Forefront Client \tSecurity Service Pack 1 (SP1). \n\tThis service pack can be installed on the Client Security management and collection server \t\troles.\tSome of the fixes included with SP1 were previously released as separate updates. This \tservice pack combines those updates into one update. For more information see Microsoft \tKnowledge base article KB951951\n       "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Forefront Client Security Service Pack 1 (KB951951)"
+	},
+	"description": {
+		"text": "\n\tThis service pack upgrades Microsoft Forefront Client Security to Microsoft Forefront Client \tSecurity Service Pack 1 (SP1). \n\tThis service pack can be installed on the Client Security management and collection server \t\troles.\tSome of the fixes included with SP1 were previously released as separate updates. This \tservice pack combines those updates into one update. For more information see Microsoft \tKnowledge base article KB951951\n       "
+	}
 }

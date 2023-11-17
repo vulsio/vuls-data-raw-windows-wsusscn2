@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office Word 2007 (KB3203441)  "
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office Word 2007  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office Word 2007 (KB3203441)  "
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office Word 2007  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

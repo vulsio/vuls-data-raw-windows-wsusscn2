@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2013 Conferencing Server (KB2835434)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2835434."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2013 Conferencing Server (KB2835434)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2835434."
+	}
 }

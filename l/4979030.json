@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office PowerPoint Viewer 2003 (KB949041)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office PowerPoint Viewer 2003 that could allow arbitrary code to run when a maliciously modified document is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office PowerPoint Viewer 2003 (KB949041)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office PowerPoint Viewer 2003 that could allow arbitrary code to run when a maliciously modified document is opened. This update resolves that vulnerability."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Windows (KB824105)"
-  },
-  "description": {
-    "text": "A security issue has been identified in Microsoft Windows that could allow an attacker to see information in your computer’s memory over a network. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Windows (KB824105)"
+	},
+	"description": {
+		"text": "A security issue has been identified in Microsoft Windows that could allow an attacker to see information in your computer’s memory over a network. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

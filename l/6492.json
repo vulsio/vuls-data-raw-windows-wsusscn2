@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Cumulative Patch for SQL Server 2000 Desktop Engine (Windows)"
-  },
-  "description": {
-    "text": "A number of security issues have been identified in the Microsoft Desktop Engine that is supplied with Windows Server 2003.  For example, an attacker could cause the system to hang and become unresponsive.  The Microsoft Desktop Engine is not installed by default in Windows Server 2003.  These issues only affect Windows Server 2003 servers that have been configured to support Universal Description, Discovery, and Integration (UDDI), which installs the Microsoft Desktop Engine.  Fixes for other versions are available online for download, and can be found in Microsoft Knowledge Base article 815495.  You can help protect your system by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Cumulative Patch for SQL Server 2000 Desktop Engine (Windows)"
+	},
+	"description": {
+		"text": "A number of security issues have been identified in the Microsoft Desktop Engine that is supplied with Windows Server 2003.  For example, an attacker could cause the system to hang and become unresponsive.  The Microsoft Desktop Engine is not installed by default in Windows Server 2003.  These issues only affect Windows Server 2003 servers that have been configured to support Universal Description, Discovery, and Integration (UDDI), which installs the Microsoft Desktop Engine.  Fixes for other versions are available online for download, and can be found in Microsoft Knowledge Base article 815495.  You can help protect your system by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

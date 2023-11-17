@@ -1,72 +1,72 @@
 {
-  "creationdate": "2017-06-27T00:44:23Z",
-  "defaultlanguage": "en",
-  "updateid": "594dacef-b760-4018-894b-f6cfc7f8f4c4",
-  "revisionid": "4967873",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "ProductFamily",
-        "id": "0a4c6c73-8887-4d7f-9cbe-d08fa8fa9d1e"
-      },
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "Product",
-        "id": "60916385-7546-4e9b-836e-79d65e517bab"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "en"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "ko"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "es"
-      },
-      {
-        "name": "zh-tw"
-      },
-      {
-        "name": "ru"
-      }
-    ]
-  },
-  "supersededby": {
-    "revision": [
-      {
-        "id": "5967383"
-      },
-      {
-        "id": "5967391"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T00:44:23Z",
+	"defaultlanguage": "en",
+	"updateid": "594dacef-b760-4018-894b-f6cfc7f8f4c4",
+	"revisionid": "4967873",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "ProductFamily",
+				"id": "0a4c6c73-8887-4d7f-9cbe-d08fa8fa9d1e"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "Product",
+				"id": "60916385-7546-4e9b-836e-79d65e517bab"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "en"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "ko"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "es"
+			},
+			{
+				"name": "zh-tw"
+			},
+			{
+				"name": "ru"
+			}
+		]
+	},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "5967383"
+			},
+			{
+				"id": "5967391"
+			}
+		]
+	}
 }

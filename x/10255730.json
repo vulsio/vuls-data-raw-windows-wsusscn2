@@ -1,146 +1,146 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ar"
-    },
-    {
-      "text": "bg"
-    },
-    {
-      "text": "zh-hk"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "hr"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "et"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hi"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ja-nec"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "lv"
-    },
-    {
-      "text": "lt"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ro"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sr"
-    },
-    {
-      "text": "sk"
-    },
-    {
-      "text": "sl"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "th"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "uk"
-    }
-  ],
-  "supporturl": {
-    "text": "http://technet.microsoft.com/en-US/exchange/dd203064"
-  },
-  "securitybulletinid": {
-    "text": "MS13-105"
-  },
-  "kbarticleid": {
-    "text": "2903903"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2013-5763"
-    },
-    {
-      "text": "CVE-2013-5791"
-    },
-    {
-      "text": "CVE-2013-1330"
-    },
-    {
-      "text": "CVE-2013-5058"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ar"
+		},
+		{
+			"text": "bg"
+		},
+		{
+			"text": "zh-hk"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "hr"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "et"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hi"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ja-nec"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "lv"
+		},
+		{
+			"text": "lt"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ro"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sr"
+		},
+		{
+			"text": "sk"
+		},
+		{
+			"text": "sl"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "th"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "uk"
+		}
+	],
+	"supporturl": {
+		"text": "http://technet.microsoft.com/en-US/exchange/dd203064"
+	},
+	"securitybulletinid": {
+		"text": "MS13-105"
+	},
+	"kbarticleid": {
+		"text": "2903903"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2013-5763"
+		},
+		{
+			"text": "CVE-2013-5791"
+		},
+		{
+			"text": "CVE-2013-1330"
+		},
+		{
+			"text": "CVE-2013-5058"
+		}
+	]
 }

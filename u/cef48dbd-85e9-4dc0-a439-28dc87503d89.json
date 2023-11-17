@@ -1,57 +1,57 @@
 {
-  "creationdate": "2020-07-13T17:39:07Z",
-  "defaultlanguage": "en",
-  "updateid": "cef48dbd-85e9-4dc0-a439-28dc87503d89",
-  "revisionid": "32135673",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "ba0ae9cc-5f01-40b4-ac3f-50192b5d6aaf"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "32718720"
-      },
-      {
-        "id": "35313362"
-      },
-      {
-        "id": "36142811"
-      },
-      {
-        "id": "40122345"
-      },
-      {
-        "id": "36364524"
-      },
-      {
-        "id": "37189150"
-      },
-      {
-        "id": "32312635"
-      },
-      {
-        "id": "39910068"
-      }
-    ]
-  }
+	"creationdate": "2020-07-13T17:39:07Z",
+	"defaultlanguage": "en",
+	"updateid": "cef48dbd-85e9-4dc0-a439-28dc87503d89",
+	"revisionid": "32135673",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "ba0ae9cc-5f01-40b4-ac3f-50192b5d6aaf"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "32718720"
+			},
+			{
+				"id": "35313362"
+			},
+			{
+				"id": "36142811"
+			},
+			{
+				"id": "40122345"
+			},
+			{
+				"id": "36364524"
+			},
+			{
+				"id": "37189150"
+			},
+			{
+				"id": "32312635"
+			},
+			{
+				"id": "39910068"
+			}
+		]
+	}
 }

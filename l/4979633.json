@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office XP (KB957797)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office XP that could allow arbitrary code to run when you visit a maliciously modified web page. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office XP (KB957797)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office XP that could allow arbitrary code to run when you visit a maliciously modified web page. This update resolves that vulnerability."
+	}
 }

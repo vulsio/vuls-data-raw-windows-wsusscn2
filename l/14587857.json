@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2013 Administrative Tools (KB2967485)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2967485."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2013 Administrative Tools (KB2967485)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2967485."
+	}
 }

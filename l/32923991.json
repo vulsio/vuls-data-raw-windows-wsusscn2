@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update For Exchange Server 2016 CU17 (KB4588741)"
-  },
-  "description": {
-    "text": "The security update addresses two remote code execution vulnerabilities and one denial of service vulnerability for Microsoft Exchange Server."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update For Exchange Server 2016 CU17 (KB4588741)"
+	},
+	"description": {
+		"text": "The security update addresses two remote code execution vulnerabilities and one denial of service vulnerability for Microsoft Exchange Server."
+	}
 }

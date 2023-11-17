@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for .NET Framework 3.5 SP1 on Windows Vista SP1 and Windows Server 2008 for x64-based Systems (KB2518865)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system that is running the Microsoft .NET Framework and gain complete control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer.\t\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for .NET Framework 3.5 SP1 on Windows Vista SP1 and Windows Server 2008 for x64-based Systems (KB2518865)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to compromise your Windows-based system that is running the Microsoft .NET Framework and gain complete control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer.\t\n"
+	}
 }

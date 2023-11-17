@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 2 for System Center Virtual Machine Manager 2008 R2 SP1 Server (KB2691812)"
-  },
-  "description": {
-    "text": "This update fixes problems described in KB article 2691812"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for System Center Virtual Machine Manager 2008 R2 SP1 Server (KB2691812)"
+	},
+	"description": {
+		"text": "This update fixes problems described in KB article 2691812"
+	}
 }

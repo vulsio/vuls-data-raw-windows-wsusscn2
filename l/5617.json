@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update, February 14, 2002 (Internet Explorer 5.01)"
-  },
-  "description": {
-    "text": "This is an updated version of Security Update, February 14, 2002. This update resolves the \"Incorrect VBScript Handling can Allow Web Pages to Read Local Files\" security vulnerability in Internet Explorer 5.01 and Windows 2000, and is discussed in Microsoft Security Bulletin MS02-009. Download now to prevent a malicious user from using an unauthorized Web site to read the contents of files on your local computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update, February 14, 2002 (Internet Explorer 5.01)"
+	},
+	"description": {
+		"text": "This is an updated version of Security Update, February 14, 2002. This update resolves the \"Incorrect VBScript Handling can Allow Web Pages to Read Local Files\" security vulnerability in Internet Explorer 5.01 and Windows 2000, and is discussed in Microsoft Security Bulletin MS02-009. Download now to prevent a malicious user from using an unauthorized Web site to read the contents of files on your local computer."
+	}
 }

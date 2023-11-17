@@ -1,16 +1,16 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com "
-  },
-  "securitybulletinid": {
-    "text": "MS11-032"
-  },
-  "kbarticleid": {
-    "text": "2507618"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com "
+	},
+	"securitybulletinid": {
+		"text": "MS11-032"
+	},
+	"kbarticleid": {
+		"text": "2507618"
+	},
+	"uninstallationbehavior": {}
 }

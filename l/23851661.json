@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for Microsoft System Center 2016 - Virtual Machine Manager Administrator Console (KB3190598)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 3190609."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for Microsoft System Center 2016 - Virtual Machine Manager Administrator Console (KB3190598)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 3190609."
+	}
 }

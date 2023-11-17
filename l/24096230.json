@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for Microsoft System Center 2016 - Operations Manager Console (KB3190029)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in  KB3190029"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for Microsoft System Center 2016 - Operations Manager Console (KB3190029)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in  KB3190029"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows XP x64 Edition (KB955069)"
-  },
-  "description": {
-    "text": "A security issue has been identified in the way Microsoft XML Core Services (MSXML) is handled that could allow an attacker to compromise a computer that is running Microsoft Windows and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows XP x64 Edition (KB955069)"
+	},
+	"description": {
+		"text": "A security issue has been identified in the way Microsoft XML Core Services (MSXML) is handled that could allow an attacker to compromise a computer that is running Microsoft Windows and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

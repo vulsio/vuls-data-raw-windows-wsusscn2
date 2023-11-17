@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com"
-  },
-  "securitybulletinid": {
-    "text": "MS12-081"
-  },
-  "kbarticleid": {
-    "text": "2758857"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com"
+	},
+	"securitybulletinid": {
+		"text": "MS12-081"
+	},
+	"kbarticleid": {
+		"text": "2758857"
+	},
+	"uninstallationbehavior": {}
 }

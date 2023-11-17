@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/help/4499175"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4499175"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/help/4499175"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4499175"
+	},
+	"uninstallationbehavior": {}
 }

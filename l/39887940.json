@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the remote code execution vulnerability in Microsoft Visual Studio 2013 Update 5 (KB5029365)"
-  },
-  "description": {
-    "text": "Remote code execution vulnerability in Microsoft Visual Studio 2013 Update 5"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the remote code execution vulnerability in Microsoft Visual Studio 2013 Update 5 (KB5029365)"
+	},
+	"description": {
+		"text": "Remote code execution vulnerability in Microsoft Visual Studio 2013 Update 5"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 1 for Forefront Identity Manager 2010 R2 - Certificate Management Server (KB2814853)"
-  },
-  "description": {
-    "text": "This is an important Service Pack for Forefront Identity Manager 2010 R2. It enables support for Windows Server 2012 and SQL 2012.  This update also fixes a signing issue described in Microsoft Security Advisory 2749655, which affected hotfix rollup package KB2734159 (build 4.1.2515.0)."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 1 for Forefront Identity Manager 2010 R2 - Certificate Management Server (KB2814853)"
+	},
+	"description": {
+		"text": "This is an important Service Pack for Forefront Identity Manager 2010 R2. It enables support for Windows Server 2012 and SQL 2012.  This update also fixes a signing issue described in Microsoft Security Advisory 2749655, which affected hotfix rollup package KB2734159 (build 4.1.2515.0)."
+	}
 }

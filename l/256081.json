@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows 2000 Service Pack 4 Network Install for IT Professionals"
-  },
-  "description": {
-    "text": "Download Windows 2000 Service Pack 4 to obtain updates that can help improve security, application compatibility, operating system reliability, and Setup. This service pack also includes the updates contained in previous Windows 2000 Service Packs."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows 2000 Service Pack 4 Network Install for IT Professionals"
+	},
+	"description": {
+		"text": "Download Windows 2000 Service Pack 4 to obtain updates that can help improve security, application compatibility, operating system reliability, and Setup. This service pack also includes the updates contained in previous Windows 2000 Service Packs."
+	}
 }

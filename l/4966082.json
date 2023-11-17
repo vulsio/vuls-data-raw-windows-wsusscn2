@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Visio 2003 Multilingual User Interface Pack (KB909115)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office Visio 2003’s Korean IME that could allow for elevation of privilege. This update addresses that vulnerability when Visio 2003 is used with a Multilingual User Interface Pack."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Visio 2003 Multilingual User Interface Pack (KB909115)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office Visio 2003’s Korean IME that could allow for elevation of privilege. This update addresses that vulnerability when Visio 2003 is used with a Multilingual User Interface Pack."
+	}
 }

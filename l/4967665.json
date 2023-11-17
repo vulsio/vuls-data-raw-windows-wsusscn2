@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft SQL Server 2005 Service Pack 3 (KB955706)"
-  },
-  "description": {
-    "text": "This service pack upgrades SQL Server 2005 to SQL Server 2005 Service Pack 3 (SP3). This service pack upgrades all SQL Server 2005 instances and all components installed by SQL Server 2005 Setup. This service pack upgrades all editions of SQL Server 2005 except Express Edition. You must use Microsoft SQL Server 2005 Express Edition (SQL Server Express) SP3 to upgrade instances of SQL Server Express to SP3. If you need additional installation options, you should download this service pack at the Microsoft Download Center. For more information, see Microsoft Knowledge Base article 955706."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft SQL Server 2005 Service Pack 3 (KB955706)"
+	},
+	"description": {
+		"text": "This service pack upgrades SQL Server 2005 to SQL Server 2005 Service Pack 3 (SP3). This service pack upgrades all SQL Server 2005 instances and all components installed by SQL Server 2005 Setup. This service pack upgrades all editions of SQL Server 2005 except Express Edition. You must use Microsoft SQL Server 2005 Express Edition (SQL Server Express) SP3 to upgrade instances of SQL Server Express to SP3. If you need additional installation options, you should download this service pack at the Microsoft Download Center. For more information, see Microsoft Knowledge Base article 955706."
+	}
 }

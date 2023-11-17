@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 4 for Microsoft System Center 2012 R2 - Operations Manager Web Console (KB2992020) \n"
-  },
-  "description": {
-    "text": "This updates resolves problems described in  KB2992020\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 4 for Microsoft System Center 2012 R2 - Operations Manager Web Console (KB2992020) \n"
+	},
+	"description": {
+		"text": "This updates resolves problems described in  KB2992020\n"
+	}
 }

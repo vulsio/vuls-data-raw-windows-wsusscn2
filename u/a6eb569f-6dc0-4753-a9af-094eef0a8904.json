@@ -1,63 +1,63 @@
 {
-  "creationdate": "2020-07-13T17:57:42Z",
-  "defaultlanguage": "en",
-  "updateid": "a6eb569f-6dc0-4753-a9af-094eef0a8904",
-  "revisionid": "32135814",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Product",
-        "id": "21210d67-50bc-4254-a695-281765e10665"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "32511517"
-      },
-      {
-        "id": "32531449"
-      },
-      {
-        "id": "33802046"
-      },
-      {
-        "id": "33401952"
-      },
-      {
-        "id": "32746267"
-      },
-      {
-        "id": "32929876"
-      },
-      {
-        "id": "34268089"
-      },
-      {
-        "id": "33592355"
-      },
-      {
-        "id": "32313771"
-      },
-      {
-        "id": "34052994"
-      }
-    ]
-  }
+	"creationdate": "2020-07-13T17:57:42Z",
+	"defaultlanguage": "en",
+	"updateid": "a6eb569f-6dc0-4753-a9af-094eef0a8904",
+	"revisionid": "32135814",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Product",
+				"id": "21210d67-50bc-4254-a695-281765e10665"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "32511517"
+			},
+			{
+				"id": "32531449"
+			},
+			{
+				"id": "33802046"
+			},
+			{
+				"id": "33401952"
+			},
+			{
+				"id": "32746267"
+			},
+			{
+				"id": "32929876"
+			},
+			{
+				"id": "34268089"
+			},
+			{
+				"id": "33592355"
+			},
+			{
+				"id": "32313771"
+			},
+			{
+				"id": "34052994"
+			}
+		]
+	}
 }

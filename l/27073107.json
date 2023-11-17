@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for SQL Server 2017 (KB4293803)"
-  },
-  "description": {
-    "text": "Executing a specially crafted query involving calculating difference between values of different date types and aggregation of the results, could lead to stack corruption, if the query runs in batch mode. Depending on particular values processed by such query, this could lead to terminating the SQL Server process, or a possibility of remote code execution.  \n\t"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for SQL Server 2017 (KB4293803)"
+	},
+	"description": {
+		"text": "Executing a specially crafted query involving calculating difference between values of different date types and aggregation of the results, could lead to stack corruption, if the query runs in batch mode. Depending on particular values processed by such query, this could lead to terminating the SQL Server process, or a possibility of remote code execution.  \n\t"
+	}
 }

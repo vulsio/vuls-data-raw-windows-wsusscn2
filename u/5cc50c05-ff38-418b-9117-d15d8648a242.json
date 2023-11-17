@@ -1,30 +1,30 @@
 {
-  "creationdate": "2017-06-27T00:46:09Z",
-  "defaultlanguage": "en",
-  "updateid": "5cc50c05-ff38-418b-9117-d15d8648a242",
-  "revisionid": "4970756",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "Product",
-        "id": "22bf57a8-4fe1-425f-bdaa-32b4f655284b"
-      },
-      {
-        "type": "UpdateClassification",
-        "id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "504ae250-57c5-484a-8a10-a2c35ea0689b"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {}
+	"creationdate": "2017-06-27T00:46:09Z",
+	"defaultlanguage": "en",
+	"updateid": "5cc50c05-ff38-418b-9117-d15d8648a242",
+	"revisionid": "4970756",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "Product",
+				"id": "22bf57a8-4fe1-425f-bdaa-32b4f655284b"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "504ae250-57c5-484a-8a10-a2c35ea0689b"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {}
 }

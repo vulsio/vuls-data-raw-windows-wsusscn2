@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 6 for Exchange Server 2007 (KB942846)"
-  },
-  "description": {
-    "text": "This update rollup resolves problems that were found in Exchange Server 2007 since Exchange Server 2007 was released and replaces previously released update rollups for Exchange 2007."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 6 for Exchange Server 2007 (KB942846)"
+	},
+	"description": {
+		"text": "This update rollup resolves problems that were found in Exchange Server 2007 since Exchange Server 2007 was released and replaces previously released update rollups for Exchange 2007."
+	}
 }

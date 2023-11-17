@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft Internet Security and Acceleration (ISA) Server 2006 Service Pack 1 (SP1)"
-  },
-  "description": {
-    "text": "This service pack contains new troubleshooting and change management features, and improvements to existing ISA Server functionality. New features include configuration change tracking, a test feature to check the validity of Web publishing rules, a firewall policy traffic rule simulator, and an integrated diagnostic logging viewer.  Enhancements to existing features include support for NLB multicast operations, server certificates with multiple Subject Alternate Name (SAN) entries, and Kerberos Constrained Delegation (KCD) authentication of cross-domain users."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft Internet Security and Acceleration (ISA) Server 2006 Service Pack 1 (SP1)"
+	},
+	"description": {
+		"text": "This service pack contains new troubleshooting and change management features, and improvements to existing ISA Server functionality. New features include configuration change tracking, a test feature to check the validity of Web publishing rules, a firewall policy traffic rule simulator, and an integrated diagnostic logging viewer.  Enhancements to existing features include support for NLB multicast operations, server certificates with multiple Subject Alternate Name (SAN) entries, and Kerberos Constrained Delegation (KCD) authentication of cross-domain users."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4584787) "
-  },
-  "description": {
-    "text": "Diagnostics Hub Standard Collector Elevation of Privilege Vulnerability"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4584787) "
+	},
+	"description": {
+		"text": "Diagnostics Hub Standard Collector Elevation of Privilege Vulnerability"
+	}
 }

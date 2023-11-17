@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communicator 2007 R2 (KB 976135)"
-  },
-  "description": {
-    "text": "This package fixes the issues described in KB 976135."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communicator 2007 R2 (KB 976135)"
+	},
+	"description": {
+		"text": "This package fixes the issues described in KB 976135."
+	}
 }

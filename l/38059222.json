@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "PowerShell v7.3.1 (x64)"
-  },
-  "description": {
-    "text": "Install or update to PowerShell version v7.3.1 (x64)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "PowerShell v7.3.1 (x64)"
+	},
+	"description": {
+		"text": "Install or update to PowerShell version v7.3.1 (x64)"
+	}
 }

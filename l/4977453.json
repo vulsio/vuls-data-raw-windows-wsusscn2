@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Works Suite 2005 (KB943973)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Works Suite 2005 that could allow arbitrary code to run when opening a malicious document. This update addresses that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Works Suite 2005 (KB943973)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Works Suite 2005 that could allow arbitrary code to run when opening a malicious document. This update addresses that vulnerability."
+	}
 }

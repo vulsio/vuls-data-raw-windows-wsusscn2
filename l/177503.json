@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "810833: Security Update (Windows XP)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to compromise a computer running Microsoft(r) Windows(r) and gain control over it. This issue is most likely to affect computers used as servers.  You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "810833: Security Update (Windows XP)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to compromise a computer running Microsoft(r) Windows(r) and gain control over it. This issue is most likely to affect computers used as servers.  You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update (326886)"
-  },
-  "description": {
-    "text": "This update resolves the \"Flaw in Network Connection Manager\" security vulnerability in Windows 2000. Download now to help prevent a malicious user from gaining elevated privileges through the Network Connection Manager, and then running code of his or her choice on your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update (326886)"
+	},
+	"description": {
+		"text": "This update resolves the \"Flaw in Network Connection Manager\" security vulnerability in Windows 2000. Download now to help prevent a malicious user from gaining elevated privileges through the Network Connection Manager, and then running code of his or her choice on your computer."
+	}
 }

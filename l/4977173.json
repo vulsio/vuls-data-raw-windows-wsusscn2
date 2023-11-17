@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Office 2007 (KB934062)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in the 2007 Microsoft Office System and the Compatibility Pack for the 2007 Office system that could allow remote code execution. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Office 2007 (KB934062)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in the 2007 Microsoft Office System and the Compatibility Pack for the 2007 Office system that could allow remote code execution. This update resolves that vulnerability."
+	}
 }

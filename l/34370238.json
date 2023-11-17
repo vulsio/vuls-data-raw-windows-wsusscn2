@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 3 for Microsoft System Center 2019 - Operations Manager Gateway (KB4594078)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in  KB4594078."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 3 for Microsoft System Center 2019 - Operations Manager Gateway (KB4594078)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in  KB4594078."
+	}
 }

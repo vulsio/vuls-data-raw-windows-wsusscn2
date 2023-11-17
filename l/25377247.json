@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for SQL Server 2016 Service Pack 1 CU (KB4019095)"
-  },
-  "description": {
-    "text": "Install this update to resolve issues in SQL Server 2016 SP1 CU Analysis Services. For a complete listing of the issues resolved in this update, see the associated Microsoft Knowledge Base article. After you install this update, you may have to restart your computer. \n\t"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for SQL Server 2016 Service Pack 1 CU (KB4019095)"
+	},
+	"description": {
+		"text": "Install this update to resolve issues in SQL Server 2016 SP1 CU Analysis Services. For a complete listing of the issues resolved in this update, see the associated Microsoft Knowledge Base article. After you install this update, you may have to restart your computer. \n\t"
+	}
 }

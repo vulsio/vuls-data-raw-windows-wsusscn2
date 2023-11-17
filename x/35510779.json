@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://support.microsoft.com/help/5007186"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5007186"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/help/5007186"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5007186"
+	},
+	"uninstallationbehavior": {}
 }

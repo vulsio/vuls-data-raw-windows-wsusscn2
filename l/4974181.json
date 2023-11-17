@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Web Conferencing Server (KB 2575871)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 2575871"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Web Conferencing Server (KB 2575871)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 2575871"
+	}
 }

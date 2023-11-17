@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2010 Unified Communications Managed API 3.0 Windows Workflow Runtime x64 (KB2847897)"
-  },
-  "description": {
-    "text": "This package fixes some issues described in KB2847897"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2010 Unified Communications Managed API 3.0 Windows Workflow Runtime x64 (KB2847897)"
+	},
+	"description": {
+		"text": "This package fixes some issues described in KB2847897"
+	}
 }

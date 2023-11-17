@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5023286"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2023-21808"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5023286"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2023-21808"
+		}
+	]
 }

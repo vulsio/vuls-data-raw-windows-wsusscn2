@@ -1,57 +1,57 @@
 {
-  "creationdate": "2023-03-13T20:26:29Z",
-  "defaultlanguage": "en",
-  "updateid": "a4b6625c-226e-4dbc-baec-1dbd854b8015",
-  "revisionid": "38632801",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "abc45868-0c9c-4bc0-a36d-03d54113baf4"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "40122304"
-      },
-      {
-        "id": "39745539"
-      },
-      {
-        "id": "39527710"
-      },
-      {
-        "id": "39193357"
-      },
-      {
-        "id": "39373551"
-      },
-      {
-        "id": "38980253"
-      },
-      {
-        "id": "38813022"
-      },
-      {
-        "id": "39909175"
-      }
-    ]
-  }
+	"creationdate": "2023-03-13T20:26:29Z",
+	"defaultlanguage": "en",
+	"updateid": "a4b6625c-226e-4dbc-baec-1dbd854b8015",
+	"revisionid": "38632801",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "abc45868-0c9c-4bc0-a36d-03d54113baf4"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "40122304"
+			},
+			{
+				"id": "39745539"
+			},
+			{
+				"id": "39527710"
+			},
+			{
+				"id": "39193357"
+			},
+			{
+				"id": "39373551"
+			},
+			{
+				"id": "38980253"
+			},
+			{
+				"id": "38813022"
+			},
+			{
+				"id": "39909175"
+			}
+		]
+	}
 }

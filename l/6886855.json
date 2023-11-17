@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communications Server 2007 R2 Application Sharing Server (KB2764850)"
-  },
-  "description": {
-    "text": "This Package fixes issues described in KB Article 2764850"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communications Server 2007 R2 Application Sharing Server (KB2764850)"
+	},
+	"description": {
+		"text": "This Package fixes issues described in KB Article 2764850"
+	}
 }

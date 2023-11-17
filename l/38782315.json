@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2023-04 .NET 6.0.16 Security Update for x86 Client (KB5025915)"
-  },
-  "description": {
-    "text": "2023-04 .NET 6.0.16 Security Update for x86 Client (KB5025915)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2023-04 .NET 6.0.16 Security Update for x86 Client (KB5025915)"
+	},
+	"description": {
+		"text": "2023-04 .NET 6.0.16 Security Update for x86 Client (KB5025915)"
+	}
 }

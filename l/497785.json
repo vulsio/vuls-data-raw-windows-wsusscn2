@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 2 for Exchange Server 2007 (KB935490)"
-  },
-  "description": {
-    "text": "This update is for any clustered Exchange servers.. This update rollup resolves problems that were found in Exchange Server 2007 since Exchange Server 2007 was released."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for Exchange Server 2007 (KB935490)"
+	},
+	"description": {
+		"text": "This update is for any clustered Exchange servers.. This update rollup resolves problems that were found in Exchange Server 2007 since Exchange Server 2007 was released."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2021-12 .NET 6.0.1 Security Update for x86 Client (KB5009191)"
-  },
-  "description": {
-    "text": "2021-12 .NET 6.0.1 Security Update for x86 Client (KB5009191)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2021-12 .NET 6.0.1 Security Update for x86 Client (KB5009191)"
+	},
+	"description": {
+		"text": "2021-12 .NET 6.0.1 Security Update for x86 Client (KB5009191)"
+	}
 }

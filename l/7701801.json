@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for Active Directory Rights Management Services Client 2.0 (KB2821183)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 2821183. Active Directory Rights Management Services Client 2.1 (AD RMS Client 2.1) is software designed for your client computers to help protect access to and usage of information flowing through applications that use AD RMS whether installed on your premises or in a Microsoft datacenter. AD RMS Client 2.1 provides numerous updates and bug fixes found in AD RMS Client 2.0. AD RMS Client 2.1 also adds support for automation document protection."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for Active Directory Rights Management Services Client 2.0 (KB2821183)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 2821183. Active Directory Rights Management Services Client 2.1 (AD RMS Client 2.1) is software designed for your client computers to help protect access to and usage of information flowing through applications that use AD RMS whether installed on your premises or in a Microsoft datacenter. AD RMS Client 2.1 provides numerous updates and bug fixes found in AD RMS Client 2.0. AD RMS Client 2.1 also adds support for automation document protection."
+	}
 }

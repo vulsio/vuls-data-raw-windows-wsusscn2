@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Service Pack 1 for Microsoft Application Virtualization 5.0 (KB2804622)"
-  },
-  "description": {
-    "text": "Microsoft Application Virtualization (App-V) 5.0 Service Pack 1 provides the latest updates to App-V 5.0."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Service Pack 1 for Microsoft Application Virtualization 5.0 (KB2804622)"
+	},
+	"description": {
+		"text": "Microsoft Application Virtualization (App-V) 5.0 Service Pack 1 provides the latest updates to App-V 5.0."
+	}
 }

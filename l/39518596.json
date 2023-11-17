@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Microsoft Visual Studio 2010 Tools for Office Runtime (KB5029497)"
-  },
-  "description": {
-    "text": "This update rollup for Visual Studio Tools for Office fixes a number of top customer issues for the Runtime. In particular, it addresses an issue described in CVE-2023-36897. The update also includes fixes from previous updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Microsoft Visual Studio 2010 Tools for Office Runtime (KB5029497)"
+	},
+	"description": {
+		"text": "This update rollup for Visual Studio Tools for Office fixes a number of top customer issues for the Runtime. In particular, it addresses an issue described in CVE-2023-36897. The update also includes fixes from previous updates."
+	}
 }

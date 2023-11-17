@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows Server 2003 (819696)"
-  },
-  "description": {
-    "text": "An identified security issue in Microsoft® DirectX® could allow an attacker to run programs on a computer running Microsoft® Windows® Server 2003. The attacker would first have to send you an e-mail message or entice you into visiting a malicious Web site. You can help protect your computer by installing this update from Microsoft."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows Server 2003 (819696)"
+	},
+	"description": {
+		"text": "An identified security issue in Microsoft® DirectX® could allow an attacker to run programs on a computer running Microsoft® Windows® Server 2003. The attacker would first have to send you an e-mail message or entice you into visiting a malicious Web site. You can help protect your computer by installing this update from Microsoft."
+	}
 }

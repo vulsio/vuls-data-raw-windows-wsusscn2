@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Microsoft SharePoint Enterprise Server 2013 (KB2768001) farm-deployment"
-  },
-  "description": {
-    "text": "Due to a change in the package configuration introduced after SharePoint 2013 RTM the March Public update is a mandatory requirement in order to install subsequent SharePoint Updates."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Microsoft SharePoint Enterprise Server 2013 (KB2768001) farm-deployment"
+	},
+	"description": {
+		"text": "Due to a change in the package configuration introduced after SharePoint 2013 RTM the March Public update is a mandatory requirement in order to install subsequent SharePoint Updates."
+	}
 }

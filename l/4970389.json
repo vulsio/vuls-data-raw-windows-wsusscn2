@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Co-install Update 2 (SQL) for VS 2010 Service Pack 1"
-  },
-  "description": {
-    "text": "hidden coinstall"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Co-install Update 2 (SQL) for VS 2010 Service Pack 1"
+	},
+	"description": {
+		"text": "hidden coinstall"
+	}
 }

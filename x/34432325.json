@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://go.microsoft.com/fwlink/?linkid=2147044&clcid=0x409"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4598457"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2021-31957"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://go.microsoft.com/fwlink/?linkid=2147044&clcid=0x409"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4598457"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2021-31957"
+		}
+	]
 }

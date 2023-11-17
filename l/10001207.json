@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2013 (KB2881684)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2881684."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2013 (KB2881684)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2881684."
+	}
 }

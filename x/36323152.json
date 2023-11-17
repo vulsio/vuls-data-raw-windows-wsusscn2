@@ -1,25 +1,25 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://go.microsoft.com/fwlink/?linkid=2147044&amp;clcid=0x409"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5012416"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2022-24464"
-    },
-    {
-      "text": "CVE-2022-24512"
-    },
-    {
-      "text": "CVE-2020-8927"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://go.microsoft.com/fwlink/?linkid=2147044&amp;clcid=0x409"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5012416"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2022-24464"
+		},
+		{
+			"text": "CVE-2022-24512"
+		},
+		{
+			"text": "CVE-2020-8927"
+		}
+	]
 }

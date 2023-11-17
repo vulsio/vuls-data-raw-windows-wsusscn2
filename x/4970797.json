@@ -1,13 +1,13 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=68951"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "978560"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=68951"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "978560"
+	},
+	"uninstallationbehavior": {}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Visio 2003 Service Pack 2"
-  },
-  "description": {
-    "text": "Microsoft Office Visio 2003 Service Pack 2 (SP2) provides the latest updates to Visio 2003. This update applies to the following program: Microsoft Office Visio Professional 2003, Microsoft Office Visio Standard 2003.\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Visio 2003 Service Pack 2"
+	},
+	"description": {
+		"text": "Microsoft Office Visio 2003 Service Pack 2 (SP2) provides the latest updates to Visio 2003. This update applies to the following program: Microsoft Office Visio Professional 2003, Microsoft Office Visio Standard 2003.\n"
+	}
 }

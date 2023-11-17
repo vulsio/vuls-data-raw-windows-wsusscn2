@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft System Center 2012 R2 - Virtual Machine Manager UR5 (KB3023195)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 3021802."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft System Center 2012 R2 - Virtual Machine Manager UR5 (KB3023195)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 3021802."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Virtual PC 2004 and Microsoft Virtual 2004, Service Pack 1 (KB937986)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow elevation of privilege on virtual machines running Virtual PC 2004 or Virtual PC 2004 Service Pack1. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Virtual PC 2004 and Microsoft Virtual 2004, Service Pack 1 (KB937986)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow elevation of privilege on virtual machines running Virtual PC 2004 or Virtual PC 2004 Service Pack1. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

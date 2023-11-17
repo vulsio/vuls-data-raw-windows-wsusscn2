@@ -1,66 +1,66 @@
 {
-  "creationdate": "2022-12-12T22:18:59Z",
-  "defaultlanguage": "en",
-  "updateid": "a5f95944-bf2d-4397-8de0-72179b00b30e",
-  "revisionid": "38088024",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "abc45868-0c9c-4bc0-a36d-03d54113baf4"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "38813010"
-      },
-      {
-        "id": "39527652"
-      },
-      {
-        "id": "40122318"
-      },
-      {
-        "id": "39193338"
-      },
-      {
-        "id": "39909109"
-      },
-      {
-        "id": "38454304"
-      },
-      {
-        "id": "38252824"
-      },
-      {
-        "id": "39745500"
-      },
-      {
-        "id": "38980224"
-      },
-      {
-        "id": "39373557"
-      },
-      {
-        "id": "38632787"
-      }
-    ]
-  }
+	"creationdate": "2022-12-12T22:18:59Z",
+	"defaultlanguage": "en",
+	"updateid": "a5f95944-bf2d-4397-8de0-72179b00b30e",
+	"revisionid": "38088024",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "abc45868-0c9c-4bc0-a36d-03d54113baf4"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "38813010"
+			},
+			{
+				"id": "39527652"
+			},
+			{
+				"id": "40122318"
+			},
+			{
+				"id": "39193338"
+			},
+			{
+				"id": "39909109"
+			},
+			{
+				"id": "38454304"
+			},
+			{
+				"id": "38252824"
+			},
+			{
+				"id": "39745500"
+			},
+			{
+				"id": "38980224"
+			},
+			{
+				"id": "39373557"
+			},
+			{
+				"id": "38632787"
+			}
+		]
+	}
 }

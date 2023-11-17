@@ -1,19 +1,19 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "requiresreacceptanceofeula": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ja"
-    }
-  ],
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=71719"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "940767"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"requiresreacceptanceofeula": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ja"
+		}
+	],
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=71719"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "940767"
+	},
+	"uninstallationbehavior": {}
 }

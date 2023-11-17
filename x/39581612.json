@@ -1,149 +1,149 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "language": [
-    {
-      "text": "ar"
-    },
-    {
-      "text": "bg"
-    },
-    {
-      "text": "zh-hk"
-    },
-    {
-      "text": "zh-cn"
-    },
-    {
-      "text": "zh-tw"
-    },
-    {
-      "text": "hr"
-    },
-    {
-      "text": "cs"
-    },
-    {
-      "text": "da"
-    },
-    {
-      "text": "nl"
-    },
-    {
-      "text": "en"
-    },
-    {
-      "text": "et"
-    },
-    {
-      "text": "fi"
-    },
-    {
-      "text": "fr"
-    },
-    {
-      "text": "de"
-    },
-    {
-      "text": "el"
-    },
-    {
-      "text": "he"
-    },
-    {
-      "text": "hi"
-    },
-    {
-      "text": "hu"
-    },
-    {
-      "text": "it"
-    },
-    {
-      "text": "ja"
-    },
-    {
-      "text": "ja-nec"
-    },
-    {
-      "text": "ko"
-    },
-    {
-      "text": "lv"
-    },
-    {
-      "text": "lt"
-    },
-    {
-      "text": "no"
-    },
-    {
-      "text": "pl"
-    },
-    {
-      "text": "pt-br"
-    },
-    {
-      "text": "pt"
-    },
-    {
-      "text": "ro"
-    },
-    {
-      "text": "ru"
-    },
-    {
-      "text": "sr"
-    },
-    {
-      "text": "sk"
-    },
-    {
-      "text": "sl"
-    },
-    {
-      "text": "es"
-    },
-    {
-      "text": "sv"
-    },
-    {
-      "text": "th"
-    },
-    {
-      "text": "tr"
-    },
-    {
-      "text": "uk"
-    }
-  ],
-  "supporturl": {
-    "text": "http://technet.microsoft.com/en-us/exchange/fp179701"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "5030524"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2023-21709"
-    },
-    {
-      "text": "CVE-2023-38185"
-    },
-    {
-      "text": "CVE-2023-35368"
-    },
-    {
-      "text": "CVE-2023-38182"
-    },
-    {
-      "text": "CVE-2023-35388"
-    },
-    {
-      "text": "CVE-2023-38181"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "ar"
+		},
+		{
+			"text": "bg"
+		},
+		{
+			"text": "zh-hk"
+		},
+		{
+			"text": "zh-cn"
+		},
+		{
+			"text": "zh-tw"
+		},
+		{
+			"text": "hr"
+		},
+		{
+			"text": "cs"
+		},
+		{
+			"text": "da"
+		},
+		{
+			"text": "nl"
+		},
+		{
+			"text": "en"
+		},
+		{
+			"text": "et"
+		},
+		{
+			"text": "fi"
+		},
+		{
+			"text": "fr"
+		},
+		{
+			"text": "de"
+		},
+		{
+			"text": "el"
+		},
+		{
+			"text": "he"
+		},
+		{
+			"text": "hi"
+		},
+		{
+			"text": "hu"
+		},
+		{
+			"text": "it"
+		},
+		{
+			"text": "ja"
+		},
+		{
+			"text": "ja-nec"
+		},
+		{
+			"text": "ko"
+		},
+		{
+			"text": "lv"
+		},
+		{
+			"text": "lt"
+		},
+		{
+			"text": "no"
+		},
+		{
+			"text": "pl"
+		},
+		{
+			"text": "pt-br"
+		},
+		{
+			"text": "pt"
+		},
+		{
+			"text": "ro"
+		},
+		{
+			"text": "ru"
+		},
+		{
+			"text": "sr"
+		},
+		{
+			"text": "sk"
+		},
+		{
+			"text": "sl"
+		},
+		{
+			"text": "es"
+		},
+		{
+			"text": "sv"
+		},
+		{
+			"text": "th"
+		},
+		{
+			"text": "tr"
+		},
+		{
+			"text": "uk"
+		}
+	],
+	"supporturl": {
+		"text": "http://technet.microsoft.com/en-us/exchange/fp179701"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5030524"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2023-21709"
+		},
+		{
+			"text": "CVE-2023-38185"
+		},
+		{
+			"text": "CVE-2023-35368"
+		},
+		{
+			"text": "CVE-2023-38182"
+		},
+		{
+			"text": "CVE-2023-35388"
+		},
+		{
+			"text": "CVE-2023-38181"
+		}
+	]
 }

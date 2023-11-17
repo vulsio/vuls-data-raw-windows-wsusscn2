@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "MSXML 6.0 RTM Security Update  (925673)"
-  },
-  "description": {
-    "text": "A vulnerability exists in Microsoft XML Core Services that could allow for information disclosure because the XMLHTTP ActiveX control incorrectly interprets an HTTP server-side redirect."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "MSXML 6.0 RTM Security Update  (925673)"
+	},
+	"description": {
+		"text": "A vulnerability exists in Microsoft XML Core Services that could allow for information disclosure because the XMLHTTP ActiveX control incorrectly interprets an HTTP server-side redirect."
+	}
 }

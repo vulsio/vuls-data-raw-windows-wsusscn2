@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows XP (KB919007)"
-  },
-  "description": {
-    "text": "A security issue has been identified in Reliable Multicast Program (PGM) for Microsoft Windows XP-based systems that could result in a denial of service. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows XP (KB919007)"
+	},
+	"description": {
+		"text": "A security issue has been identified in Reliable Multicast Program (PGM) for Microsoft Windows XP-based systems that could result in a denial of service. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

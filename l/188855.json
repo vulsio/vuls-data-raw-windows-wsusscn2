@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Cumulative Security Update for Outlook Express 6 (KB837009)"
-  },
-  "description": {
-    "text": "A security issue has been identified in Microsoft Outlook Express that could allow an attacker to read files on your computer, or cause a program to run. You can help protect your computer by installing this update. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Cumulative Security Update for Outlook Express 6 (KB837009)"
+	},
+	"description": {
+		"text": "A security issue has been identified in Microsoft Outlook Express that could allow an attacker to read files on your computer, or cause a program to run. You can help protect your computer by installing this update. After you install this item, you may have to restart your computer."
+	}
 }

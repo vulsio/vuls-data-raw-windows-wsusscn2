@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft Advanced Threat Analytics 1.7 Update 1"
-  },
-  "description": {
-    "text": "Role based access control.\nWindows Server core support.\nReconnaissance using Directory Services Enumeration detection.\nPass-the-Ticket detections enhancements.\nUnusual Protocol Implementation detection enhancements."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft Advanced Threat Analytics 1.7 Update 1"
+	},
+	"description": {
+		"text": "Role based access control.\nWindows Server core support.\nReconnaissance using Directory Services Enumeration detection.\nPass-the-Ticket detections enhancements.\nUnusual Protocol Implementation detection enhancements."
+	}
 }

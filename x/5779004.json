@@ -1,30 +1,30 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Important",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/?kbid=2696031"
-  },
-  "securitybulletinid": {
-    "text": "MS12-039"
-  },
-  "kbarticleid": {
-    "text": "2696031"
-  },
-  "uninstallationbehavior": {},
-  "cveid": [
-    {
-      "text": "CVE-2011-3402"
-    },
-    {
-      "text": "CVE-2012-0159"
-    },
-    {
-      "text": "CVE-2012-1849"
-    },
-    {
-      "text": "CVE-2012-1858"
-    }
-  ]
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/?kbid=2696031"
+	},
+	"securitybulletinid": {
+		"text": "MS12-039"
+	},
+	"kbarticleid": {
+		"text": "2696031"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2011-3402"
+		},
+		{
+			"text": "CVE-2012-0159"
+		},
+		{
+			"text": "CVE-2012-1849"
+		},
+		{
+			"text": "CVE-2012-1858"
+		}
+	]
 }

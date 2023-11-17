@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for 32-bit Windows Media Format Runtime 9.5 for Windows Server 2003 x64 Edition (KB978695)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it. You can help protect your system by installing this update from Microsoft. After you install this update, you may have to restart your system."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for 32-bit Windows Media Format Runtime 9.5 for Windows Server 2003 x64 Edition (KB978695)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it. You can help protect your system by installing this update from Microsoft. After you install this update, you may have to restart your system."
+	}
 }

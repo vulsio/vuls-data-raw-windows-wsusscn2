@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 4 for Microsoft System Center Advisor (KB2868200)"
-  },
-  "description": {
-    "text": "This update resolves System Center Advisor issues described in KB Article 2868200. "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 4 for Microsoft System Center Advisor (KB2868200)"
+	},
+	"description": {
+		"text": "This update resolves System Center Advisor issues described in KB Article 2868200. "
+	}
 }

@@ -1,54 +1,54 @@
 {
-  "creationdate": "2017-06-27T01:43:46Z",
-  "defaultlanguage": "en",
-  "updateid": "c1216f7d-9586-4da5-b678-6aa99caac70e",
-  "revisionid": "245764",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "Product",
-        "id": "3b4b8621-726e-43a6-b43b-37d07ec7019f"
-      },
-      {
-        "type": "Product",
-        "id": "558f4bc3-4827-49e1-accf-ea79fd72d4c9"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "UpdateClassification",
-        "id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "7f44c2a7-bc36-470b-be3b-c01b6dc5dd4e"
-      },
-      {
-        "type": "Product",
-        "id": "dbf57a08-0d5a-46ff-b30c-7715eb9498e9"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "de"
-      }
-    ]
-  },
-  "supersededby": {
-    "revision": [
-      {
-        "id": "1114080"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T01:43:46Z",
+	"defaultlanguage": "en",
+	"updateid": "c1216f7d-9586-4da5-b678-6aa99caac70e",
+	"revisionid": "245764",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "Product",
+				"id": "3b4b8621-726e-43a6-b43b-37d07ec7019f"
+			},
+			{
+				"type": "Product",
+				"id": "558f4bc3-4827-49e1-accf-ea79fd72d4c9"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "7f44c2a7-bc36-470b-be3b-c01b6dc5dd4e"
+			},
+			{
+				"type": "Product",
+				"id": "dbf57a08-0d5a-46ff-b30c-7715eb9498e9"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "de"
+			}
+		]
+	},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "1114080"
+			}
+		]
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Conferencing Attendant (KB 2575872)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 2575872"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Conferencing Attendant (KB 2575872)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 2575872"
+	}
 }

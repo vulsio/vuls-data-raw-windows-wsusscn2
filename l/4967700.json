@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 3 (KB955706)"
-  },
-  "description": {
-    "text": "This service pack upgrades all Microsoft SQL Server 2005 Express Edition with Advanced Services instances and components to Service Pack 3 (SP3). If you need additional installation options, you should download this service pack at the Microsoft Download Center. For more information, see Microsoft Knowledge Base article 955706."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 3 (KB955706)"
+	},
+	"description": {
+		"text": "This service pack upgrades all Microsoft SQL Server 2005 Express Edition with Advanced Services instances and components to Service Pack 3 (SP3). If you need additional installation options, you should download this service pack at the Microsoft Download Center. For more information, see Microsoft Knowledge Base article 955706."
+	}
 }

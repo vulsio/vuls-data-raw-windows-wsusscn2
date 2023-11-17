@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Virtual Server 2005 R2 Service Pack 1 (KB969856)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow elevation of privilege on virtual machines. You can help protect your computer by installing this update from Microsoft. After you install this item, you need to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Virtual Server 2005 R2 Service Pack 1 (KB969856)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow elevation of privilege on virtual machines. You can help protect your computer by installing this update from Microsoft. After you install this item, you need to restart your computer."
+	}
 }

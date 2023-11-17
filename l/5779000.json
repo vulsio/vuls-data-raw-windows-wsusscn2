@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010 (KB 2689846)"
-  },
-  "description": {
-    "text": "This package fixes some issues described in KB Article 2689846"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010 (KB 2689846)"
+	},
+	"description": {
+		"text": "This package fixes some issues described in KB Article 2689846"
+	}
 }

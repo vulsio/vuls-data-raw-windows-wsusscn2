@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the information disclosure vulnerability in Visual Studio 2010 Service Pack 1 (KB4091346)"
-  },
-  "description": {
-    "text": "An information disclosure vulnerability exists when Visual Studio improperly discloses limited contents of uninitialized memory while compiling program database (PDB) files. An attacker who exploits the vulnerability could view uninitialized memory from the computer that is used to compile a program database file.  This servicing release provides a security fix for this issue to Microsoft Visual Studio 2010 Service Pack 1."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the information disclosure vulnerability in Visual Studio 2010 Service Pack 1 (KB4091346)"
+	},
+	"description": {
+		"text": "An information disclosure vulnerability exists when Visual Studio improperly discloses limited contents of uninitialized memory while compiling program database (PDB) files. An attacker who exploits the vulnerability could view uninitialized memory from the computer that is used to compile a program database file.  This servicing release provides a security fix for this issue to Microsoft Visual Studio 2010 Service Pack 1."
+	}
 }

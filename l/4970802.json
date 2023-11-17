@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for System Center Virtual Machine Manager 2008 R2 (KB982522)"
-  },
-  "description": {
-    "text": "This update resolves multiple issues including GPT disk, quick storage migration (QSM), VMWare distributed virtual switch, and virtual networking issues, as described in KB article 982522."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for System Center Virtual Machine Manager 2008 R2 (KB982522)"
+	},
+	"description": {
+		"text": "This update resolves multiple issues including GPT disk, quick storage migration (QSM), VMWare distributed virtual switch, and virtual networking issues, as described in KB article 982522."
+	}
 }

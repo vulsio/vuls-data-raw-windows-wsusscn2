@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 2 for Microsoft System Center 2012 R2 – Orchestrator Service Management Automation PowerShell Module (KB2904689)"
-  },
-  "description": {
-    "text": "This update fixes problems described in KB article KB2904689."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for Microsoft System Center 2012 R2 – Orchestrator Service Management Automation PowerShell Module (KB2904689)"
+	},
+	"description": {
+		"text": "This update fixes problems described in KB article KB2904689."
+	}
 }

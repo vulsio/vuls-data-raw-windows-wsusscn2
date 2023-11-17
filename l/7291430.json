@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Filter Pack 2.0 (KB2553501) 32-Bit Edition"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Filter Pack 2.0 32-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Filter Pack 2.0 (KB2553501) 32-Bit Edition"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Filter Pack 2.0 32-Bit Edition that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Outlook Express for Windows XP x64 Edition (KB920214)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Outlook Express for Windows XP x64 Edition (KB920214)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

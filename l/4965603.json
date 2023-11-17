@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for SharePoint Team Services (KB890829)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in SharePoint Team Services from Microsoft that could allow cross-site scripting and spoofing attacks. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for SharePoint Team Services (KB890829)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in SharePoint Team Services from Microsoft that could allow cross-site scripting and spoofing attacks. This update resolves that vulnerability."
+	}
 }

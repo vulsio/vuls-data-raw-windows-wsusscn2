@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Forefront Threat Management Gateway (TMG) 2010 Service Pack 1"
-  },
-  "description": {
-    "text": "This service pack contains the following improvements: \n* New Reports \n* Enhancements to URL Filtering \n* Enhanced Branch Office Support \n* SharePoint 2010 Support \n* Bug Fixes \n\nDetails: \nNew Reports \n* The User Activity report displays the sites and site categories accessed by any user. \n* All Forefront TMG reports have a new look. \n\nEnhancements to URL Filtering \n* You can now allow users to override the access restriction on sites blocked by URL filtering. \n* You can now override the categorization of a URL on the enterprise level; the override is effective for each enterprise-joined array. \n* Denial notification pages can now be customized. \n\nEnhanced Branch Office Support \n* Forefront TMG and a domain controller can now be collocated on the same server, which can help reduce the total cost of ownership at branch offices. \n* When installed on a computer running Windows Server 2008 R2, Forefront TMG can be configured as a BranchCache Hosted Cache server. \n\nSharePoint 2010 Support \n* Forefront TMG SP1 supports secure publishing of SharePoint 2010.\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Forefront Threat Management Gateway (TMG) 2010 Service Pack 1"
+	},
+	"description": {
+		"text": "This service pack contains the following improvements: \n* New Reports \n* Enhancements to URL Filtering \n* Enhanced Branch Office Support \n* SharePoint 2010 Support \n* Bug Fixes \n\nDetails: \nNew Reports \n* The User Activity report displays the sites and site categories accessed by any user. \n* All Forefront TMG reports have a new look. \n\nEnhancements to URL Filtering \n* You can now allow users to override the access restriction on sites blocked by URL filtering. \n* You can now override the categorization of a URL on the enterprise level; the override is effective for each enterprise-joined array. \n* Denial notification pages can now be customized. \n\nEnhanced Branch Office Support \n* Forefront TMG and a domain controller can now be collocated on the same server, which can help reduce the total cost of ownership at branch offices. \n* When installed on a computer running Windows Server 2008 R2, Forefront TMG can be configured as a BranchCache Hosted Cache server. \n\nSharePoint 2010 Support \n* Forefront TMG SP1 supports secure publishing of SharePoint 2010.\n"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Web Conferencing Server (KB 2658819)"
-  },
-  "description": {
-    "text": "This package fixes some issues described in KB Article 2658819"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Web Conferencing Server (KB 2658819)"
+	},
+	"description": {
+		"text": "This package fixes some issues described in KB Article 2658819"
+	}
 }

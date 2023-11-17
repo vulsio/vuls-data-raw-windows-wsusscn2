@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Virtual Server 2005 R2: x64 (KB937986)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow elevation of privilege on virtual machines running virtual machine on Virtual Server 2005 R2, 64-bit edition. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Virtual Server 2005 R2: x64 (KB937986)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow elevation of privilege on virtual machines running virtual machine on Virtual Server 2005 R2, 64-bit edition. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 3 for System Center 2012 - Operations Manager Gateway (2750631)"
-  },
-  "description": {
-    "text": "This update resolves Operations Manager issues described in KB article 2756127."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 3 for System Center 2012 - Operations Manager Gateway (2750631)"
+	},
+	"description": {
+		"text": "This update resolves Operations Manager issues described in KB article 2756127."
+	}
 }

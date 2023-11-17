@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "French Systems Management Server 2003 Service Pack 2"
-  },
-  "description": {
-    "text": "S'il est avant tout un produit qui cumule un certain nombre de correctifs destinés à SMS 2003, Microsoft Systems Management Server (SMS) 2003 Service Pack 2 (SP2) apporte également des modifications aux configurations prises en charge et élargit le champ des configurations autorisées. SMS 2003 SP2 offre également des améliorations en termes d'utilisation, de sécurité et de performance. \n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "French Systems Management Server 2003 Service Pack 2"
+	},
+	"description": {
+		"text": "S'il est avant tout un produit qui cumule un certain nombre de correctifs destinés à SMS 2003, Microsoft Systems Management Server (SMS) 2003 Service Pack 2 (SP2) apporte également des modifications aux configurations prises en charge et élargit le champ des configurations autorisées. SMS 2003 SP2 offre également des améliorations en termes d'utilisation, de sécurité et de performance. \n"
+	}
 }

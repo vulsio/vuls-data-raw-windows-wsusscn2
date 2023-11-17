@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-05 .NET 5.0.17 Security Update for x64 Client (KB5014329)"
-  },
-  "description": {
-    "text": "2022-05 .NET 5.0.17 Security Update for x64 Client (KB5014329)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-05 .NET 5.0.17 Security Update for x64 Client (KB5014329)"
+	},
+	"description": {
+		"text": "2022-05 .NET 5.0.17 Security Update for x64 Client (KB5014329)"
+	}
 }

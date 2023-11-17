@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 7 for Microsoft System Center 2016 - Virtual Machine Manager Server(KB4496920)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 4496928."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 7 for Microsoft System Center 2016 - Virtual Machine Manager Server(KB4496920)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 4496928."
+	}
 }

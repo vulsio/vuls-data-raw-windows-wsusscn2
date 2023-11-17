@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "SQL Server 2016 Service Pack 3 (KB5003279)"
-  },
-  "description": {
-    "text": "Service Pack 3 for SQL Server 2016 upgraded all SQL Server 2016 instances and components installed through the SQL Server setup.  Service Pack 3 can upgrade all editions of SQL Server 2016 to Service Pack 3 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 3 SQL Server 2016. To learn more about SQL Server 2016 SP3 please visit the Microsoft Support (https://support.microsoft.com) Knowledge Base article KB 5003279."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "SQL Server 2016 Service Pack 3 (KB5003279)"
+	},
+	"description": {
+		"text": "Service Pack 3 for SQL Server 2016 upgraded all SQL Server 2016 instances and components installed through the SQL Server setup.  Service Pack 3 can upgrade all editions of SQL Server 2016 to Service Pack 3 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 3 SQL Server 2016. To learn more about SQL Server 2016 SP3 please visit the Microsoft Support (https://support.microsoft.com) Knowledge Base article KB 5003279."
+	}
 }

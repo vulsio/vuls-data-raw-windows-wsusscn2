@@ -1,13 +1,13 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://www.microsoft.com/uc/deafult.mspx"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "2842632"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://www.microsoft.com/uc/deafult.mspx"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "2842632"
+	},
+	"uninstallationbehavior": {}
 }

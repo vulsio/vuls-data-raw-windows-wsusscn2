@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Q323172: Security Update (Windows XP)"
-  },
-  "description": {
-    "text": "This update resolves the \"Flaw in Digital Certificate Enrollment Component Allows Certificate Deletion\" security vulnerability in Windows XP. Download now to help stop a Web site or HTML e-mail from deleting digital certificates on your computer and preventing you from using the services they are associated with."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Q323172: Security Update (Windows XP)"
+	},
+	"description": {
+		"text": "This update resolves the \"Flaw in Digital Certificate Enrollment Component Allows Certificate Deletion\" security vulnerability in Windows XP. Download now to help stop a Web site or HTML e-mail from deleting digital certificates on your computer and preventing you from using the services they are associated with."
+	}
 }

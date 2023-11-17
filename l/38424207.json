@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2023-02 .NET 6.0.14 Security Update for x64 Server (KB5023288)"
-  },
-  "description": {
-    "text": "2023-02 .NET 6.0.14 Security Update for x64 Server (KB5023288)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2023-02 .NET 6.0.14 Security Update for x64 Server (KB5023288)"
+	},
+	"description": {
+		"text": "2023-02 .NET 6.0.14 Security Update for x64 Server (KB5023288)"
+	}
 }

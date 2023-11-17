@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 2 for Microsoft System Center 2016 - Operations Manager Console (KB3209591)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in  KB3209591"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for Microsoft System Center 2016 - Operations Manager Console (KB3209591)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in  KB3209591"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Office 2003 Multilingual User Interface Pack (KB892843)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office Outlook 2003 that could allow arbitrary code to run when opening a maliciously modified email. This update resolves that vulnerability when Outlook 2003 is used with a Multilingual User Interface Pack."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Office 2003 Multilingual User Interface Pack (KB892843)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office Outlook 2003 that could allow arbitrary code to run when opening a maliciously modified email. This update resolves that vulnerability when Outlook 2003 is used with a Multilingual User Interface Pack."
+	}
 }

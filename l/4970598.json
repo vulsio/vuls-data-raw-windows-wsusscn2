@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for CAPICOM (KB931906)"
-  },
-  "description": {
-    "text": "A remote code execution vulnerability exists in Cryptographic API Component Object Model (CAPICOM) that allows an attacker who successfully exploits this vulnerability to take complete control of an affected system. CAPICOM can be used as a component of a 3rd party webpage, script or application. You can protect your computer by installing this update from Microsoft."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for CAPICOM (KB931906)"
+	},
+	"description": {
+		"text": "A remote code execution vulnerability exists in Cryptographic API Component Object Model (CAPICOM) that allows an attacker who successfully exploits this vulnerability to take complete control of an affected system. CAPICOM can be used as a component of a 3rd party webpage, script or application. You can protect your computer by installing this update from Microsoft."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for the information disclosure vulnerability in Microsoft Visual Studio 2013 Update 5 (KB5026454)"
-  },
-  "description": {
-    "text": "Information disclosure vulnerability in Microsoft Visual Studio 2013 Update 5"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for the information disclosure vulnerability in Microsoft Visual Studio 2013 Update 5 (KB5026454)"
+	},
+	"description": {
+		"text": "Information disclosure vulnerability in Microsoft Visual Studio 2013 Update 5"
+	}
 }

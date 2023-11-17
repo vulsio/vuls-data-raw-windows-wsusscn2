@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Moderate",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "https://support.microsoft.com/help/4525106"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4525106"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Moderate",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/help/4525106"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4525106"
+	},
+	"uninstallationbehavior": {}
 }

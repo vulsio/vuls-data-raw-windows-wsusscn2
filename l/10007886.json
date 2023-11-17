@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2013 Core Management Server (KB2883679)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2883679."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2013 Core Management Server (KB2883679)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2883679."
+	}
 }

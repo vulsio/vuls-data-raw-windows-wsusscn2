@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update, February 13, 2002 (MSXML 3.0)"
-  },
-  "description": {
-    "text": "This update resolves the \"XMLHTTP Control Can Allow Access to Local Files\" security vulnerability in Microsoft XML (MSXML) 3.0 and is discussed in Microsoft Security Bulletin MS02-006. Download now to help prevent a malicious user from reading the files on your computer when you visit a specially malformed Web site."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update, February 13, 2002 (MSXML 3.0)"
+	},
+	"description": {
+		"text": "This update resolves the \"XMLHTTP Control Can Allow Access to Local Files\" security vulnerability in Microsoft XML (MSXML) 3.0 and is discussed in Microsoft Security Bulletin MS02-006. Download now to help prevent a malicious user from reading the files on your computer when you visit a specially malformed Web site."
+	}
 }

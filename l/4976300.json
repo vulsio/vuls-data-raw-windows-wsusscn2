@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Office XP Multilingual User Interface Pack (KB905649)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office XP that could allow arbitrary code to run when opening a malicious document. This update resolves that vulnerability when Office XP is used with a Multilingual User Interface Pack."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Office XP Multilingual User Interface Pack (KB905649)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office XP that could allow arbitrary code to run when opening a malicious document. This update resolves that vulnerability when Office XP is used with a Multilingual User Interface Pack."
+	}
 }

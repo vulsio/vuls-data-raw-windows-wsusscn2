@@ -1,66 +1,66 @@
 {
-  "creationdate": "2017-06-27T00:18:27Z",
-  "defaultlanguage": "en",
-  "updateid": "27f670f0-4301-4c6e-97a1-c36bd1b07e28",
-  "revisionid": "4974555",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "ProductFamily",
-        "id": "4c1a298e-8dbd-5d8b-a52f-6c176fdd5904"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "UpdateClassification",
-        "id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
-      },
-      {
-        "type": "Product",
-        "id": "a73eeffa-5729-48d4-8bf4-275132338629"
-      }
-    ]
-  },
-  "languages": {
-    "language": [
-      {
-        "name": "en"
-      },
-      {
-        "name": "de"
-      },
-      {
-        "name": "ja"
-      },
-      {
-        "name": "fr"
-      },
-      {
-        "name": "zh-cn"
-      },
-      {
-        "name": "zh-tw"
-      },
-      {
-        "name": "ko"
-      },
-      {
-        "name": "ru"
-      },
-      {
-        "name": "it"
-      },
-      {
-        "name": "pt-br"
-      },
-      {
-        "name": "es"
-      }
-    ]
-  },
-  "supersededby": {}
+	"creationdate": "2017-06-27T00:18:27Z",
+	"defaultlanguage": "en",
+	"updateid": "27f670f0-4301-4c6e-97a1-c36bd1b07e28",
+	"revisionid": "4974555",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "ProductFamily",
+				"id": "4c1a298e-8dbd-5d8b-a52f-6c176fdd5904"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "68c5b0a3-d1a6-4553-ae49-01d3a7827828"
+			},
+			{
+				"type": "Product",
+				"id": "a73eeffa-5729-48d4-8bf4-275132338629"
+			}
+		]
+	},
+	"languages": {
+		"language": [
+			{
+				"name": "en"
+			},
+			{
+				"name": "de"
+			},
+			{
+				"name": "ja"
+			},
+			{
+				"name": "fr"
+			},
+			{
+				"name": "zh-cn"
+			},
+			{
+				"name": "zh-tw"
+			},
+			{
+				"name": "ko"
+			},
+			{
+				"name": "ru"
+			},
+			{
+				"name": "it"
+			},
+			{
+				"name": "pt-br"
+			},
+			{
+				"name": "es"
+			}
+		]
+	},
+	"supersededby": {}
 }

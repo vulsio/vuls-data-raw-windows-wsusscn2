@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows XP (KB821557)"
-  },
-  "description": {
-    "text": "An identified security issue in Microsoft Windows could allow an attacker to compromise a Microsoft Windows-based system and then take a variety of actions. For example, an attacker could execute code on the system. By installing this update, you can help protect your computer. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows XP (KB821557)"
+	},
+	"description": {
+		"text": "An identified security issue in Microsoft Windows could allow an attacker to compromise a Microsoft Windows-based system and then take a variety of actions. For example, an attacker could execute code on the system. By installing this update, you can help protect your computer. After you install this item, you may have to restart your computer."
+	}
 }

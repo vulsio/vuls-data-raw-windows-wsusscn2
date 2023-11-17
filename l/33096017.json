@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 31 for Exchange Server 2010 Service Pack 3 (KB4593467)"
-  },
-  "description": {
-    "text": "The security update addresses one remote code execution vulnerability for Microsoft Exchange Server."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 31 for Exchange Server 2010 Service Pack 3 (KB4593467)"
+	},
+	"description": {
+		"text": "The security update addresses one remote code execution vulnerability for Microsoft Exchange Server."
+	}
 }

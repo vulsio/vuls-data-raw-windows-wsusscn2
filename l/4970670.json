@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communicator 2007 R2 (KB 972042)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB 972042"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communicator 2007 R2 (KB 972042)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB 972042"
+	}
 }

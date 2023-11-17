@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Exchange Server 2003 Service Pack 1 (KB931832) - Cluster"
-  },
-  "description": {
-    "text": "This update is for any clustered Exchange servers. A security issue has been identified that could affect your Exchange 2003 system in the following way: 1. Denial of Service 2. Elevation of Privilege. We recommend that you install this update on all Microsoft Exchange 2003 Service Pack 1 servers in your organization."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Exchange Server 2003 Service Pack 1 (KB931832) - Cluster"
+	},
+	"description": {
+		"text": "This update is for any clustered Exchange servers. A security issue has been identified that could affect your Exchange 2003 system in the following way: 1. Denial of Service 2. Elevation of Privilege. We recommend that you install this update on all Microsoft Exchange 2003 Service Pack 1 servers in your organization."
+	}
 }

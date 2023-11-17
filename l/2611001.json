@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Forefront Threat Management Gateway, Medium Business Edition (KB 968075)\n"
-  },
-  "description": {
-    "text": "This update resolves the issues described in Knowledge Base article 968075 (Forefront TMG, Medium Business Edition):\n\n• Forefront TMG (MBE) Web proxy and Web publishing listeners may stop accepting new requests after receiving specially-crafted packets.\n• Forefront TMG (MBE) forms-based authentication may allow a browser to be redirected by a malicious Web site to a login form which looks legitimate but is not. \n\n\nIf you install this patch on a computer running a Forefront TMG, Medium Business Edition component such as the management console, but not the Firewall Service, you will not be able uninstall this security update through the Windows user interface. You can uninstall this update using the following command at a command line prompt:\n\nmsiexec.exe /l*v+ %windir%\\temp\\ISA_Uninst_968075.log /i {FAA20DE6-1150-4026-B56A-33E9FFB8DDAD} REINSTALL=ALL MSIPATCHREMOVE={994DFD22-1909-457C-8AE4-80722A6A49B5} /qb\n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Forefront Threat Management Gateway, Medium Business Edition (KB 968075)\n"
+	},
+	"description": {
+		"text": "This update resolves the issues described in Knowledge Base article 968075 (Forefront TMG, Medium Business Edition):\n\n• Forefront TMG (MBE) Web proxy and Web publishing listeners may stop accepting new requests after receiving specially-crafted packets.\n• Forefront TMG (MBE) forms-based authentication may allow a browser to be redirected by a malicious Web site to a login form which looks legitimate but is not. \n\n\nIf you install this patch on a computer running a Forefront TMG, Medium Business Edition component such as the management console, but not the Firewall Service, you will not be able uninstall this security update through the Windows user interface. You can uninstall this update using the following command at a command line prompt:\n\nmsiexec.exe /l*v+ %windir%\\temp\\ISA_Uninst_968075.log /i {FAA20DE6-1150-4026-B56A-33E9FFB8DDAD} REINSTALL=ALL MSIPATCHREMOVE={994DFD22-1909-457C-8AE4-80722A6A49B5} /qb\n"
+	}
 }

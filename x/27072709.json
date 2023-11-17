@@ -1,14 +1,14 @@
 {
-  "defaultpropertieslanguage": "en",
-  "msrcseverity": "Critical",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://support.microsoft.com/help/4343899"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "4343899"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/help/4343899"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "4343899"
+	},
+	"uninstallationbehavior": {}
 }

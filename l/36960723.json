@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft SharePoint Server 2019 Core (KB5002212)  farm-deployment"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft SharePoint Server 2019 Core  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft SharePoint Server 2019 Core (KB5002212)  farm-deployment"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft SharePoint Server 2019 Core  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

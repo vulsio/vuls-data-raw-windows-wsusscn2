@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Content Management Server 2002 (KB924429)  v2"
-  },
-  "description": {
-    "text": "This update corrects a security vulnerability in Microsoft Content Management Server 2002 Service Pack 2 that could enable a remote user to execute code on a computer that is running Content Management Server."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Content Management Server 2002 (KB924429)  v2"
+	},
+	"description": {
+		"text": "This update corrects a security vulnerability in Microsoft Content Management Server 2002 Service Pack 2 that could enable a remote user to execute code on a computer that is running Content Management Server."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Lync Server 2010 Conferencing Server (KB2793346)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB2793346."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Lync Server 2010 Conferencing Server (KB2793346)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB2793346."
+	}
 }

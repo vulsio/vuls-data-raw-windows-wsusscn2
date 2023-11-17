@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2021-08 .NET 5.0.9 Security Update for x64 Client (KB5005419)"
-  },
-  "description": {
-    "text": "2021-08 .NET 5.0.9 Security Update for x64 Client (KB5005419)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2021-08 .NET 5.0.9 Security Update for x64 Client (KB5005419)"
+	},
+	"description": {
+		"text": "2021-08 .NET 5.0.9 Security Update for x64 Client (KB5005419)"
+	}
 }

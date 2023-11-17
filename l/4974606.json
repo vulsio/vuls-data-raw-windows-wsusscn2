@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup for Microsoft Online Services Sign-In Assistant (KB2630976)"
-  },
-  "description": {
-    "text": "Microsoft Online Services Sign-In Assistant Update"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup for Microsoft Online Services Sign-In Assistant (KB2630976)"
+	},
+	"description": {
+		"text": "Microsoft Online Services Sign-In Assistant Update"
+	}
 }

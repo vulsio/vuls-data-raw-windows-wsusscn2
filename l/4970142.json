@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "German Systems Management Server Service Pack 2"
-  },
-  "description": {
-    "text": "Microsoft Systems Management Server (SMS) 2003 Service Pack 2 (SP2) ist in erster Linie ein Rollup einer Anzahl von Fehlerbehebungen für SMS 2003, aber führt auch einige Änderungen an den unterstützten Konfigurationen ein und erweitert die zulässigen Konfigurationen. SMS 2003 SP2 enthält auch inkrementelle Verbesserungen für die Verwendbarkeit, Sicherheit und Leistung. \n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "German Systems Management Server Service Pack 2"
+	},
+	"description": {
+		"text": "Microsoft Systems Management Server (SMS) 2003 Service Pack 2 (SP2) ist in erster Linie ein Rollup einer Anzahl von Fehlerbehebungen für SMS 2003, aber führt auch einige Änderungen an den unterstützten Konfigurationen ein und erweitert die zulässigen Konfigurationen. SMS 2003 SP2 enthält auch inkrementelle Verbesserungen für die Verwendbarkeit, Sicherheit und Leistung. \n"
+	}
 }

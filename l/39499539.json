@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2023-08 .NET 6.0.21 Security Update for x64 Client (KB5029688)"
-  },
-  "description": {
-    "text": "2023-08 .NET 6.0.21 Security Update for x64 Client (KB5029688)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2023-08 .NET 6.0.21 Security Update for x64 Client (KB5029688)"
+	},
+	"description": {
+		"text": "2023-08 .NET 6.0.21 Security Update for x64 Client (KB5029688)"
+	}
 }

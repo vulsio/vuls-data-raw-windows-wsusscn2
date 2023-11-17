@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Forefront for Sharepoint Software Update KB978300"
-  },
-  "description": {
-    "text": "Microsoft has released an Update Rollup for Forefront Security for Sharepoint Service Pack 3. This rollup includes all the fixes that are included in Forefront Security for Sharepoint Service Pack 3.  After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Forefront for Sharepoint Software Update KB978300"
+	},
+	"description": {
+		"text": "Microsoft has released an Update Rollup for Forefront Security for Sharepoint Service Pack 3. This rollup includes all the fixes that are included in Forefront Security for Sharepoint Service Pack 3.  After you install this item, you may have to restart your computer."
+	}
 }

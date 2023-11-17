@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Visual Studio 2022 version 17.1.1 update"
-  },
-  "description": {
-    "text": "Visual Studio 2022 version 17.1.1 security update. This update applies to all affected editions of Visual Studio 2022 version lower than 17.1.1 on the Current channel. The client machines must be enabled to receive this administrator update, and by default Visual Studio must be closed on the client in order for the update to succeed. For further details, refer to https://aka.ms/vs/17/release/5007364."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Visual Studio 2022 version 17.1.1 update"
+	},
+	"description": {
+		"text": "Visual Studio 2022 version 17.1.1 security update. This update applies to all affected editions of Visual Studio 2022 version lower than 17.1.1 on the Current channel. The client machines must be enabled to receive this administrator update, and by default Visual Studio must be closed on the client in order for the update to succeed. For further details, refer to https://aka.ms/vs/17/release/5007364."
+	}
 }

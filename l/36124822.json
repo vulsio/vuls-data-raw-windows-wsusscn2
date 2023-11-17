@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2022-02 .NET 6.0.2 Security Update for x86 Client (KB5011094)"
-  },
-  "description": {
-    "text": "2022-02 .NET 6.0.2 Security Update for x86 Client (KB5011094)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2022-02 .NET 6.0.2 Security Update for x86 Client (KB5011094)"
+	},
+	"description": {
+		"text": "2022-02 .NET 6.0.2 Security Update for x86 Client (KB5011094)"
+	}
 }

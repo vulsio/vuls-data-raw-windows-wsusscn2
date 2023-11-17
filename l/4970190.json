@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "System Center Configuration Manager Service Pack 2 For Admin Console"
-  },
-  "description": {
-    "text": "Service Pack 2 for Configuration Manager 2007 delivers new platform support for Windows 7 client, Windows Vista SP2, Windows Server 2008 R2 and Windows Server 2008 SP2. In addition, Service Pack 2 delivers continued innovation with Intel vPro technology, support for Branch Cache enabled environments, and continued development for 64 bit architectures. \n"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "System Center Configuration Manager Service Pack 2 For Admin Console"
+	},
+	"description": {
+		"text": "Service Pack 2 for Configuration Manager 2007 delivers new platform support for Windows 7 client, Windows Vista SP2, Windows Server 2008 R2 and Windows Server 2008 SP2. In addition, Service Pack 2 delivers continued innovation with Intel vPro technology, support for Branch Cache enabled environments, and continued development for 64 bit architectures. \n"
+	}
 }

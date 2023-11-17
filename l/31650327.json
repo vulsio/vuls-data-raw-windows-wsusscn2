@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 9 for Microsoft System Center 2016 - Operations Manager Gateway (KB4546986)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in KB4546986."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 9 for Microsoft System Center 2016 - Operations Manager Gateway (KB4546986)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in KB4546986."
+	}
 }

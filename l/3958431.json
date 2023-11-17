@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an attacker to tamper with digitally signed content without being detected, when this content is being consumed by an application that makes use of the Microsoft .NET Framework on a Windows-based system. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows 2000, Windows Server 2003, and Windows XP x86 (KB979909)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an attacker to tamper with digitally signed content without being detected, when this content is being consumed by an application that makes use of the Microsoft .NET Framework on a Windows-based system. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer."
+	}
 }

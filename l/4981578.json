@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Outlook 2002 (KB2293422)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Outlook 2002 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Outlook 2002 (KB2293422)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Outlook 2002 that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

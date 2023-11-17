@@ -1,57 +1,57 @@
 {
-  "creationdate": "2017-06-27T01:58:36Z",
-  "defaultlanguage": "en",
-  "updateid": "dd971ba6-1fb9-4a75-9016-27209af98260",
-  "revisionid": "4114388",
-  "isleaf": "true",
-  "isbundle": "true",
-  "categories": {
-    "category": [
-      {
-        "type": "UpdateClassification",
-        "id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
-      },
-      {
-        "type": "Company",
-        "id": "56309036-4c77-4dd9-951a-99ee9c246a94"
-      },
-      {
-        "type": "ProductFamily",
-        "id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
-      },
-      {
-        "type": "Product",
-        "id": "bfe5b177-a086-47a0-b102-097e4fa1f807"
-      }
-    ]
-  },
-  "languages": {},
-  "supersededby": {
-    "revision": [
-      {
-        "id": "18451340"
-      },
-      {
-        "id": "17764951"
-      },
-      {
-        "id": "17712102"
-      },
-      {
-        "id": "15709529"
-      },
-      {
-        "id": "15635075"
-      },
-      {
-        "id": "15635655"
-      },
-      {
-        "id": "16449569"
-      },
-      {
-        "id": "18451417"
-      }
-    ]
-  }
+	"creationdate": "2017-06-27T01:58:36Z",
+	"defaultlanguage": "en",
+	"updateid": "dd971ba6-1fb9-4a75-9016-27209af98260",
+	"revisionid": "4114388",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "bfe5b177-a086-47a0-b102-097e4fa1f807"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {
+		"revision": [
+			{
+				"id": "18451340"
+			},
+			{
+				"id": "17764951"
+			},
+			{
+				"id": "17712102"
+			},
+			{
+				"id": "15709529"
+			},
+			{
+				"id": "15635075"
+			},
+			{
+				"id": "15635655"
+			},
+			{
+				"id": "16449569"
+			},
+			{
+				"id": "18451417"
+			}
+		]
+	}
 }

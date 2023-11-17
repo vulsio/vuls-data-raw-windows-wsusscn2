@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft SQL Server 2014 Service Pack 1 (KB3058865)"
-  },
-  "description": {
-    "text": "Service Pack 1 for SQL Server 2014 upgraded all SQL Server 2014 instances and components installed through the SQL Server setup.  Service Pack 1 can upgrade all editions of SQL Server 2014 to Service Pack 1 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 1 SQL Server 2014. To learn more about SQL Server 2014 SP1 please visit the Microsoft Support (http://support.microsoft.com) Knowledge Base article KB 3058865."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft SQL Server 2014 Service Pack 1 (KB3058865)"
+	},
+	"description": {
+		"text": "Service Pack 1 for SQL Server 2014 upgraded all SQL Server 2014 instances and components installed through the SQL Server setup.  Service Pack 1 can upgrade all editions of SQL Server 2014 to Service Pack 1 level. For customers in need of additional installation options, please visit the Microsoft Download Center and download the Service Pack 1 SQL Server 2014. To learn more about SQL Server 2014 SP1 please visit the Microsoft Support (http://support.microsoft.com) Knowledge Base article KB 3058865."
+	}
 }

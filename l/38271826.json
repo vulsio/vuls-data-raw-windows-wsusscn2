@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 1 for Microsoft System Center 2022 - Orchestrator Web API (x64) (KB5021420)"
-  },
-  "description": {
-    "text": "This update fixes the problems described in KB article 5021420"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 1 for Microsoft System Center 2022 - Orchestrator Web API (x64) (KB5021420)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 5021420"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003"
-  },
-  "description": {
-    "text": "Microsoft .NET Framework 1.1 Service Pack 1 resolves various issues found after the initial release of .NET Framework 1.1. These include both security- and non-security-related issues. After you install this item, you may have to restart your computer."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003"
+	},
+	"description": {
+		"text": "Microsoft .NET Framework 1.1 Service Pack 1 resolves various issues found after the initial release of .NET Framework 1.1. These include both security- and non-security-related issues. After you install this item, you may have to restart your computer."
+	}
 }

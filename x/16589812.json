@@ -1,15 +1,15 @@
 {
-  "defaultpropertieslanguage": "en",
-  "maxdownloadsize": "0",
-  "mindownloadsize": "0",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://go.microsoft.com/fwlink/?LinkId=201500"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "2963850"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"maxdownloadsize": "0",
+	"mindownloadsize": "0",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://go.microsoft.com/fwlink/?LinkId=201500"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "2963850"
+	},
+	"uninstallationbehavior": {}
 }

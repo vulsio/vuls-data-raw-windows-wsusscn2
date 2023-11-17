@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4562053)"
-  },
-  "description": {
-    "text": "An elevation of privilege vulnerability exists when the Diagnostics Hub Standard Collector or the Visual Studio Standard Collector fails to properly handle objects in memory. An attacker who successfully exploited this vulnerability could run processes in an elevated context."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security update for the Diagnostic Hub Standard Collector elevation of privilege vulnerability in Visual Studio 2015 Update 3 (KB4562053)"
+	},
+	"description": {
+		"text": "An elevation of privilege vulnerability exists when the Diagnostics Hub Standard Collector or the Visual Studio Standard Collector fails to properly handle objects in memory. An attacker who successfully exploited this vulnerability could run processes in an elevated context."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "\n          Update Rollup 4 for Microsoft System Center 2016 - Operations Manager WebConsole (KB4024941)\n        "
-  },
-  "description": {
-    "text": "\n          This updates resolves problems described in  KB4024941\n        "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "\n          Update Rollup 4 for Microsoft System Center 2016 - Operations Manager WebConsole (KB4024941)\n        "
+	},
+	"description": {
+		"text": "\n          This updates resolves problems described in  KB4024941\n        "
+	}
 }

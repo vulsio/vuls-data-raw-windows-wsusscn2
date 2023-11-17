@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows Internet Explorer 7 for Windows XP"
-  },
-  "description": {
-    "text": "This free upgrade to Internet Explorer customers offers improvements such as enhanced security, a cleaner look, and features to make everyday tasks such as printing and searching the web easier. This upgrade preserves your current home page, search settings, favorites, and compatible toolbars, and can be uninstalled if you decide to do so."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows Internet Explorer 7 for Windows XP"
+	},
+	"description": {
+		"text": "This free upgrade to Internet Explorer customers offers improvements such as enhanced security, a cleaner look, and features to make everyday tasks such as printing and searching the web easier. This upgrade preserves your current home page, search settings, favorites, and compatible toolbars, and can be uninstalled if you decide to do so."
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Word Viewer (KB2345009)"
-  },
-  "description": {
-    "text": "This update resolves a vulnerability, that exists in Microsoft Office 2003, that could allow arbitrary code to run when a maliciously modified file is opened."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Word Viewer (KB2345009)"
+	},
+	"description": {
+		"text": "This update resolves a vulnerability, that exists in Microsoft Office 2003, that could allow arbitrary code to run when a maliciously modified file is opened."
+	}
 }

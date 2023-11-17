@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows Internet Explorer 9 for Windows Server 2008"
-  },
-  "description": {
-    "text": "\n          Windows Internet Explorer 9 delivers web sites and applications that look and perform like native PC applications through the power of Windows.\n\n          Fast: Internet Explorer 9 is all-around fast.  Designed to take full advantage of your PC’s hardware through Windows, Internet Explorer 9 delivers graphically rich and immersive experiences that are as fast and responsive as native applications installed on your PC.\n\n          Clean: Internet Explorer puts the focus on the Web sites you love with a clean look and increased viewing area that makes your Web sites shine.  Intuitive and seamless integration with Windows Server 2008 provides one-click access to Web applications pinned directly to your Taskbar.\n\n          Trusted: Internet Explorer is the trusted way to the Web because it has a robust set of built-in security, privacy and reliability technologies that keep you safer and your browsing experience uninterrupted.\n\n          Interoperable: Support for HTML5 and modern Web standards architected to take advantage of the GPU means that the same mark-up not only works across the Web, but runs faster and delivers a richer experience through Windows and  Internet Explorer 9.\n        "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows Internet Explorer 9 for Windows Server 2008"
+	},
+	"description": {
+		"text": "\n          Windows Internet Explorer 9 delivers web sites and applications that look and perform like native PC applications through the power of Windows.\n\n          Fast: Internet Explorer 9 is all-around fast.  Designed to take full advantage of your PC’s hardware through Windows, Internet Explorer 9 delivers graphically rich and immersive experiences that are as fast and responsive as native applications installed on your PC.\n\n          Clean: Internet Explorer puts the focus on the Web sites you love with a clean look and increased viewing area that makes your Web sites shine.  Intuitive and seamless integration with Windows Server 2008 provides one-click access to Web applications pinned directly to your Taskbar.\n\n          Trusted: Internet Explorer is the trusted way to the Web because it has a robust set of built-in security, privacy and reliability technologies that keep you safer and your browsing experience uninterrupted.\n\n          Interoperable: Support for HTML5 and modern Web standards architected to take advantage of the GPU means that the same mark-up not only works across the Web, but runs faster and delivers a richer experience through Windows and  Internet Explorer 9.\n        "
+	}
 }

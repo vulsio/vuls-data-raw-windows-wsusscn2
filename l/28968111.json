@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for SQL Server 2017 RTM GDR (KB4494351)"
-  },
-  "description": {
-    "text": "An information disclosure vulnerability exists in Microsoft SQL Server Analysis Services if it incorrectly enforces metadata permissions. An attacker could exploit the vulnerability if the attacker's credentials allow access to an affected Analysis Services database.  This security update fixes a potential leak of restricted data that is not protected correctly by the Object-Level Security (OLS) system in SQL Server Analysis Services."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for SQL Server 2017 RTM GDR (KB4494351)"
+	},
+	"description": {
+		"text": "An information disclosure vulnerability exists in Microsoft SQL Server Analysis Services if it incorrectly enforces metadata permissions. An attacker could exploit the vulnerability if the attacker's credentials allow access to an affected Analysis Services database.  This security update fixes a potential leak of restricted data that is not protected correctly by the Object-Level Security (OLS) system in SQL Server Analysis Services."
+	}
 }

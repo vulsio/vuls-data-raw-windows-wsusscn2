@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows Vista for x64-based Systems (KB957095)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an authenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer. This update is provided to you and licensed under the Windows Vista License Terms."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows Vista for x64-based Systems (KB957095)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an authenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer. This update is provided to you and licensed under the Windows Vista License Terms."
+	}
 }

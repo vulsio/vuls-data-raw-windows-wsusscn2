@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "2023-07 .NET 6.0.20 Security Update for x64 Server (KB5028705)"
-  },
-  "description": {
-    "text": "2023-07 .NET 6.0.20 Security Update for x64 Server (KB5028705)"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2023-07 .NET 6.0.20 Security Update for x64 Server (KB5028705)"
+	},
+	"description": {
+		"text": "2023-07 .NET 6.0.20 Security Update for x64 Server (KB5028705)"
+	}
 }

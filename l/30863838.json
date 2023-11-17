@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for SQL Server 2016 Service Pack 2 CU (KB4535706)"
-  },
-  "description": {
-    "text": "First Security Vulnerability fix:\nA remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker who successfully exploited this vulnerability could execute code in the context of the Report Server service account.\nThe security update addresses the vulnerability by modifying how the Microsoft SQL Server Reporting Services handles page requests.\n\nSecond Security Vulnerability fix:\nA cross-site scripting (XSS) vulnerability exists when Microsoft SQL Server Reporting Services (SSRS) does not properly sanitize a specially-crafted web request to an affected SSRS server. An attacker who successfully exploited the vulnerability could run scripts in the context of the targeted user. The attacks could allow the attacker to read content that the attacker is not authorized to read, execute malicious code, and use the victim's identity to take actions on the site on behalf of the user, such as change permissions and delete content.\nThe security update addresses the vulnerability by correcting SSRS URL sanitization."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for SQL Server 2016 Service Pack 2 CU (KB4535706)"
+	},
+	"description": {
+		"text": "First Security Vulnerability fix:\nA remote code execution vulnerability exists in Microsoft SQL Server Reporting Services when it incorrectly handles page requests. An attacker who successfully exploited this vulnerability could execute code in the context of the Report Server service account.\nThe security update addresses the vulnerability by modifying how the Microsoft SQL Server Reporting Services handles page requests.\n\nSecond Security Vulnerability fix:\nA cross-site scripting (XSS) vulnerability exists when Microsoft SQL Server Reporting Services (SSRS) does not properly sanitize a specially-crafted web request to an affected SSRS server. An attacker who successfully exploited the vulnerability could run scripts in the context of the targeted user. The attacks could allow the attacker to read content that the attacker is not authorized to read, execute malicious code, and use the victim's identity to take actions on the site on behalf of the user, such as change permissions and delete content.\nThe security update addresses the vulnerability by correcting SSRS URL sanitization."
+	}
 }

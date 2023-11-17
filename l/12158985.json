@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office 2007 suites (KB2596804)  "
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office 2007 suites  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office 2007 suites (KB2596804)  "
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office 2007 suites  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }

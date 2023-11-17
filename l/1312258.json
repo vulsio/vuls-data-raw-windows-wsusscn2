@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Windows Server 2008 x64 Edition (KB950762)"
-  },
-  "description": {
-    "text": "A security issue has been identified that could allow an unauthenticated, remote attacker to cause the affected system to stop responding. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer. This update is provided to you and licensed under the Windows Server 2008 License Terms."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Windows Server 2008 x64 Edition (KB950762)"
+	},
+	"description": {
+		"text": "A security issue has been identified that could allow an unauthenticated, remote attacker to cause the affected system to stop responding. You can help protect your computer by installing this update from Microsoft. After you install this item, you may have to restart your computer. This update is provided to you and licensed under the Windows Server 2008 License Terms."
+	}
 }

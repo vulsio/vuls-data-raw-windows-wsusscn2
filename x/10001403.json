@@ -1,13 +1,13 @@
 {
-  "defaultpropertieslanguage": "en",
-  "isbeta": "false",
-  "installationbehavior": {},
-  "supporturl": {
-    "text": "http://suppport.microsoft.com/kb/2900542"
-  },
-  "securitybulletinid": {},
-  "kbarticleid": {
-    "text": "2900542"
-  },
-  "uninstallationbehavior": {}
+	"defaultpropertieslanguage": "en",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://suppport.microsoft.com/kb/2900542"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "2900542"
+	},
+	"uninstallationbehavior": {}
 }

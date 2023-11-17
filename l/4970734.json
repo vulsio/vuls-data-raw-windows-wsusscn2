@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Office Communications Server 2007 R2, Core Components (KB 2404575)"
-  },
-  "description": {
-    "text": "This package fixes issues described in KB Article 2404575."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Office Communications Server 2007 R2, Core Components (KB 2404575)"
+	},
+	"description": {
+		"text": "This package fixes issues described in KB Article 2404575."
+	}
 }

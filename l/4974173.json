@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update for Lync Server 2010, Core Components (KB 2571545)"
-  },
-  "description": {
-    "text": "This Package fixes some issues described in KB Article 2571545"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update for Lync Server 2010, Core Components (KB 2571545)"
+	},
+	"description": {
+		"text": "This Package fixes some issues described in KB Article 2571545"
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 9 for Microsoft System Center 2016 - Operations Manager ACS (KB4546986)\n        "
-  },
-  "description": {
-    "text": "\n          This updates resolves problems described in KB4546986\n        "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 9 for Microsoft System Center 2016 - Operations Manager ACS (KB4546986)\n        "
+	},
+	"description": {
+		"text": "\n          This updates resolves problems described in KB4546986\n        "
+	}
 }

@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Windows SharePoint Services 3.0 Service Pack 2 for x64 Edition (KB953338)"
-  },
-  "description": {
-    "text": "Windows SharePoint Services 3.0 Service Pack 2 for x64 Edition (KB953338) provides the latest updates to Windows SharePoint Services 3.0 x64 Edition. After you install this item, you may have to restart your computer. After you have installed this item, it cannot be removed."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Windows SharePoint Services 3.0 Service Pack 2 for x64 Edition (KB953338)"
+	},
+	"description": {
+		"text": "Windows SharePoint Services 3.0 Service Pack 2 for x64 Edition (KB953338) provides the latest updates to Windows SharePoint Services 3.0 x64 Edition. After you install this item, you may have to restart your computer. After you have installed this item, it cannot be removed."
+	}
 }

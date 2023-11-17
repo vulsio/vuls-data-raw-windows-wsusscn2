@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Office XP Service Pack 3 "
-  },
-  "description": {
-    "text": "Office XP Service Pack 3 (SP3) provides the latest updates to Microsoft Office XP. SP3 contains significant security enhancements, as well as stability and performance improvements.  This service pack applies to any level of Office XP. It contains all updates included in SP1 and SP2, in addition to updates released after SP2. SP3 applies to the following Office XP products: Word 2002, Excel 2002, Outlook 2002, PowerPoint 2002, Access 2002, FrontPage 2002, Publisher 2002, and Office XP Web Components."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Office XP Service Pack 3 "
+	},
+	"description": {
+		"text": "Office XP Service Pack 3 (SP3) provides the latest updates to Microsoft Office XP. SP3 contains significant security enhancements, as well as stability and performance improvements.  This service pack applies to any level of Office XP. It contains all updates included in SP1 and SP2, in addition to updates released after SP2. SP3 applies to the following Office XP products: Word 2002, Excel 2002, Outlook 2002, PowerPoint 2002, Access 2002, FrontPage 2002, Publisher 2002, and Office XP Web Components."
+	}
 }

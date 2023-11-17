@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Publisher 2002 (KB894541)"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Publisher 2002 that could allow arbitrary code to run when you open a maliciously modified document. This update resolves the vulnerability so that Publisher 2002 documents are handled appropriately. "
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Publisher 2002 (KB894541)"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Publisher 2002 that could allow arbitrary code to run when you open a maliciously modified document. This update resolves the vulnerability so that Publisher 2002 documents are handled appropriately. "
+	}
 }

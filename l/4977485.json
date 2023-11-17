@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Microsoft Office Accounting 2008 UK Service Pack 1 (KB949426)"
-  },
-  "description": {
-    "text": "Service Pack 1 for Office Accounting 2008 for the United Kingdom provides the latest updates to Microsoft Office Accounting 2008.  This service pack contains stability and performance enhancements for the United Kingdom."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Microsoft Office Accounting 2008 UK Service Pack 1 (KB949426)"
+	},
+	"description": {
+		"text": "Service Pack 1 for Office Accounting 2008 for the United Kingdom provides the latest updates to Microsoft Office Accounting 2008.  This service pack contains stability and performance enhancements for the United Kingdom."
+	}
 }

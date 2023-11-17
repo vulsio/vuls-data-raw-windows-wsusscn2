@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Update Rollup 3 for Microsoft System Center 2012 R2 - Operations Manager Web Console (KB2965445)"
-  },
-  "description": {
-    "text": "This updates resolves problems described in KB2965445"
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 3 for Microsoft System Center 2012 R2 - Operations Manager Web Console (KB2965445)"
+	},
+	"description": {
+		"text": "This updates resolves problems described in KB2965445"
+	}
 }

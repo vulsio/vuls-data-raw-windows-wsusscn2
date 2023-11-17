@@ -1,11 +1,11 @@
 {
-  "language": {
-    "text": "en"
-  },
-  "title": {
-    "text": "Security Update for Microsoft Office Online Server (KB5001999)  farm-deployment"
-  },
-  "description": {
-    "text": "A security vulnerability exists in Microsoft Office Online Server  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
-  }
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security Update for Microsoft Office Online Server (KB5001999)  farm-deployment"
+	},
+	"description": {
+		"text": "A security vulnerability exists in Microsoft Office Online Server  that could allow arbitrary code to run when a maliciously modified file is opened. This update resolves that vulnerability."
+	}
 }
