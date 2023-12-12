@@ -1,0 +1,28 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/kb/5029365"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5029365"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2023-36796"
+		},
+		{
+			"text": "CVE-2023-36792"
+		},
+		{
+			"text": "CVE-2023-36794"
+		},
+		{
+			"text": "CVE-2023-36793"
+		}
+	]
+}

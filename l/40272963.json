@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Update Rollup 2 for Microsoft System Center 2022 - Virtual Machine Manager Guest Agent(KB5032371)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 5032368."
+	}
+}

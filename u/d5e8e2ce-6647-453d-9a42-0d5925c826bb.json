@@ -1,8 +1,8 @@
 {
-	"creationdate": "2023-11-13T22:42:51Z",
+	"creationdate": "2023-11-30T19:14:02Z",
 	"defaultlanguage": "en",
 	"updateid": "d5e8e2ce-6647-453d-9a42-0d5925c826bb",
-	"revisionid": "40122822",
+	"revisionid": "40229369",
 	"isleaf": "true",
 	"isbundle": "true",
 	"categories": {
@@ -26,5 +26,11 @@
 		]
 	},
 	"languages": {},
-	"supersededby": {}
+	"supersededby": {
+		"revision": [
+			{
+				"id": "40275965"
+			}
+		]
+	}
 }

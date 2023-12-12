@@ -2,7 +2,7 @@
 	"creationdate": "2023-11-13T21:03:28Z",
 	"defaultlanguage": "en",
 	"updateid": "9c751ce9-bd53-4e94-9df8-7baa025d3c36",
-	"revisionid": "98",
+	"revisionid": "113",
 	"isbundle": "true",
 	"categories": {
 		"category": [
@@ -25,5 +25,11 @@
 		]
 	},
 	"languages": {},
-	"supersededby": {}
+	"supersededby": {
+		"revision": [
+			{
+				"id": "118"
+			}
+		]
+	}
 }

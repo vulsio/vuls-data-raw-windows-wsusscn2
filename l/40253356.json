@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Azure File Sync Agent v17.0 Release – December 2023 (KB5023053)"
+	},
+	"description": {
+		"text": "Update for Azure File Sync agent (version 17.0.0.0). For more details, see the associated Microsoft Knowledge Base article."
+	}
+}
