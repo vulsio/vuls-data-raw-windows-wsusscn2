@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "2023-11 Cumulative Update for Microsoft server operating system version 23H2 for x64-based Systems (KB5032202)"
+	},
+	"description": {
+		"text": "Install this update to resolve issues in Microsoft server operating system, version 23H2. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+	}
+}
