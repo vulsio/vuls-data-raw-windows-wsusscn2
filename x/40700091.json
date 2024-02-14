@@ -1,0 +1,19 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/5023052"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5023052"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-21397"
+		}
+	]
+}

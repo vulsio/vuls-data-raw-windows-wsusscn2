@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Azure File Sync Agent v17.1 Release – February 2024 (KB5023054)"
+	},
+	"description": {
+		"text": "Security update for Azure File Sync agent (version 17.1.0.0). For more details, see the associated Microsoft Knowledge Base article."
+	}
+}

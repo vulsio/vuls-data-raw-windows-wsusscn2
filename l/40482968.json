@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Hotfix for Update Rollup 2 for Microsoft Azure Backup Server V3 - Data Protection Manager (KB5031799)"
+	},
+	"description": {
+		"text": "This update fixes the problems described in KB article 5031799."
+	}
+}

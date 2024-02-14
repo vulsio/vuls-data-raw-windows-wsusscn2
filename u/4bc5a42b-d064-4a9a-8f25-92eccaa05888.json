@@ -2,7 +2,7 @@
 	"creationdate": "2023-07-10T19:44:11Z",
 	"defaultlanguage": "en",
 	"updateid": "4bc5a42b-d064-4a9a-8f25-92eccaa05888",
-	"revisionid": "100",
+	"revisionid": "38",
 	"isbundle": "true",
 	"categories": {
 		"category": [
@@ -28,22 +28,25 @@
 	"supersededby": {
 		"revision": [
 			{
-				"id": "118"
-			},
-			{
-				"id": "59"
+				"id": "42"
 			},
 			{
 				"id": "107"
 			},
 			{
-				"id": "134"
+				"id": "97"
 			},
 			{
-				"id": "135"
+				"id": "131"
 			},
 			{
-				"id": "26"
+				"id": "143"
+			},
+			{
+				"id": "133"
+			},
+			{
+				"id": "94"
 			}
 		]
 	}
