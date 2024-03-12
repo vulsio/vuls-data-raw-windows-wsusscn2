@@ -1,0 +1,30 @@
+{
+	"creationdate": "2024-03-09T00:44:34Z",
+	"defaultlanguage": "en",
+	"updateid": "748c24d5-2f5a-4d54-a19c-3c21dbfcb49f",
+	"revisionid": "40843145",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "UpdateClassification",
+				"id": "0fa1201d-4330-4fa8-8ae9-b877473b6441"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "71718f13-7324-4b0f-8f9e-2ca9dc978e53"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {}
+}
