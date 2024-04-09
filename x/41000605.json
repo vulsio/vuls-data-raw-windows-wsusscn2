@@ -1,0 +1,49 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://aka.ms/vs/admin/feedback"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5007364"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-28932"
+		},
+		{
+			"text": "CVE-2024-28937"
+		},
+		{
+			"text": "CVE-2024-28936"
+		},
+		{
+			"text": "CVE-2024-28934"
+		},
+		{
+			"text": "CVE-2024-28938"
+		},
+		{
+			"text": "CVE-2024-28935"
+		},
+		{
+			"text": "CVE-2024-28931"
+		},
+		{
+			"text": "CVE-2024-28929"
+		},
+		{
+			"text": "CVE-2024-28930"
+		},
+		{
+			"text": "CVE-2024-21409"
+		},
+		{
+			"text": "CVE-2024-28933"
+		}
+	]
+}

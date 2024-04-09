@@ -1,0 +1,91 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5037573"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-28906"
+		},
+		{
+			"text": "CVE-2024-28908"
+		},
+		{
+			"text": "CVE-2024-28909"
+		},
+		{
+			"text": "CVE-2024-28910"
+		},
+		{
+			"text": "CVE-2024-28911"
+		},
+		{
+			"text": "CVE-2024-28912"
+		},
+		{
+			"text": "CVE-2024-28913"
+		},
+		{
+			"text": "CVE-2024-28914"
+		},
+		{
+			"text": "CVE-2024-28915"
+		},
+		{
+			"text": "CVE-2024-28926"
+		},
+		{
+			"text": "CVE-2024-28927"
+		},
+		{
+			"text": "CVE-2024-28939"
+		},
+		{
+			"text": "CVE-2024-28940"
+		},
+		{
+			"text": "CVE-2024-28942"
+		},
+		{
+			"text": "CVE-2024-28944"
+		},
+		{
+			"text": "CVE-2024-28945"
+		},
+		{
+			"text": "CVE-2024-29044"
+		},
+		{
+			"text": "CVE-2024-29045"
+		},
+		{
+			"text": "CVE-2024-29046"
+		},
+		{
+			"text": "CVE-2024-29047"
+		},
+		{
+			"text": "CVE-2024-29048"
+		},
+		{
+			"text": "CVE-2024-29982"
+		},
+		{
+			"text": "CVE-2024-29983"
+		},
+		{
+			"text": "CVE-2024-29984"
+		},
+		{
+			"text": "CVE-2024-29985"
+		}
+	]
+}
