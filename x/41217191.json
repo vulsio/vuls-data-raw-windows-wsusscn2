@@ -1,0 +1,25 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://go.microsoft.com/fwlink/?linkid=2181179&amp;clcid=0x409"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5038352"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-20672"
+		},
+		{
+			"text": "CVE-2024-30046"
+		},
+		{
+			"text": "CVE-2024-30045"
+		}
+	]
+}

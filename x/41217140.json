@@ -1,0 +1,28 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://aka.ms/vs/admin/feedback"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5007364"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-32002"
+		},
+		{
+			"text": "CVE-2024-30046"
+		},
+		{
+			"text": "CVE-2024-32004"
+		},
+		{
+			"text": "CVE-2024-34005"
+		}
+	]
+}
