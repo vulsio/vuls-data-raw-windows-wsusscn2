@@ -1,5 +1,6 @@
 {
 	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Critical",
 	"browseonly": "false",
 	"installationbehavior": {},
 	"language": [
@@ -12,7 +13,7 @@
 	},
 	"securitybulletinid": {},
 	"kbarticleid": {
-		"text": "5026372"
+		"text": "5032202"
 	},
 	"uninstallationbehavior": {}
 }
