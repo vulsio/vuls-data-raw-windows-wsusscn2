@@ -1,0 +1,19 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "http://support.microsoft.com/kb/5039814"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5039814"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-35253"
+		}
+	]
+}

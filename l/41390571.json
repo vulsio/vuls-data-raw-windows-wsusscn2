@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Azure File Sync Agent v18.1 Release – June 2024 (KB5023058)"
+	},
+	"description": {
+		"text": "Security Update for Azure File Sync agent (version 18.1.0.0). For more details, see the associated Microsoft Knowledge Base article."
+	}
+}
