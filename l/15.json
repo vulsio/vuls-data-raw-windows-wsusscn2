@@ -3,9 +3,9 @@
 		"text": "en"
 	},
 	"title": {
-		"text": "2024-01 Cumulative Update for Microsoft server operating system version 23H2 for x64-based Systems (KB5034130)"
+		"text": "2023-07 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5028185)"
 	},
 	"description": {
-		"text": "Install this update to resolve issues in Microsoft server operating system, version 23H2. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
+		"text": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer."
 	}
 }
