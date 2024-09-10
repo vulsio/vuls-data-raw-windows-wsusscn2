@@ -1,0 +1,66 @@
+{
+	"creationdate": "2024-09-02T13:48:07Z",
+	"defaultlanguage": "en",
+	"updateid": "69ce6f6a-41e8-4103-b93d-ff8030bd246b",
+	"revisionid": "41875325",
+	"isleaf": "true",
+	"isbundle": "true",
+	"categories": {
+		"category": [
+			{
+				"type": "Product",
+				"id": "21210d67-50bc-4254-a695-281765e10665"
+			},
+			{
+				"type": "UpdateClassification",
+				"id": "28bc880e-0592-4cbf-8f95-c79b17911d5f"
+			},
+			{
+				"type": "Company",
+				"id": "56309036-4c77-4dd9-951a-99ee9c246a94"
+			},
+			{
+				"type": "Product",
+				"id": "569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5"
+			},
+			{
+				"type": "Product",
+				"id": "6407468e-edc7-4ecd-8c32-521f64cee65e"
+			},
+			{
+				"type": "ProductFamily",
+				"id": "6964aab4-c5b5-43bd-a17d-ffb4346a8e1d"
+			},
+			{
+				"type": "Product",
+				"id": "72e7624a-5b00-45d2-b92f-e561c0a6a160"
+			},
+			{
+				"type": "Product",
+				"id": "a105a108-7c9b-4518-bbbe-73f0fe30012b"
+			},
+			{
+				"type": "Product",
+				"id": "a3c2375d-0c8a-42f9-bce0-28333e198407"
+			},
+			{
+				"type": "Product",
+				"id": "b3c75dc1-155f-4be4-b015-3f1a91758e52"
+			},
+			{
+				"type": "Product",
+				"id": "d2085b71-5f1f-43a9-880d-ed159016d5c6"
+			},
+			{
+				"type": "Product",
+				"id": "d31bd4c3-d872-41c9-a2e7-231f372588cb"
+			},
+			{
+				"type": "Product",
+				"id": "f702a48c-919b-45d6-9aef-ca4248d50397"
+			}
+		]
+	},
+	"languages": {},
+	"supersededby": {}
+}
