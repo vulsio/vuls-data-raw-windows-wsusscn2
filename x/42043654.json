@@ -1,0 +1,26 @@
+{
+	"defaultpropertieslanguage": "en",
+	"maxdownloadsize": "0",
+	"mindownloadsize": "0",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"language": [
+		{
+			"text": "en"
+		}
+	],
+	"supporturl": {
+		"text": "https://support.microsoft.com"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5046061"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2024-37341"
+		}
+	]
+}

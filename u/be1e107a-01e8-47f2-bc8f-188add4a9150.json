@@ -32,5 +32,11 @@
 			}
 		]
 	},
-	"supersededby": {}
+	"supersededby": {
+		"revision": [
+			{
+				"id": "42043646"
+			}
+		]
+	}
 }
