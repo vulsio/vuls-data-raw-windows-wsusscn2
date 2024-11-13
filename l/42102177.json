@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Security update for the Diagnostic Hub Standard Collector denial of service vulnerability in Visual Studio 2015 Update 3 (KB5045536)"
+	},
+	"description": {
+		"text": "Diagnostics Hub Standard Collector Denial of Service Vulnerability"
+	}
+}
