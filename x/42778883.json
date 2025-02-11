@@ -1,0 +1,25 @@
+{
+	"defaultpropertieslanguage": "en",
+	"msrcseverity": "Important",
+	"isbeta": "false",
+	"installationbehavior": {},
+	"supporturl": {
+		"text": "https://support.microsoft.com/kb/5049688"
+	},
+	"securitybulletinid": {},
+	"kbarticleid": {
+		"text": "5049688"
+	},
+	"uninstallationbehavior": {},
+	"cveid": [
+		{
+			"text": "CVE-2025-21176"
+		},
+		{
+			"text": "CVE-2025-21172"
+		},
+		{
+			"text": "CVE-2025-21178"
+		}
+	]
+}

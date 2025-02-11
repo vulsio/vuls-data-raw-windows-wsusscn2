@@ -1,0 +1,11 @@
+{
+	"language": {
+		"text": "en"
+	},
+	"title": {
+		"text": "Azure File Sync Agent v20.0 Release – February 2025 (KB5041884)"
+	},
+	"description": {
+		"text": "Update Rollup for Azure File Sync agent (version 20.0.0.0). For more details, see the associated Microsoft Knowledge Base article."
+	}
+}
